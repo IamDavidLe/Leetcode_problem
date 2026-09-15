@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Create LeetCode documentation and keep the repository progress index current.
 
-Use a directory named like ``0001-two-sum`` and add a Python source file inside
+Use a directory named like ``0001-two-sum`` and add a solution source file inside
 it. The first run creates its README and metadata file. The workflow also reads
 the configured public LeetCode profile; no account cookie or password is used.
 """
@@ -32,6 +32,25 @@ query userPublicProfile($username: String!) {
   }
 }
 """
+LANGUAGE_BY_EXTENSION = {
+    ".py": "Python",
+    ".cpp": "C++",
+    ".cc": "C++",
+    ".c": "C",
+    ".java": "Java",
+    ".js": "JavaScript",
+    ".ts": "TypeScript",
+    ".go": "Go",
+    ".rs": "Rust",
+    ".cs": "C#",
+    ".kt": "Kotlin",
+    ".swift": "Swift",
+    ".rb": "Ruby",
+    ".php": "PHP",
+    ".scala": "Scala",
+    ".sql": "SQL",
+    ".txt": "Text",
+}
 
 
 @dataclass(frozen=True)
@@ -59,13 +78,15 @@ class Solution:
 
 
 def discover_solutions() -> list[Solution]:
-    """Find Python sources in directories named like ``0001-two-sum``.
+    """Find solution sources in directories named like ``0001-two-sum``.
 
     This supports both a hand-written ``solution.py`` and filenames produced by
     common LeetCode sync extensions, such as ``0001-two-sum.py``.
     """
     by_directory: dict[Path, Path] = {}
-    for source_file in ROOT.rglob("*.py"):
+    for source_file in ROOT.rglob("*"):
+        if not source_file.is_file() or source_file.suffix.lower() not in LANGUAGE_BY_EXTENSION:
+            continue
         relative_parts = source_file.relative_to(ROOT).parts
         if any(part in EXCLUDED_DIRECTORIES for part in relative_parts):
             continue
@@ -99,7 +120,7 @@ def default_metadata(solution: Solution) -> dict[str, object]:
         "title": solution.title,
         "slug": solution.slug,
         "difficulty": "Unknown",
-        "language": "Python",
+        "language": LANGUAGE_BY_EXTENSION[solution.source_file.suffix.lower()],
         "leetcode_url": solution.url,
     }
 
@@ -241,7 +262,7 @@ def main() -> None:
     for solution in solutions:
         write_problem_files(solution)
     update_root_readme(solutions, fetch_public_profile(os.environ.get("LEETCODE_USERNAME")))
-    print(f"Processed {len(solutions)} Python solution(s).")
+    print(f"Processed {len(solutions)} solution(s).")
 
 
 if __name__ == "__main__":
