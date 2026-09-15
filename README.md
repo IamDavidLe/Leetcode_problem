@@ -1,9 +1,14 @@
 # Leetcode_problem
 
 <!-- leetcode-progress:start -->
-## LeetCode Progress
+## LeetCode Profile
 
-**Solved: 0**
+[JiaPark](https://leetcode.com/u/JiaPark/)
+**Public stats:** 74 solved — 23 Easy · 47 Medium · 4 Hard
+
+## Repository Progress
+
+**Solutions in this repository: 0**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |

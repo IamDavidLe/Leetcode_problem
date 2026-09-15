@@ -4,9 +4,12 @@ on:
   push:
     paths:
       - "**/*.py"
+      - "**/metadata.json"
       - ".github/workflows/leetcode.yml"
       - ".github/scripts/process_leetcode.py"
   workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
 
 permissions:
   contents: write
@@ -33,6 +36,8 @@ jobs:
           python-version: "3.12"
 
       - name: Generate solution documentation and progress index
+        env:
+          LEETCODE_USERNAME: JiaPark
         run: python .github/scripts/process_leetcode.py
 
       - name: Commit generated files
