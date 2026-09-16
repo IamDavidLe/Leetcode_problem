@@ -23,6 +23,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PROBLEMS_ROOT = ROOT / "Problems"
 USERNAME = os.environ.get("LEETCODE_USERNAME", "JiaPark")
 PAGE_SIZE = 20
+SOLVED_QUESTIONS_PAGE_SIZE = 50
 EXTENSION_BY_LANGUAGE = {
     "python": ".py", "python3": ".py", "c++": ".cpp", "cpp": ".cpp",
     "c": ".c", "java": ".java", "javascript": ".js", "typescript": ".ts",
@@ -43,6 +44,7 @@ query submissionDetails($submissionId: Int!) {
 SOLVED_QUESTIONS_QUERY = """
 query userProgressQuestionList($filters: UserProgressQuestionListInput) {
   userProgressQuestionList(filters: $filters) {
+    totalNum
     questions { frontendId titleSlug }
   }
 }
@@ -122,19 +124,42 @@ def get_submission_detail(submission_id: int) -> dict[str, object]:
 def latest_accepted_submissions() -> dict[str, dict[str, object]]:
     """Collect the newest accepted submission for every solved question."""
     accepted: dict[str, dict[str, object]] = {}
-    progress = graphql(
-        SOLVED_QUESTIONS_QUERY,
-        {"filters": {"questionStatus": "SOLVED", "skip": 0, "limit": 4000}},
-        "userProgressQuestionList",
-    ).get("userProgressQuestionList")
-    questions = progress.get("questions", []) if isinstance(progress, dict) else []
-    if not isinstance(questions, list):
-        raise SystemExit("LeetCode returned an unexpected solved-questions response.")
+    questions_by_slug: dict[str, dict[str, object]] = {}
+    skip = 0
+    total = None
 
-    for question in questions:
-        if not isinstance(question, dict) or not isinstance(question.get("titleSlug"), str):
-            continue
-        slug = question["titleSlug"]
+    # LeetCode caps a single response, even when a much larger limit is
+    # requested. Fetching successive pages keeps older accepted solutions from
+    # being silently omitted.
+    while total is None or skip < total:
+        progress = graphql(
+            SOLVED_QUESTIONS_QUERY,
+            {"filters": {"questionStatus": "SOLVED", "skip": skip, "limit": SOLVED_QUESTIONS_PAGE_SIZE}},
+            "userProgressQuestionList",
+        ).get("userProgressQuestionList")
+        if not isinstance(progress, dict):
+            raise SystemExit("LeetCode returned an unexpected solved-questions response.")
+
+        questions = progress.get("questions", [])
+        if not isinstance(questions, list):
+            raise SystemExit("LeetCode returned an unexpected solved-questions response.")
+        try:
+            total = int(progress.get("totalNum"))
+        except (TypeError, ValueError):
+            total = skip + len(questions)
+
+        if not questions:
+            break
+        for question in questions:
+            if isinstance(question, dict) and isinstance(question.get("titleSlug"), str):
+                questions_by_slug[question["titleSlug"]] = question
+
+        next_skip = skip + len(questions)
+        if next_skip <= skip:
+            break
+        skip = next_skip
+
+    for slug, question in questions_by_slug.items():
         submission_list = graphql(
             QUESTION_SUBMISSIONS_QUERY,
             {"offset": 0, "limit": 1, "lastKey": None, "questionSlug": slug, "lang": None, "status": 10},
