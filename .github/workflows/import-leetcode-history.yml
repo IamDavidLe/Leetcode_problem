@@ -1,6 +1,10 @@
 name: Import LeetCode History
 
 on:
+  push:
+    paths:
+      - "scripts/import_leetcode_history.py"
+      - ".github/workflows/import-leetcode-history.yml"
   workflow_dispatch:
 
 permissions:
