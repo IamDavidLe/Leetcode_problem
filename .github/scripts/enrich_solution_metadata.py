@@ -10,7 +10,7 @@ from urllib.request import Request, urlopen
 
 
 ROOT = Path.cwd()
-PROBLEMS_ROOT = ROOT / "Problems"
+LEETCODE_ROOT = ROOT / "LeetCode"
 QUESTION_QUERY = """
 query questionData($titleSlug: String!) {
   question(titleSlug: $titleSlug) { difficulty }
@@ -103,7 +103,10 @@ def update_solution(directory: Path, time_complexity: str, space_complexity: str
     metadata_path = directory / "metadata.json"
     metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
     slug = str(metadata["slug"])
-    metadata["difficulty"] = difficulty(slug)
+    # Keep a previously verified value so a temporary LeetCode outage does not
+    # prevent documentation from being refreshed after files are reorganized.
+    if metadata.get("difficulty") not in {"Easy", "Medium", "Hard"}:
+        metadata["difficulty"] = difficulty(slug)
     metadata["time_complexity"] = time_complexity
     metadata["space_complexity"] = space_complexity
     metadata_path.write_text(json.dumps(metadata, indent=2) + "\n", encoding="utf-8")
@@ -112,6 +115,12 @@ def update_solution(directory: Path, time_complexity: str, space_complexity: str
     number = int(metadata["problem_number"])
     language = str(metadata["language"])
     url = str(metadata["leetcode_url"])
+    source_file = directory / "solution.py"
+    if not source_file.exists():
+        source_file = next(
+            (path for path in sorted(directory.iterdir()) if path.suffix == ".py"),
+            source_file,
+        )
     problem_readme = f"""# {number}. {title}
 
 - Difficulty: {metadata['difficulty']}
@@ -120,7 +129,7 @@ def update_solution(directory: Path, time_complexity: str, space_complexity: str
 
 ## Solution
 
-See [solution.py](solution.py).
+See [{source_file.name}]({source_file.name}).
 
 ## Complexity
 
@@ -132,7 +141,13 @@ See [solution.py](solution.py).
 
 def main() -> None:
     for index, (name, complexity) in enumerate(COMPLEXITIES.items(), start=1):
-        update_solution(PROBLEMS_ROOT / name, *complexity)
+        directory = next(
+            (path for path in LEETCODE_ROOT.rglob(name) if path.is_dir()), None
+        )
+        if directory is None:
+            print(f"Skipping {index}/{len(COMPLEXITIES)}: {name} was not found")
+            continue
+        update_solution(directory, *complexity)
         print(f"Updated {index}/{len(COMPLEXITIES)}: {name}")
         time.sleep(0.1)
 

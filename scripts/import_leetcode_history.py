@@ -20,7 +20,7 @@ from urllib.request import Request, urlopen
 
 
 ROOT = Path(__file__).resolve().parents[1]
-PROBLEMS_ROOT = ROOT / "Problems"
+LEETCODE_ROOT = ROOT / "LeetCode"
 USERNAME = os.environ.get("LEETCODE_USERNAME", "JiaPark")
 PAGE_SIZE = 20
 SOLVED_QUESTIONS_PAGE_SIZE = 50
@@ -37,7 +37,7 @@ query submissionDetails($submissionId: Int!) {
   submissionDetails(submissionId: $submissionId) {
     code
     lang { name }
-    question { questionId }
+    question { questionId difficulty }
   }
 }
 """
@@ -179,14 +179,35 @@ def save_submission(slug: str, submission: dict[str, object]) -> bool:
         print(f"Skipping {slug}: submission id was unavailable.")
         return False
 
-    detail = get_submission_detail(submission_number)
-    code = detail.get("code")
     try:
-        question = detail.get("question", {})
-        question_id = question.get("questionId") if isinstance(question, dict) else None
-        question_number = int(submission.get("question_id") or question_id)
+        question_number = int(submission.get("question_id"))
     except (TypeError, ValueError):
-        question_number = 0
+        print(f"Skipping {slug}: problem number was unavailable.")
+        return False
+
+    folder_name = f"{question_number:04d}-{slug}"
+    existing = next(
+        (path for path in LEETCODE_ROOT.rglob(folder_name) if path.is_dir()), None
+    )
+    if existing is not None:
+        print(f"Keeping existing {existing.relative_to(ROOT)}")
+        return False
+
+    try:
+        detail = get_submission_detail(submission_number)
+    except SystemExit as error:
+        if "HTTP 404" in str(error):
+            print(f"Skipping {slug}: LeetCode did not expose this historical submission.")
+            return False
+        raise
+
+    code = detail.get("code")
+    question = detail.get("question", {})
+    if isinstance(question, dict):
+        try:
+            question_number = int(question.get("questionId") or question_number)
+        except (TypeError, ValueError):
+            pass
     if not isinstance(code, str) or question_number <= 0:
         print(f"Skipping {slug}: source code or problem number was unavailable.")
         return False
@@ -197,10 +218,10 @@ def save_submission(slug: str, submission: dict[str, object]) -> bool:
         if isinstance(language_data, dict)
         else str(submission.get("lang", "text"))
     ).lower()
-    destination = PROBLEMS_ROOT / f"{question_number:04d}-{slug}" / f"solution{EXTENSION_BY_LANGUAGE.get(language, '.txt')}"
-    if destination.exists():
-        print(f"Keeping existing {destination.relative_to(ROOT)}")
-        return False
+    difficulty = str(question.get("difficulty", "Uncategorized")) if isinstance(question, dict) else "Uncategorized"
+    if difficulty not in {"Easy", "Medium", "Hard"}:
+        difficulty = "Uncategorized"
+    destination = LEETCODE_ROOT / difficulty / f"{question_number:04d}-{slug}" / f"solution{EXTENSION_BY_LANGUAGE.get(language, '.txt')}"
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_text(code, encoding="utf-8")
     print(f"Imported {destination.relative_to(ROOT)}")
