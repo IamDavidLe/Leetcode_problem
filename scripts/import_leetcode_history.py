@@ -160,11 +160,15 @@ def latest_accepted_submissions() -> dict[str, dict[str, object]]:
         skip = next_skip
 
     for slug, question in questions_by_slug.items():
-        submission_list = graphql(
-            QUESTION_SUBMISSIONS_QUERY,
-            {"offset": 0, "limit": 1, "lastKey": None, "questionSlug": slug, "lang": None, "status": 10},
-            "submissionList",
-        ).get("questionSubmissionList")
+        try:
+            submission_list = graphql(
+                QUESTION_SUBMISSIONS_QUERY,
+                {"offset": 0, "limit": 1, "lastKey": None, "questionSlug": slug, "lang": None, "status": 10},
+                "submissionList",
+            ).get("questionSubmissionList")
+        except SystemExit as error:
+            print(f"Skipping {slug}: could not read its submission list ({error}).")
+            continue
         submissions = submission_list.get("submissions", []) if isinstance(submission_list, dict) else []
         if isinstance(submissions, list) and submissions and isinstance(submissions[0], dict):
             accepted[slug] = {**submissions[0], "question_id": question.get("frontendId")}
@@ -196,10 +200,8 @@ def save_submission(slug: str, submission: dict[str, object]) -> bool:
     try:
         detail = get_submission_detail(submission_number)
     except SystemExit as error:
-        if "HTTP 404" in str(error):
-            print(f"Skipping {slug}: LeetCode did not expose this historical submission.")
-            return False
-        raise
+        print(f"Skipping {slug}: LeetCode did not expose this historical submission ({error}).")
+        return False
 
     code = detail.get("code")
     question = detail.get("question", {})
