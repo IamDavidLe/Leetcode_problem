@@ -1,0 +1,8 @@
+{
+  "problem_number": 2472,
+  "title": "Maximum Number of Non Overlapping Palindrome Substrings",
+  "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+  "difficulty": "Unknown",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/"
+}

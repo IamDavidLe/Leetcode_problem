@@ -8,7 +8,7 @@
 
 ## Repository Progress
 
-**Solutions in this repository: 60**
+**Solutions in this repository: 62**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -56,6 +56,7 @@
 | 230 | [Kth Smallest Element In A Bst](Problems/0230-kth-smallest-element-in-a-bst/) | Medium | Python |
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](Problems/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Python |
 | 238 | [Product Of Array Except Self](Problems/0238-product-of-array-except-self/) | Medium | Python |
+| 238 | [Product of Array Except Self](LeetCode/Medium/0238-product-of-array-except-self/) | Unknown | Python |
 | 279 | [Perfect Squares](Problems/0279-perfect-squares/) | Medium | Python |
 | 322 | [Coin Change](Problems/0322-coin-change/) | Medium | Python |
 | 560 | [Subarray Sum Equals K](Problems/0560-subarray-sum-equals-k/) | Medium | Python |
@@ -63,6 +64,7 @@
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](Problems/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2265 | [Count Nodes Equal To Average Of Subtree](Problems/2265-count-nodes-equal-to-average-of-subtree/) | Medium | Python |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](Problems/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | Python |
+| 2472 | [Maximum Number of Non Overlapping Palindrome Substrings](LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Unknown | Python |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](Problems/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
 | 3483 | [Unique 3 Digit Even Numbers](Problems/3483-unique-3-digit-even-numbers/) | Easy | Python |
 | 3842 | [Toggle Light Bulbs](Problems/3842-toggle-light-bulbs/) | Easy | Python |
