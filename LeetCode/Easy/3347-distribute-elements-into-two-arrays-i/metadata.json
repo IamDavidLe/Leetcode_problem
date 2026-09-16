@@ -2,7 +2,9 @@
   "problem_number": 3347,
   "title": "Distribute Elements Into Two Arrays I",
   "slug": "distribute-elements-into-two-arrays-i",
-  "difficulty": "Unknown",
+  "difficulty": "Easy",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/"
+  "leetcode_url": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n) for the returned arrays"
 }

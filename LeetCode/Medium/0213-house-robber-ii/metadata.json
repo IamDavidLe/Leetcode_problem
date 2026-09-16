@@ -2,7 +2,9 @@
   "problem_number": 213,
   "title": "House Robber Ii",
   "slug": "house-robber-ii",
-  "difficulty": "Unknown",
+  "difficulty": "Medium",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/house-robber-ii/"
+  "leetcode_url": "https://leetcode.com/problems/house-robber-ii/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n) for the two input slices"
 }

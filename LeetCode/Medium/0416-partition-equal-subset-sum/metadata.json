@@ -2,7 +2,9 @@
   "problem_number": 416,
   "title": "Partition Equal Subset Sum",
   "slug": "partition-equal-subset-sum",
-  "difficulty": "Unknown",
+  "difficulty": "Medium",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/partition-equal-subset-sum/"
+  "leetcode_url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+  "time_complexity": "O(n \u00b7 target)",
+  "space_complexity": "O(target)"
 }

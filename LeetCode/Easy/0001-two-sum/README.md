@@ -1,6 +1,6 @@
 # 1. Two Sum
 
-- Difficulty: Unknown
+- Difficulty: Easy
 - Language: Python
 - LeetCode: [Two Sum](https://leetcode.com/problems/two-sum/)
 
@@ -10,4 +10,5 @@ See [solution.py](solution.py).
 
 ## Complexity
 
-Add the time and space complexity for this solution here.
+- Time: O(n²)
+- Space: O(1)

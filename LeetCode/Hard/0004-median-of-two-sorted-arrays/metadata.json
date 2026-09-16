@@ -2,7 +2,9 @@
   "problem_number": 4,
   "title": "Median of Two Sorted Arrays",
   "slug": "median-of-two-sorted-arrays",
-  "difficulty": "Unknown",
+  "difficulty": "Hard",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+  "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+  "time_complexity": "O((m + n) log(m + n))",
+  "space_complexity": "O(m + n) for the merged copy"
 }

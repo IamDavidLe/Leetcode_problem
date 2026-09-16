@@ -1,6 +1,6 @@
 # 4. Median of Two Sorted Arrays
 
-- Difficulty: Unknown
+- Difficulty: Hard
 - Language: Python
 - LeetCode: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
@@ -10,4 +10,5 @@ See [solution.py](solution.py).
 
 ## Complexity
 
-Add the time and space complexity for this solution here.
+- Time: O((m + n) log(m + n))
+- Space: O(m + n) for the merged copy

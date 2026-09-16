@@ -1,6 +1,6 @@
 # 416. Partition Equal Subset Sum
 
-- Difficulty: Unknown
+- Difficulty: Medium
 - Language: Python
 - LeetCode: [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
@@ -10,4 +10,5 @@ See [solution.py](solution.py).
 
 ## Complexity
 
-Add the time and space complexity for this solution here.
+- Time: O(n · target)
+- Space: O(target)

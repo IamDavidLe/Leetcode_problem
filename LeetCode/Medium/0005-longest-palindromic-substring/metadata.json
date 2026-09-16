@@ -2,7 +2,9 @@
   "problem_number": 5,
   "title": "Longest Palindromic Substring",
   "slug": "longest-palindromic-substring",
-  "difficulty": "Unknown",
+  "difficulty": "Medium",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/longest-palindromic-substring/"
+  "leetcode_url": "https://leetcode.com/problems/longest-palindromic-substring/",
+  "time_complexity": "O(n\u00b2)",
+  "space_complexity": "O(1) auxiliary"
 }

@@ -2,7 +2,9 @@
   "problem_number": 91,
   "title": "Decode Ways",
   "slug": "decode-ways",
-  "difficulty": "Unknown",
+  "difficulty": "Medium",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/decode-ways/"
+  "leetcode_url": "https://leetcode.com/problems/decode-ways/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n) for memoization"
 }

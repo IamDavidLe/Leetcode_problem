@@ -1,6 +1,6 @@
 # 3705. Find the Largest Almost Missing Integer
 
-- Difficulty: Unknown
+- Difficulty: Easy
 - Language: Python
 - LeetCode: [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/)
 
@@ -10,4 +10,5 @@ See [solution.py](solution.py).
 
 ## Complexity
 
-Add the time and space complexity for this solution here.
+- Time: O(n²)
+- Space: O(n)

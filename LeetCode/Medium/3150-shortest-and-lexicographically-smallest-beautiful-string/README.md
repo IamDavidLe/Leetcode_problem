@@ -1,6 +1,6 @@
 # 3150. Shortest and Lexicographically Smallest Beautiful String
 
-- Difficulty: Unknown
+- Difficulty: Medium
 - Language: Python
 - LeetCode: [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/)
 
@@ -10,4 +10,5 @@ See [solution.py](solution.py).
 
 ## Complexity
 
-Add the time and space complexity for this solution here.
+- Time: O(n²)
+- Space: O(n) for temporary substrings

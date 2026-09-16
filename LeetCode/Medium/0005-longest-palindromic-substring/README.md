@@ -1,6 +1,6 @@
 # 5. Longest Palindromic Substring
 
-- Difficulty: Unknown
+- Difficulty: Medium
 - Language: Python
 - LeetCode: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
@@ -10,4 +10,5 @@ See [solution.py](solution.py).
 
 ## Complexity
 
-Add the time and space complexity for this solution here.
+- Time: O(n²)
+- Space: O(1) auxiliary

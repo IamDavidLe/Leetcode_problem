@@ -1,6 +1,6 @@
 # 2. Add Two Numbers
 
-- Difficulty: Unknown
+- Difficulty: Medium
 - Language: Python
 - LeetCode: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
@@ -10,4 +10,5 @@ See [solution.py](solution.py).
 
 ## Complexity
 
-Add the time and space complexity for this solution here.
+- Time: O(max(m, n))
+- Space: O(max(m, n)) for the returned list

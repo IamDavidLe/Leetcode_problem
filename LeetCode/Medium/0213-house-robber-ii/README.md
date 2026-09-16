@@ -1,6 +1,6 @@
 # 213. House Robber Ii
 
-- Difficulty: Unknown
+- Difficulty: Medium
 - Language: Python
 - LeetCode: [House Robber Ii](https://leetcode.com/problems/house-robber-ii/)
 
@@ -10,4 +10,5 @@ See [solution.py](solution.py).
 
 ## Complexity
 
-Add the time and space complexity for this solution here.
+- Time: O(n)
+- Space: O(n) for the two input slices

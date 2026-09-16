@@ -2,7 +2,9 @@
   "problem_number": 1,
   "title": "Two Sum",
   "slug": "two-sum",
-  "difficulty": "Unknown",
+  "difficulty": "Easy",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/two-sum/"
+  "leetcode_url": "https://leetcode.com/problems/two-sum/",
+  "time_complexity": "O(n\u00b2)",
+  "space_complexity": "O(1)"
 }

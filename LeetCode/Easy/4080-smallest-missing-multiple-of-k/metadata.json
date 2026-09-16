@@ -2,7 +2,9 @@
   "problem_number": 4080,
   "title": "Smallest Missing Multiple of K",
   "slug": "smallest-missing-multiple-of-k",
-  "difficulty": "Unknown",
+  "difficulty": "Easy",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/smallest-missing-multiple-of-k/"
+  "leetcode_url": "https://leetcode.com/problems/smallest-missing-multiple-of-k/",
+  "time_complexity": "O(n\u00b2)",
+  "space_complexity": "O(1)"
 }

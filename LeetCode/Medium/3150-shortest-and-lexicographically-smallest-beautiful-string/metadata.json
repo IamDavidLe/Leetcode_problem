@@ -2,7 +2,9 @@
   "problem_number": 3150,
   "title": "Shortest and Lexicographically Smallest Beautiful String",
   "slug": "shortest-and-lexicographically-smallest-beautiful-string",
-  "difficulty": "Unknown",
+  "difficulty": "Medium",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/"
+  "leetcode_url": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/",
+  "time_complexity": "O(n\u00b2)",
+  "space_complexity": "O(n) for temporary substrings"
 }

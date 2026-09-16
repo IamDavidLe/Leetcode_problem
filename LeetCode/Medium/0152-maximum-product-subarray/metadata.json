@@ -2,7 +2,9 @@
   "problem_number": 152,
   "title": "Maximum Product Subarray",
   "slug": "maximum-product-subarray",
-  "difficulty": "Unknown",
+  "difficulty": "Medium",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/maximum-product-subarray/"
+  "leetcode_url": "https://leetcode.com/problems/maximum-product-subarray/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
 }

@@ -1,6 +1,6 @@
 # 198. House Robber
 
-- Difficulty: Unknown
+- Difficulty: Medium
 - Language: Python
 - LeetCode: [House Robber](https://leetcode.com/problems/house-robber/)
 
@@ -10,4 +10,5 @@ See [solution.py](solution.py).
 
 ## Complexity
 
-Add the time and space complexity for this solution here.
+- Time: O(n)
+- Space: O(1) auxiliary; mutates the input

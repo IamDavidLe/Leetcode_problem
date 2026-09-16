@@ -2,7 +2,9 @@
   "problem_number": 198,
   "title": "House Robber",
   "slug": "house-robber",
-  "difficulty": "Unknown",
+  "difficulty": "Medium",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/house-robber/"
+  "leetcode_url": "https://leetcode.com/problems/house-robber/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1) auxiliary; mutates the input"
 }

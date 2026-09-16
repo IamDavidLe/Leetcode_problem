@@ -12,11 +12,11 @@
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
-| 1 | [Two Sum](LeetCode/Easy/0001-two-sum/) | Unknown | Python |
-| 2 | [Add Two Numbers](LeetCode/Medium/0002-add-two-numbers/) | Unknown | Python |
-| 3 | [Longest Substring Without Repeating Characters](LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Unknown | Python |
-| 4 | [Median of Two Sorted Arrays](LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Unknown | Python |
-| 5 | [Longest Palindromic Substring](LeetCode/Medium/0005-longest-palindromic-substring/) | Unknown | Python |
+| 1 | [Two Sum](LeetCode/Easy/0001-two-sum/) | Easy | Python |
+| 2 | [Add Two Numbers](LeetCode/Medium/0002-add-two-numbers/) | Medium | Python |
+| 3 | [Longest Substring Without Repeating Characters](LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium | Python |
+| 4 | [Median of Two Sorted Arrays](LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard | Python |
+| 5 | [Longest Palindromic Substring](LeetCode/Medium/0005-longest-palindromic-substring/) | Medium | Python |
 | 12 | [Integer To Roman](LeetCode/Medium/0012-integer-to-roman/) | Medium | Python |
 | 13 | [Roman To Integer](LeetCode/Easy/0013-roman-to-integer/) | Easy | Python |
 | 15 | [3Sum](LeetCode/Medium/0015-3sum/) | Medium | Python |
@@ -34,7 +34,7 @@
 | 62 | [Unique Paths](LeetCode/Medium/0062-unique-paths/) | Medium | Python |
 | 79 | [Word Search](LeetCode/Medium/0079-word-search/) | Medium | Python |
 | 82 | [Remove Duplicates From Sorted List Ii](LeetCode/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium | Python |
-| 91 | [Decode Ways](LeetCode/Medium/0091-decode-ways/) | Unknown | Python |
+| 91 | [Decode Ways](LeetCode/Medium/0091-decode-ways/) | Medium | Python |
 | 94 | [Binary Tree Inorder Traversal](LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy | Python |
 | 98 | [Validate Binary Search Tree](LeetCode/Medium/0098-validate-binary-search-tree/) | Medium | Python |
 | 100 | [Same Tree](LeetCode/Easy/0100-same-tree/) | Easy | Python |
@@ -54,30 +54,30 @@
 | 136 | [Single Number](LeetCode/Easy/0136-single-number/) | Easy | Python |
 | 144 | [Binary Tree Preorder Traversal](LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy | Python |
 | 145 | [Binary Tree Postorder Traversal](LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy | Python |
-| 152 | [Maximum Product Subarray](LeetCode/Medium/0152-maximum-product-subarray/) | Unknown | Python |
+| 152 | [Maximum Product Subarray](LeetCode/Medium/0152-maximum-product-subarray/) | Medium | Python |
 | 191 | [Number Of 1 Bits](LeetCode/Easy/0191-number-of-1-bits/) | Easy | Python |
-| 198 | [House Robber](LeetCode/Medium/0198-house-robber/) | Unknown | Python |
+| 198 | [House Robber](LeetCode/Medium/0198-house-robber/) | Medium | Python |
 | 199 | [Binary Tree Right Side View](LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium | Python |
 | 200 | [Number Of Islands](LeetCode/Medium/0200-number-of-islands/) | Medium | Python |
 | 209 | [Minimum Size Subarray Sum](LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium | Python |
-| 213 | [House Robber Ii](LeetCode/Medium/0213-house-robber-ii/) | Unknown | Python |
+| 213 | [House Robber Ii](LeetCode/Medium/0213-house-robber-ii/) | Medium | Python |
 | 226 | [Invert Binary Tree](LeetCode/Easy/0226-invert-binary-tree/) | Easy | Python |
 | 230 | [Kth Smallest Element In A Bst](LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium | Python |
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Python |
 | 238 | [Product Of Array Except Self](LeetCode/Medium/0238-product-of-array-except-self/) | Medium | Python |
 | 279 | [Perfect Squares](LeetCode/Medium/0279-perfect-squares/) | Medium | Python |
 | 322 | [Coin Change](LeetCode/Medium/0322-coin-change/) | Medium | Python |
-| 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Unknown | Python |
+| 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium | Python |
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2265 | [Count Nodes Equal To Average Of Subtree](LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium | Python |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | Python |
-| 3150 | [Shortest and Lexicographically Smallest Beautiful String](LeetCode/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Unknown | Python |
-| 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Unknown | Python |
+| 3150 | [Shortest and Lexicographically Smallest Beautiful String](LeetCode/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | Python |
+| 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
 | 3483 | [Unique 3 Digit Even Numbers](LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy | Python |
-| 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Unknown | Python |
+| 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
 | 3842 | [Toggle Light Bulbs](LeetCode/Easy/3842-toggle-light-bulbs/) | Easy | Python |
 | 3870 | [Count Commas In Range](LeetCode/Easy/3870-count-commas-in-range/) | Easy | Python |
 | 3871 | [Count Commas In Range Ii](LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium | Python |
@@ -85,7 +85,7 @@
 | 3876 | [Construct Uniform Parity Array Ii](LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium | Python |
 | 3903 | [Smallest Stable Index I](LeetCode/Easy/3903-smallest-stable-index-i/) | Easy | Python |
 | 3904 | [Smallest Stable Index Ii](LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium | Python |
-| 4080 | [Smallest Missing Multiple of K](LeetCode/Easy/4080-smallest-missing-multiple-of-k/) | Unknown | Python |
+| 4080 | [Smallest Missing Multiple of K](LeetCode/Easy/4080-smallest-missing-multiple-of-k/) | Easy | Python |
 
 <!-- leetcode-progress:end -->
 

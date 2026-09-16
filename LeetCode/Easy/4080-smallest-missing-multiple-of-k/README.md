@@ -1,6 +1,6 @@
 # 4080. Smallest Missing Multiple of K
 
-- Difficulty: Unknown
+- Difficulty: Easy
 - Language: Python
 - LeetCode: [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/)
 
@@ -10,4 +10,5 @@ See [solution.py](solution.py).
 
 ## Complexity
 
-Add the time and space complexity for this solution here.
+- Time: O(n²)
+- Space: O(1)

@@ -1,6 +1,6 @@
 # 152. Maximum Product Subarray
 
-- Difficulty: Unknown
+- Difficulty: Medium
 - Language: Python
 - LeetCode: [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
@@ -10,4 +10,5 @@ See [solution.py](solution.py).
 
 ## Complexity
 
-Add the time and space complexity for this solution here.
+- Time: O(n)
+- Space: O(1)

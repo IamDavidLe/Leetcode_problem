@@ -20,6 +20,11 @@ query questionData($titleSlug: String!) {
 # Complexity is for the submitted implementation. "Auxiliary" excludes the
 # result returned by LeetCode, but includes arrays/maps created by the solution.
 COMPLEXITIES = {
+    "0001-two-sum": ("O(n²)", "O(1)"),
+    "0002-add-two-numbers": ("O(max(m, n))", "O(max(m, n)) for the returned list"),
+    "0003-longest-substring-without-repeating-characters": ("O(n)", "O(n)"),
+    "0004-median-of-two-sorted-arrays": ("O((m + n) log(m + n))", "O(m + n) for the merged copy"),
+    "0005-longest-palindromic-substring": ("O(n²)", "O(1) auxiliary"),
     "0012-integer-to-roman": ("O(1)", "O(1)"),
     "0013-roman-to-integer": ("O(n)", "O(1)"),
     "0015-3sum": ("O(n²)", "O(n) auxiliary; output excluded"),
@@ -38,6 +43,7 @@ COMPLEXITIES = {
     "0079-word-search": ("O(m · n · 4ˡ)", "O(l) auxiliary"),
     "0082-remove-duplicates-from-sorted-list-ii": ("O(n)", "O(1)"),
     "0094-binary-tree-inorder-traversal": ("O(n)", "O(h) auxiliary"),
+    "0091-decode-ways": ("O(n)", "O(n) for memoization"),
     "0098-validate-binary-search-tree": ("O(n)", "O(h) auxiliary"),
     "0100-same-tree": ("O(n)", "O(h) auxiliary"),
     "0101-symmetric-tree": ("O(n)", "O(h) auxiliary"),
@@ -56,23 +62,30 @@ COMPLEXITIES = {
     "0136-single-number": ("O(n)", "O(1)"),
     "0144-binary-tree-preorder-traversal": ("O(n)", "O(h) auxiliary"),
     "0145-binary-tree-postorder-traversal": ("O(n)", "O(h) auxiliary"),
+    "0152-maximum-product-subarray": ("O(n)", "O(1)"),
     "0191-number-of-1-bits": ("O(log n)", "O(1)"),
+    "0198-house-robber": ("O(n)", "O(1) auxiliary; mutates the input"),
     "0199-binary-tree-right-side-view": ("O(n)", "O(h) auxiliary"),
     "0200-number-of-islands": ("O(rows · cols)", "O(rows · cols) worst case call stack"),
     "0209-minimum-size-subarray-sum": ("O(n)", "O(1)"),
+    "0213-house-robber-ii": ("O(n)", "O(n) for the two input slices"),
     "0226-invert-binary-tree": ("O(n)", "O(h) auxiliary"),
     "0230-kth-smallest-element-in-a-bst": ("O(n)", "O(n)"),
     "0235-lowest-common-ancestor-of-a-binary-search-tree": ("O(h)", "O(h) auxiliary"),
     "0238-product-of-array-except-self": ("O(n)", "O(n)"),
     "0279-perfect-squares": ("O(n √n)", "O(n)"),
     "0322-coin-change": ("O(amount · c)", "O(amount)"),
+    "0416-partition-equal-subset-sum": ("O(n · target)", "O(target)"),
     "0560-subarray-sum-equals-k": ("O(n)", "O(n)"),
     "1072-flip-columns-for-maximum-number-of-equal-rows": ("O(rows · cols)", "O(rows · cols)"),
     "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points": ("O(n)", "O(1)"),
     "2265-count-nodes-equal-to-average-of-subtree": ("O(n)", "O(h) auxiliary"),
     "2472-maximum-number-of-non-overlapping-palindrome-substrings": ("O(n²)", "O(n²)"),
     "3414-maximum-score-of-non-overlapping-intervals": ("O(n log n)", "O(n)"),
+    "3150-shortest-and-lexicographically-smallest-beautiful-string": ("O(n²)", "O(n) for temporary substrings"),
+    "3347-distribute-elements-into-two-arrays-i": ("O(n)", "O(n) for the returned arrays"),
     "3483-unique-3-digit-even-numbers": ("O(n³)", "O(n³) worst case for the set"),
+    "3705-find-the-largest-almost-missing-integer": ("O(n²)", "O(n)"),
     "3842-toggle-light-bulbs": ("O(n log n)", "O(n)"),
     "3870-count-commas-in-range": ("O(log n)", "O(1)"),
     "3871-count-commas-in-range-ii": ("O(log n)", "O(1)"),
@@ -80,6 +93,7 @@ COMPLEXITIES = {
     "3876-construct-uniform-parity-array-ii": ("O(n)", "O(n)"),
     "3903-smallest-stable-index-i": ("O(n)", "O(1)"),
     "3904-smallest-stable-index-ii": ("O(n)", "O(n)"),
+    "4080-smallest-missing-multiple-of-k": ("O(n²)", "O(1)"),
 }
 
 
@@ -106,7 +120,10 @@ def update_solution(directory: Path, time_complexity: str, space_complexity: str
     # Keep a previously verified value so a temporary LeetCode outage does not
     # prevent documentation from being refreshed after files are reorganized.
     if metadata.get("difficulty") not in {"Easy", "Medium", "Hard"}:
-        metadata["difficulty"] = difficulty(slug)
+        category = directory.parent.name
+        metadata["difficulty"] = (
+            category if category in {"Easy", "Medium", "Hard"} else difficulty(slug)
+        )
     metadata["time_complexity"] = time_complexity
     metadata["space_complexity"] = space_complexity
     metadata_path.write_text(json.dumps(metadata, indent=2) + "\n", encoding="utf-8")

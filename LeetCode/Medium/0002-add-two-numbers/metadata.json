@@ -2,7 +2,9 @@
   "problem_number": 2,
   "title": "Add Two Numbers",
   "slug": "add-two-numbers",
-  "difficulty": "Unknown",
+  "difficulty": "Medium",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/add-two-numbers/"
+  "leetcode_url": "https://leetcode.com/problems/add-two-numbers/",
+  "time_complexity": "O(max(m, n))",
+  "space_complexity": "O(max(m, n)) for the returned list"
 }

@@ -2,7 +2,9 @@
   "problem_number": 3705,
   "title": "Find the Largest Almost Missing Integer",
   "slug": "find-the-largest-almost-missing-integer",
-  "difficulty": "Unknown",
+  "difficulty": "Easy",
   "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/"
+  "leetcode_url": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/",
+  "time_complexity": "O(n\u00b2)",
+  "space_complexity": "O(n)"
 }
