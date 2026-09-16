@@ -30,6 +30,15 @@ EXTENSION_BY_LANGUAGE = {
     "php": ".php", "scala": ".scala", "mysql": ".sql", "mssql": ".sql",
     "oraclesql": ".sql",
 }
+SUBMISSION_DETAILS_QUERY = """
+query submissionDetails($submissionId: Int!) {
+  submissionDetails(submissionId: $submissionId) {
+    code
+    lang { name }
+    question { questionId }
+  }
+}
+"""
 
 
 def session_cookie() -> str:
@@ -69,6 +78,42 @@ def get_json(path: str) -> dict[str, object]:
     return payload if isinstance(payload, dict) else {}
 
 
+def get_submission_detail(submission_id: int) -> dict[str, object]:
+    """Retrieve source code through LeetCode's current authenticated GraphQL API."""
+    payload = json.dumps(
+        {
+            "query": SUBMISSION_DETAILS_QUERY,
+            "variables": {"submissionId": submission_id},
+            "operationName": "submissionDetails",
+        }
+    ).encode()
+    request = Request(
+        "https://leetcode.com/graphql/",
+        data=payload,
+        headers={
+            "Cookie": COOKIE,
+            "Content-Type": "application/json",
+            "User-Agent": "leetcode-history-importer",
+            "Referer": "https://leetcode.com/",
+        },
+        method="POST",
+    )
+    try:
+        with urlopen(request, timeout=30) as response:
+            payload = json.load(response)
+    except HTTPError as error:
+        if error.code in {401, 403}:
+            raise SystemExit("LeetCode rejected this session. Sign in again and use a fresh value.") from error
+        raise SystemExit(f"LeetCode submission lookup failed with HTTP {error.code}.") from error
+    except (OSError, URLError, json.JSONDecodeError) as error:
+        raise SystemExit(f"Could not retrieve LeetCode submission data: {error}") from error
+
+    detail = payload.get("data", {}).get("submissionDetails") if isinstance(payload, dict) else None
+    if not isinstance(detail, dict):
+        raise SystemExit("LeetCode did not return source code for a historical submission.")
+    return detail
+
+
 def latest_accepted_submissions() -> dict[str, dict[str, object]]:
     """Collect one newest accepted submission for every problem in the account."""
     accepted: dict[str, dict[str, object]] = {}
@@ -97,17 +142,24 @@ def save_submission(slug: str, submission: dict[str, object]) -> bool:
         print(f"Skipping {slug}: submission id was unavailable.")
         return False
 
-    detail = get_json(f"/submissions/detail/{submission_number}/")
+    detail = get_submission_detail(submission_number)
     code = detail.get("code")
     try:
-        question_number = int(detail.get("question_id", submission.get("question_id")))
+        question = detail.get("question", {})
+        question_id = question.get("questionId") if isinstance(question, dict) else None
+        question_number = int(question_id or submission.get("question_id"))
     except (TypeError, ValueError):
         question_number = 0
     if not isinstance(code, str) or question_number <= 0:
         print(f"Skipping {slug}: source code or problem number was unavailable.")
         return False
 
-    language = str(detail.get("lang", submission.get("lang", "text"))).lower()
+    language_data = detail.get("lang")
+    language = (
+        str(language_data.get("name", "text"))
+        if isinstance(language_data, dict)
+        else str(submission.get("lang", "text"))
+    ).lower()
     destination = ROOT / f"{question_number:04d}-{slug}" / f"solution{EXTENSION_BY_LANGUAGE.get(language, '.txt')}"
     if destination.exists():
         print(f"Keeping existing {destination.relative_to(ROOT)}")
