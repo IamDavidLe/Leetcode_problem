@@ -39,6 +39,20 @@ query submissionDetails($submissionId: Int!) {
   }
 }
 """
+SOLVED_QUESTIONS_QUERY = """
+query userProgressQuestionList($filters: UserProgressQuestionListInput) {
+  userProgressQuestionList(filters: $filters) {
+    questions { frontendId titleSlug }
+  }
+}
+"""
+QUESTION_SUBMISSIONS_QUERY = """
+query submissionList($offset: Int!, $limit: Int!, $lastKey: String, $questionSlug: String!, $lang: Int, $status: Int) {
+  questionSubmissionList(offset: $offset, limit: $limit, lastKey: $lastKey, questionSlug: $questionSlug, lang: $lang, status: $status) {
+    submissions { id frontendId }
+  }
+}
+"""
 
 
 def session_cookie() -> str:
@@ -54,42 +68,14 @@ def session_cookie() -> str:
 COOKIE = session_cookie()
 
 
-def get_json(path: str) -> dict[str, object]:
-    request = Request(
-        f"https://leetcode.com{path}",
-        headers={
-            "Cookie": COOKIE,
-            "User-Agent": "leetcode-history-importer",
-            "Referer": "https://leetcode.com/",
-        },
-    )
-    try:
-        with urlopen(request, timeout=30) as response:
-            payload = json.load(response)
-    except HTTPError as error:
-        if error.code in {401, 403}:
-            raise SystemExit(
-                "LeetCode rejected this session. Sign in again, copy a fresh session value, "
-                "and rerun this local command."
-            ) from error
-        raise SystemExit(f"LeetCode request failed with HTTP {error.code}.") from error
-    except (OSError, URLError, json.JSONDecodeError) as error:
-        raise SystemExit(f"Could not retrieve LeetCode data: {error}") from error
-    return payload if isinstance(payload, dict) else {}
-
-
-def get_submission_detail(submission_id: int) -> dict[str, object]:
-    """Retrieve source code through LeetCode's current authenticated GraphQL API."""
-    payload = json.dumps(
-        {
-            "query": SUBMISSION_DETAILS_QUERY,
-            "variables": {"submissionId": submission_id},
-            "operationName": "submissionDetails",
-        }
+def graphql(query: str, variables: dict[str, object], operation_name: str) -> dict[str, object]:
+    """Call LeetCode's authenticated GraphQL endpoint."""
+    request_body = json.dumps(
+        {"query": query, "variables": variables, "operationName": operation_name}
     ).encode()
     request = Request(
         "https://leetcode.com/graphql/",
-        data=payload,
+        data=request_body,
         headers={
             "Cookie": COOKIE,
             "Content-Type": "application/json",
@@ -103,36 +89,61 @@ def get_submission_detail(submission_id: int) -> dict[str, object]:
             payload = json.load(response)
     except HTTPError as error:
         if error.code in {401, 403}:
-            raise SystemExit("LeetCode rejected this session. Sign in again and use a fresh value.") from error
-        raise SystemExit(f"LeetCode submission lookup failed with HTTP {error.code}.") from error
+            raise SystemExit(
+                "LeetCode rejected this session. Sign in again, copy a fresh session value, "
+                "and rerun this local command."
+            ) from error
+        raise SystemExit(f"LeetCode GraphQL request failed with HTTP {error.code}.") from error
     except (OSError, URLError, json.JSONDecodeError) as error:
-        raise SystemExit(f"Could not retrieve LeetCode submission data: {error}") from error
+        raise SystemExit(f"Could not retrieve LeetCode data: {error}") from error
 
-    detail = payload.get("data", {}).get("submissionDetails") if isinstance(payload, dict) else None
+    if not isinstance(payload, dict):
+        raise SystemExit("LeetCode returned an unexpected GraphQL response.")
+    errors = payload.get("errors")
+    if errors:
+        raise SystemExit(f"LeetCode rejected the {operation_name} query: {errors}")
+    data = payload.get("data")
+    return data if isinstance(data, dict) else {}
+
+
+def get_submission_detail(submission_id: int) -> dict[str, object]:
+    """Retrieve source code through LeetCode's current authenticated GraphQL API."""
+    detail = graphql(
+        SUBMISSION_DETAILS_QUERY,
+        {"submissionId": submission_id},
+        "submissionDetails",
+    ).get("submissionDetails")
     if not isinstance(detail, dict):
         raise SystemExit("LeetCode did not return source code for a historical submission.")
     return detail
 
 
 def latest_accepted_submissions() -> dict[str, dict[str, object]]:
-    """Collect one newest accepted submission for every problem in the account."""
+    """Collect the newest accepted submission for every solved question."""
     accepted: dict[str, dict[str, object]] = {}
-    offset = 0
-    while True:
-        page = get_json(f"/api/submissions/{USERNAME}/?offset={offset}&limit={PAGE_SIZE}")
-        submissions = page.get("submissions_dump", [])
-        if not isinstance(submissions, list):
-            raise SystemExit("LeetCode returned an unexpected submissions response.")
-        for submission in submissions:
-            if not isinstance(submission, dict) or submission.get("status_display") != "Accepted":
-                continue
-            slug = submission.get("title_slug")
-            if isinstance(slug, str) and slug and slug not in accepted:
-                accepted[slug] = submission
-        if not page.get("has_next"):
-            return accepted
-        offset += PAGE_SIZE
-        time.sleep(0.2)
+    progress = graphql(
+        SOLVED_QUESTIONS_QUERY,
+        {"filters": {"questionStatus": "SOLVED", "skip": 0, "limit": 4000}},
+        "userProgressQuestionList",
+    ).get("userProgressQuestionList")
+    questions = progress.get("questions", []) if isinstance(progress, dict) else []
+    if not isinstance(questions, list):
+        raise SystemExit("LeetCode returned an unexpected solved-questions response.")
+
+    for question in questions:
+        if not isinstance(question, dict) or not isinstance(question.get("titleSlug"), str):
+            continue
+        slug = question["titleSlug"]
+        submission_list = graphql(
+            QUESTION_SUBMISSIONS_QUERY,
+            {"offset": 0, "limit": 1, "lastKey": None, "questionSlug": slug, "lang": None, "status": 10},
+            "submissionList",
+        ).get("questionSubmissionList")
+        submissions = submission_list.get("submissions", []) if isinstance(submission_list, dict) else []
+        if isinstance(submissions, list) and submissions and isinstance(submissions[0], dict):
+            accepted[slug] = {**submissions[0], "question_id": question.get("frontendId")}
+        time.sleep(0.1)
+    return accepted
 
 
 def save_submission(slug: str, submission: dict[str, object]) -> bool:
@@ -147,7 +158,7 @@ def save_submission(slug: str, submission: dict[str, object]) -> bool:
     try:
         question = detail.get("question", {})
         question_id = question.get("questionId") if isinstance(question, dict) else None
-        question_number = int(question_id or submission.get("question_id"))
+        question_number = int(submission.get("question_id") or question_id)
     except (TypeError, ValueError):
         question_number = 0
     if not isinstance(code, str) or question_number <= 0:
