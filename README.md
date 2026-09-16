@@ -93,3 +93,15 @@ git add .
 git commit -m "Import LeetCode history"
 git push
 ```
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+<!---LeetCode Topics End-->
