@@ -1,0 +1,8 @@
+{
+  "problem_number": 5,
+  "title": "Longest Palindromic Substring",
+  "slug": "longest-palindromic-substring",
+  "difficulty": "Unknown",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/longest-palindromic-substring/"
+}

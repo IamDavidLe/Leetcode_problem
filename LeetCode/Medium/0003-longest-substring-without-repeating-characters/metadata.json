@@ -1,0 +1,8 @@
+{
+  "problem_number": 3,
+  "title": "Longest Substring Without Repeating Characters",
+  "slug": "longest-substring-without-repeating-characters",
+  "difficulty": "Unknown",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+}
