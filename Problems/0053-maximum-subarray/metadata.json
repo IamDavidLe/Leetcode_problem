@@ -1,0 +1,10 @@
+{
+  "problem_number": 53,
+  "title": "Maximum Subarray",
+  "slug": "maximum-subarray",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/maximum-subarray/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}

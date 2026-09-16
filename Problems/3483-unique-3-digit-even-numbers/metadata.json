@@ -1,0 +1,10 @@
+{
+  "problem_number": 3483,
+  "title": "Unique 3 Digit Even Numbers",
+  "slug": "unique-3-digit-even-numbers",
+  "difficulty": "Easy",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+  "time_complexity": "O(n\u00b3)",
+  "space_complexity": "O(n\u00b3) worst case for the set"
+}

@@ -1,0 +1,10 @@
+{
+  "problem_number": 118,
+  "title": "Pascals Triangle",
+  "slug": "pascals-triangle",
+  "difficulty": "Easy",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/pascals-triangle/",
+  "time_complexity": "O(n\u00b2)",
+  "space_complexity": "O(n\u00b2) for the returned triangle"
+}

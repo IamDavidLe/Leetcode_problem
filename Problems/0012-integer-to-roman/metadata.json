@@ -1,0 +1,10 @@
+{
+  "problem_number": 12,
+  "title": "Integer To Roman",
+  "slug": "integer-to-roman",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/integer-to-roman/",
+  "time_complexity": "O(1)",
+  "space_complexity": "O(1)"
+}

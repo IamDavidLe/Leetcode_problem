@@ -1,0 +1,10 @@
+{
+  "problem_number": 230,
+  "title": "Kth Smallest Element In A Bst",
+  "slug": "kth-smallest-element-in-a-bst",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)"
+}

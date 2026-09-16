@@ -1,0 +1,10 @@
+{
+  "problem_number": 136,
+  "title": "Single Number",
+  "slug": "single-number",
+  "difficulty": "Easy",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/single-number/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}

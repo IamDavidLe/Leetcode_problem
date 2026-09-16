@@ -1,8 +1,0 @@
-{
-  "problem_number": 2265,
-  "title": "Count Nodes Equal to Average of Subtree",
-  "slug": "count-nodes-equal-to-average-of-subtree",
-  "difficulty": "Unknown",
-  "language": "Python",
-  "leetcode_url": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/"
-}

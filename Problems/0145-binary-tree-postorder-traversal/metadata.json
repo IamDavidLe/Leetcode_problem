@@ -1,0 +1,10 @@
+{
+  "problem_number": 145,
+  "title": "Binary Tree Postorder Traversal",
+  "slug": "binary-tree-postorder-traversal",
+  "difficulty": "Easy",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(h) auxiliary"
+}

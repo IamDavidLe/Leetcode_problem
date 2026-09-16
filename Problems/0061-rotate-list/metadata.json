@@ -1,0 +1,10 @@
+{
+  "problem_number": 61,
+  "title": "Rotate List",
+  "slug": "rotate-list",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/rotate-list/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}

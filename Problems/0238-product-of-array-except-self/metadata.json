@@ -1,0 +1,10 @@
+{
+  "problem_number": 238,
+  "title": "Product Of Array Except Self",
+  "slug": "product-of-array-except-self",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/product-of-array-except-self/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)"
+}

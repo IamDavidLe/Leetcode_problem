@@ -1,0 +1,10 @@
+{
+  "problem_number": 79,
+  "title": "Word Search",
+  "slug": "word-search",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/word-search/",
+  "time_complexity": "O(m \u00b7 n \u00b7 4\u02e1)",
+  "space_complexity": "O(l) auxiliary"
+}

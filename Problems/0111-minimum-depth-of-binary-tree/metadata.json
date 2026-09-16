@@ -1,0 +1,10 @@
+{
+  "problem_number": 111,
+  "title": "Minimum Depth Of Binary Tree",
+  "slug": "minimum-depth-of-binary-tree",
+  "difficulty": "Easy",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(h) auxiliary"
+}

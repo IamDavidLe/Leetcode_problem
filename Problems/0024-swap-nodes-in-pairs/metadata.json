@@ -1,0 +1,10 @@
+{
+  "problem_number": 24,
+  "title": "Swap Nodes In Pairs",
+  "slug": "swap-nodes-in-pairs",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}

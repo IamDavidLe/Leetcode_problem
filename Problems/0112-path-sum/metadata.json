@@ -1,0 +1,10 @@
+{
+  "problem_number": 112,
+  "title": "Path Sum",
+  "slug": "path-sum",
+  "difficulty": "Easy",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/path-sum/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(h) auxiliary"
+}

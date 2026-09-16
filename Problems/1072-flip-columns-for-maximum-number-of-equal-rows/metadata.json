@@ -1,0 +1,10 @@
+{
+  "problem_number": 1072,
+  "title": "Flip Columns For Maximum Number Of Equal Rows",
+  "slug": "flip-columns-for-maximum-number-of-equal-rows",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/",
+  "time_complexity": "O(rows \u00b7 cols)",
+  "space_complexity": "O(rows \u00b7 cols)"
+}

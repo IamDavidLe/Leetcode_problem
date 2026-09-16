@@ -1,0 +1,10 @@
+{
+  "problem_number": 82,
+  "title": "Remove Duplicates From Sorted List Ii",
+  "slug": "remove-duplicates-from-sorted-list-ii",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}

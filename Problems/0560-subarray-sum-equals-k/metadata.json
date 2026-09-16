@@ -1,0 +1,10 @@
+{
+  "problem_number": 560,
+  "title": "Subarray Sum Equals K",
+  "slug": "subarray-sum-equals-k",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)"
+}

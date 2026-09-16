@@ -1,0 +1,10 @@
+{
+  "problem_number": 101,
+  "title": "Symmetric Tree",
+  "slug": "symmetric-tree",
+  "difficulty": "Easy",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/symmetric-tree/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(h) auxiliary"
+}

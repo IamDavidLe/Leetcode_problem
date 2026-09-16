@@ -1,0 +1,10 @@
+{
+  "problem_number": 128,
+  "title": "Longest Consecutive Sequence",
+  "slug": "longest-consecutive-sequence",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+  "time_complexity": "O(n \u03b1(n))",
+  "space_complexity": "O(n)"
+}

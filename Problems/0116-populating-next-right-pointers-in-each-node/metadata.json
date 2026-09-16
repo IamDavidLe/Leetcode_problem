@@ -1,0 +1,10 @@
+{
+  "problem_number": 116,
+  "title": "Populating Next Right Pointers In Each Node",
+  "slug": "populating-next-right-pointers-in-each-node",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(h) auxiliary"
+}

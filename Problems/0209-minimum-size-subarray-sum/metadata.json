@@ -1,0 +1,10 @@
+{
+  "problem_number": 209,
+  "title": "Minimum Size Subarray Sum",
+  "slug": "minimum-size-subarray-sum",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(1)"
+}

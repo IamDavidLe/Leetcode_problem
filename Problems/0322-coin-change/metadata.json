@@ -1,0 +1,10 @@
+{
+  "problem_number": 322,
+  "title": "Coin Change",
+  "slug": "coin-change",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/coin-change/",
+  "time_complexity": "O(amount \u00b7 c)",
+  "space_complexity": "O(amount)"
+}

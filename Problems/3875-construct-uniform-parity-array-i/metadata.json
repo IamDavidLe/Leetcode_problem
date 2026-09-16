@@ -1,0 +1,10 @@
+{
+  "problem_number": 3875,
+  "title": "Construct Uniform Parity Array I",
+  "slug": "construct-uniform-parity-array-i",
+  "difficulty": "Easy",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+  "time_complexity": "O(1)",
+  "space_complexity": "O(1)"
+}

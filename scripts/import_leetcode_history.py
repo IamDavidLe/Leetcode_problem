@@ -20,6 +20,7 @@ from urllib.request import Request, urlopen
 
 
 ROOT = Path(__file__).resolve().parents[1]
+PROBLEMS_ROOT = ROOT / "Problems"
 USERNAME = os.environ.get("LEETCODE_USERNAME", "JiaPark")
 PAGE_SIZE = 20
 EXTENSION_BY_LANGUAGE = {
@@ -171,7 +172,7 @@ def save_submission(slug: str, submission: dict[str, object]) -> bool:
         if isinstance(language_data, dict)
         else str(submission.get("lang", "text"))
     ).lower()
-    destination = ROOT / f"{question_number:04d}-{slug}" / f"solution{EXTENSION_BY_LANGUAGE.get(language, '.txt')}"
+    destination = PROBLEMS_ROOT / f"{question_number:04d}-{slug}" / f"solution{EXTENSION_BY_LANGUAGE.get(language, '.txt')}"
     if destination.exists():
         print(f"Keeping existing {destination.relative_to(ROOT)}")
         return False

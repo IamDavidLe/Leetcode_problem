@@ -1,0 +1,10 @@
+{
+  "problem_number": 200,
+  "title": "Number Of Islands",
+  "slug": "number-of-islands",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/number-of-islands/",
+  "time_complexity": "O(rows \u00b7 cols)",
+  "space_complexity": "O(rows \u00b7 cols) worst case call stack"
+}

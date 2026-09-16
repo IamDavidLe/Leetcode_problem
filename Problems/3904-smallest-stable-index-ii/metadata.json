@@ -1,0 +1,10 @@
+{
+  "problem_number": 3904,
+  "title": "Smallest Stable Index Ii",
+  "slug": "smallest-stable-index-ii",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/smallest-stable-index-ii/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)"
+}

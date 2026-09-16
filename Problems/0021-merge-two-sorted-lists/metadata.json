@@ -1,0 +1,10 @@
+{
+  "problem_number": 21,
+  "title": "Merge Two Sorted Lists",
+  "slug": "merge-two-sorted-lists",
+  "difficulty": "Easy",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+  "time_complexity": "O(m + n)",
+  "space_complexity": "O(1)"
+}

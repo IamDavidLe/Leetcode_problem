@@ -1,0 +1,10 @@
+{
+  "problem_number": 3871,
+  "title": "Count Commas In Range Ii",
+  "slug": "count-commas-in-range-ii",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/count-commas-in-range-ii/",
+  "time_complexity": "O(log n)",
+  "space_complexity": "O(1)"
+}

@@ -1,0 +1,10 @@
+{
+  "problem_number": 100,
+  "title": "Same Tree",
+  "slug": "same-tree",
+  "difficulty": "Easy",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/same-tree/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(h) auxiliary"
+}

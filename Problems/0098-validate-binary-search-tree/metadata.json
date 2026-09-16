@@ -1,0 +1,10 @@
+{
+  "problem_number": 98,
+  "title": "Validate Binary Search Tree",
+  "slug": "validate-binary-search-tree",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/validate-binary-search-tree/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(h) auxiliary"
+}

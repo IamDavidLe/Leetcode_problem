@@ -1,0 +1,10 @@
+{
+  "problem_number": 62,
+  "title": "Unique Paths",
+  "slug": "unique-paths",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/unique-paths/",
+  "time_complexity": "O(m \u00b7 n)",
+  "space_complexity": "O(m \u00b7 n)"
+}

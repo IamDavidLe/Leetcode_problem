@@ -1,0 +1,10 @@
+{
+  "problem_number": 115,
+  "title": "Distinct Subsequences",
+  "slug": "distinct-subsequences",
+  "difficulty": "Hard",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/distinct-subsequences/",
+  "time_complexity": "O(m \u00b7 n)",
+  "space_complexity": "O(m \u00b7 n)"
+}

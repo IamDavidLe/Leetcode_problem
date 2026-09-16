@@ -1,0 +1,10 @@
+{
+  "problem_number": 129,
+  "title": "Sum Root To Leaf Numbers",
+  "slug": "sum-root-to-leaf-numbers",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(h) auxiliary"
+}

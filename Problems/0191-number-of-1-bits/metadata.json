@@ -1,0 +1,10 @@
+{
+  "problem_number": 191,
+  "title": "Number Of 1 Bits",
+  "slug": "number-of-1-bits",
+  "difficulty": "Easy",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/number-of-1-bits/",
+  "time_complexity": "O(log n)",
+  "space_complexity": "O(1)"
+}

@@ -1,0 +1,10 @@
+{
+  "problem_number": 103,
+  "title": "Binary Tree Zigzag Level Order Traversal",
+  "slug": "binary-tree-zigzag-level-order-traversal",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+  "time_complexity": "O(n)",
+  "space_complexity": "O(n)"
+}

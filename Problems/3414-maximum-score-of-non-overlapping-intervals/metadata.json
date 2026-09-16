@@ -1,0 +1,10 @@
+{
+  "problem_number": 3414,
+  "title": "Maximum Score Of Non Overlapping Intervals",
+  "slug": "maximum-score-of-non-overlapping-intervals",
+  "difficulty": "Hard",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/",
+  "time_complexity": "O(n log n)",
+  "space_complexity": "O(n)"
+}

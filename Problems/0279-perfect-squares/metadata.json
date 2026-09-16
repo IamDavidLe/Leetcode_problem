@@ -1,0 +1,10 @@
+{
+  "problem_number": 279,
+  "title": "Perfect Squares",
+  "slug": "perfect-squares",
+  "difficulty": "Medium",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/perfect-squares/",
+  "time_complexity": "O(n \u221an)",
+  "space_complexity": "O(n)"
+}
