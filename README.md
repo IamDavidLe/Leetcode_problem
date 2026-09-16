@@ -17,11 +17,19 @@
 
 ## Import previous accepted submissions
 
-The **Import LeetCode History** workflow imports the newest accepted source
-code for every problem in the connected LeetCode account. It is a manual,
-one-time import and keeps any solution file that is already in this repository.
+Run this once on your Mac, from this repository's folder:
 
-Before running it, add a `LEETCODE_SESSION` repository secret under
-**Settings → Secrets and variables → Actions**, then use **Actions → Import
-LeetCode History → Run workflow**. The secret is used only by the import run;
-delete it afterward if you do not plan to import again.
+```bash
+python3 scripts/import_leetcode_history.py
+```
+
+The command securely prompts for a current LeetCode session value without
+displaying or saving it. It imports the newest accepted solution for each
+problem, creates documentation, and preserves any existing solution files.
+Then publish the result:
+
+```bash
+git add .
+git commit -m "Import LeetCode history"
+git push
+```
