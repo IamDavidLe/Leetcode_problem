@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 78 solved — 24 Easy · 50 Medium · 4 Hard
+**Public stats:** 81 solved — 26 Easy · 51 Medium · 4 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 78**
+**Solutions in this repository: 80**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -28,6 +28,7 @@
 | 19 | [Remove Nth Node From End Of List](LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium | Python |
 | 21 | [Merge Two Sorted Lists](LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy | Python |
 | 24 | [Swap Nodes In Pairs](LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium | Python |
+| 43 | [Multiply Strings](LeetCode/Medium/0043-multiply-strings/) | Unknown | Python |
 | 45 | [Jump Game Ii](LeetCode/Medium/0045-jump-game-ii/) | Medium | Python |
 | 47 | [Permutations Ii](LeetCode/Medium/0047-permutations-ii/) | Medium | Python |
 | 53 | [Maximum Subarray](LeetCode/Medium/0053-maximum-subarray/) | Medium | Python |
@@ -63,6 +64,7 @@
 | 200 | [Number Of Islands](LeetCode/Medium/0200-number-of-islands/) | Medium | Python |
 | 209 | [Minimum Size Subarray Sum](LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium | Python |
 | 213 | [House Robber Ii](LeetCode/Medium/0213-house-robber-ii/) | Medium | Python |
+| 217 | [Contains Duplicate](LeetCode/Easy/0217-contains-duplicate/) | Unknown | Python |
 | 226 | [Invert Binary Tree](LeetCode/Easy/0226-invert-binary-tree/) | Easy | Python |
 | 230 | [Kth Smallest Element In A Bst](LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium | Python |
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Python |
