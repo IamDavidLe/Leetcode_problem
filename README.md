@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 75 solved — 23 Easy · 48 Medium · 4 Hard
+**Public stats:** 78 solved — 24 Easy · 50 Medium · 4 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 75**
+**Solutions in this repository: 78**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -17,6 +17,8 @@
 | 3 | [Longest Substring Without Repeating Characters](LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium | Python |
 | 4 | [Median of Two Sorted Arrays](LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard | Python |
 | 5 | [Longest Palindromic Substring](LeetCode/Medium/0005-longest-palindromic-substring/) | Medium | Python |
+| 7 | [Reverse Integer](LeetCode/Medium/0007-reverse-integer/) | Unknown | Python |
+| 9 | [Palindrome Number](LeetCode/Easy/0009-palindrome-number/) | Unknown | Python |
 | 12 | [Integer To Roman](LeetCode/Medium/0012-integer-to-roman/) | Medium | Python |
 | 13 | [Roman To Integer](LeetCode/Easy/0013-roman-to-integer/) | Easy | Python |
 | 15 | [3Sum](LeetCode/Medium/0015-3sum/) | Medium | Python |
@@ -70,6 +72,7 @@
 | 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium | Python |
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
+| 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
 | 1621 | [Number of Sets of K Non Overlapping Line Segments](LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Unknown | Python |
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2265 | [Count Nodes Equal To Average Of Subtree](LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium | Python |
