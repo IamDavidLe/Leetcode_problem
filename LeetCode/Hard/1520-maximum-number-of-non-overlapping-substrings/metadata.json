@@ -1,0 +1,8 @@
+{
+  "problem_number": 1520,
+  "title": "Maximum Number of Non Overlapping Substrings",
+  "slug": "maximum-number-of-non-overlapping-substrings",
+  "difficulty": "Unknown",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/"
+}
