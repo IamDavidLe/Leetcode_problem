@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 82 solved — 26 Easy · 51 Medium · 5 Hard
+**Public stats:** 88 solved — 28 Easy · 55 Medium · 5 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 81**
+**Solutions in this repository: 86**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -35,6 +35,9 @@
 | 55 | [Jump Game](LeetCode/Medium/0055-jump-game/) | Medium | Python |
 | 61 | [Rotate List](LeetCode/Medium/0061-rotate-list/) | Medium | Python |
 | 62 | [Unique Paths](LeetCode/Medium/0062-unique-paths/) | Medium | Python |
+| 63 | [Unique Paths Ii](LeetCode/Medium/0063-unique-paths-ii/) | Unknown | Python |
+| 64 | [Minimum Path Sum](LeetCode/Medium/0064-minimum-path-sum/) | Unknown | Python |
+| 70 | [Climbing Stairs](LeetCode/Easy/0070-climbing-stairs/) | Unknown | Python |
 | 79 | [Word Search](LeetCode/Medium/0079-word-search/) | Medium | Python |
 | 82 | [Remove Duplicates From Sorted List Ii](LeetCode/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium | Python |
 | 91 | [Decode Ways](LeetCode/Medium/0091-decode-ways/) | Medium | Python |
@@ -52,6 +55,7 @@
 | 115 | [Distinct Subsequences](LeetCode/Hard/0115-distinct-subsequences/) | Hard | Python |
 | 116 | [Populating Next Right Pointers In Each Node](LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium | Python |
 | 118 | [Pascals Triangle](LeetCode/Easy/0118-pascals-triangle/) | Easy | Python |
+| 119 | [Pascals Triangle Ii](LeetCode/Easy/0119-pascals-triangle-ii/) | Unknown | Python |
 | 128 | [Longest Consecutive Sequence](LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium | Python |
 | 129 | [Sum Root To Leaf Numbers](LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium | Python |
 | 136 | [Single Number](LeetCode/Easy/0136-single-number/) | Easy | Python |
@@ -74,6 +78,7 @@
 | 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium | Python |
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
+| 1401 | [Circle and Rectangle Overlapping](LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Unknown | Python |
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
 | 1520 | [Maximum Number of Non Overlapping Substrings](LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Unknown | Python |
 | 1621 | [Number of Sets of K Non Overlapping Line Segments](LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Unknown | Python |
