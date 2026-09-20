@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 88 solved — 28 Easy · 55 Medium · 5 Hard
+**Public stats:** 93 solved — 30 Easy · 58 Medium · 5 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 86**
+**Solutions in this repository: 91**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -18,15 +18,19 @@
 | 4 | [Median of Two Sorted Arrays](LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard | Python |
 | 5 | [Longest Palindromic Substring](LeetCode/Medium/0005-longest-palindromic-substring/) | Medium | Python |
 | 7 | [Reverse Integer](LeetCode/Medium/0007-reverse-integer/) | Unknown | Python |
+| 8 | [String to Integer Atoi](LeetCode/Medium/0008-string-to-integer-atoi/) | Unknown | Python |
 | 9 | [Palindrome Number](LeetCode/Easy/0009-palindrome-number/) | Unknown | Python |
+| 11 | [Container With Most Water](LeetCode/Medium/0011-container-with-most-water/) | Unknown | Python |
 | 12 | [Integer To Roman](LeetCode/Medium/0012-integer-to-roman/) | Medium | Python |
 | 13 | [Roman To Integer](LeetCode/Easy/0013-roman-to-integer/) | Easy | Python |
+| 14 | [Longest Common Prefix](LeetCode/Easy/0014-longest-common-prefix/) | Unknown | Python |
 | 15 | [3Sum](LeetCode/Medium/0015-3sum/) | Medium | Python |
 | 16 | [3Sum Closest](LeetCode/Medium/0016-3sum-closest/) | Medium | Python |
 | 17 | [Letter Combinations Of A Phone Number](LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium | Python |
 | 18 | [4Sum](LeetCode/Medium/0018-4sum/) | Medium | Python |
 | 19 | [Remove Nth Node From End Of List](LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium | Python |
 | 21 | [Merge Two Sorted Lists](LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy | Python |
+| 22 | [Generate Parentheses](LeetCode/Medium/0022-generate-parentheses/) | Unknown | Python |
 | 24 | [Swap Nodes In Pairs](LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium | Python |
 | 43 | [Multiply Strings](LeetCode/Medium/0043-multiply-strings/) | Unknown | Python |
 | 45 | [Jump Game Ii](LeetCode/Medium/0045-jump-game-ii/) | Medium | Python |
@@ -89,6 +93,7 @@
 | 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
 | 3483 | [Unique 3 Digit Even Numbers](LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy | Python |
+| 3498 | [Reverse Degree of a String](LeetCode/Easy/3498-reverse-degree-of-a-string/) | Unknown | Python |
 | 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
 | 3842 | [Toggle Light Bulbs](LeetCode/Easy/3842-toggle-light-bulbs/) | Easy | Python |
 | 3870 | [Count Commas In Range](LeetCode/Easy/3870-count-commas-in-range/) | Easy | Python |
