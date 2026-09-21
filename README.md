@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 93 solved — 30 Easy · 58 Medium · 5 Hard
+**Public stats:** 98 solved — 33 Easy · 60 Medium · 5 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 91**
+**Solutions in this repository: 96**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -32,6 +32,10 @@
 | 21 | [Merge Two Sorted Lists](LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy | Python |
 | 22 | [Generate Parentheses](LeetCode/Medium/0022-generate-parentheses/) | Unknown | Python |
 | 24 | [Swap Nodes In Pairs](LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium | Python |
+| 26 | [Remove Duplicates From Sorted Array](LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Unknown | Python |
+| 27 | [Remove Element](LeetCode/Easy/0027-remove-element/) | Unknown | Python |
+| 28 | [Find the Index of the First Occurrence in a String](LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Unknown | Python |
+| 31 | [Next Permutation](LeetCode/Medium/0031-next-permutation/) | Unknown | Python |
 | 43 | [Multiply Strings](LeetCode/Medium/0043-multiply-strings/) | Unknown | Python |
 | 45 | [Jump Game Ii](LeetCode/Medium/0045-jump-game-ii/) | Medium | Python |
 | 47 | [Permutations Ii](LeetCode/Medium/0047-permutations-ii/) | Medium | Python |
@@ -94,6 +98,7 @@
 | 3414 | [Maximum Score Of Non Overlapping Intervals](LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
 | 3483 | [Unique 3 Digit Even Numbers](LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy | Python |
 | 3498 | [Reverse Degree of a String](LeetCode/Easy/3498-reverse-degree-of-a-string/) | Unknown | Python |
+| 3524 | [Find X Value of Array I](LeetCode/Medium/3524-find-x-value-of-array-i/) | Unknown | Python |
 | 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
 | 3842 | [Toggle Light Bulbs](LeetCode/Easy/3842-toggle-light-bulbs/) | Easy | Python |
 | 3870 | [Count Commas In Range](LeetCode/Easy/3870-count-commas-in-range/) | Easy | Python |
