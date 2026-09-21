@@ -140,6 +140,7 @@ git push
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0063-unique-paths-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
@@ -211,6 +212,7 @@ git push
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
