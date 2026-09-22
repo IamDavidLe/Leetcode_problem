@@ -145,6 +145,7 @@ git push
 | [0035-search-insert-position](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0063-unique-paths-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
@@ -256,6 +257,7 @@ git push
 | [0022-generate-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
