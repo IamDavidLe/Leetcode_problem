@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 105 solved — 34 Easy · 65 Medium · 6 Hard
+**Public stats:** 106 solved — 34 Easy · 66 Medium · 6 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 103**
+**Solutions in this repository: 104**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -35,6 +35,7 @@
 | 26 | [Remove Duplicates From Sorted Array](LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Unknown | Python |
 | 27 | [Remove Element](LeetCode/Easy/0027-remove-element/) | Unknown | Python |
 | 28 | [Find the Index of the First Occurrence in a String](LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Unknown | Python |
+| 29 | [Divide Two Integers](LeetCode/Medium/0029-divide-two-integers/) | Unknown | Python |
 | 31 | [Next Permutation](LeetCode/Medium/0031-next-permutation/) | Unknown | Python |
 | 33 | [Search in Rotated Sorted Array](LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Unknown | Python |
 | 34 | [Find First and Last Position of Element in Sorted Array](LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Unknown | Python |
