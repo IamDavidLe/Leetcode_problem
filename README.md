@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 98 solved — 33 Easy · 60 Medium · 5 Hard
+**Public stats:** 105 solved — 34 Easy · 65 Medium · 6 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 96**
+**Solutions in this repository: 103**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -36,8 +36,14 @@
 | 27 | [Remove Element](LeetCode/Easy/0027-remove-element/) | Unknown | Python |
 | 28 | [Find the Index of the First Occurrence in a String](LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Unknown | Python |
 | 31 | [Next Permutation](LeetCode/Medium/0031-next-permutation/) | Unknown | Python |
+| 33 | [Search in Rotated Sorted Array](LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Unknown | Python |
+| 34 | [Find First and Last Position of Element in Sorted Array](LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Unknown | Python |
+| 35 | [Search Insert Position](LeetCode/Easy/0035-search-insert-position/) | Unknown | Python |
+| 39 | [Combination Sum](LeetCode/Medium/0039-combination-sum/) | Unknown | Python |
+| 40 | [Combination Sum Ii](LeetCode/Medium/0040-combination-sum-ii/) | Unknown | Python |
 | 43 | [Multiply Strings](LeetCode/Medium/0043-multiply-strings/) | Unknown | Python |
 | 45 | [Jump Game Ii](LeetCode/Medium/0045-jump-game-ii/) | Medium | Python |
+| 46 | [Permutations](LeetCode/Medium/0046-permutations/) | Unknown | Python |
 | 47 | [Permutations Ii](LeetCode/Medium/0047-permutations-ii/) | Medium | Python |
 | 53 | [Maximum Subarray](LeetCode/Medium/0053-maximum-subarray/) | Medium | Python |
 | 55 | [Jump Game](LeetCode/Medium/0055-jump-game/) | Medium | Python |
@@ -99,6 +105,7 @@
 | 3483 | [Unique 3 Digit Even Numbers](LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy | Python |
 | 3498 | [Reverse Degree of a String](LeetCode/Easy/3498-reverse-degree-of-a-string/) | Unknown | Python |
 | 3524 | [Find X Value of Array I](LeetCode/Medium/3524-find-x-value-of-array-i/) | Unknown | Python |
+| 3525 | [Find X Value of Array Ii](LeetCode/Hard/3525-find-x-value-of-array-ii/) | Unknown | Python |
 | 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
 | 3842 | [Toggle Light Bulbs](LeetCode/Easy/3842-toggle-light-bulbs/) | Easy | Python |
 | 3870 | [Count Commas In Range](LeetCode/Easy/3870-count-commas-in-range/) | Easy | Python |
