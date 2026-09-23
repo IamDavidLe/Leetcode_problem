@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 106 solved — 34 Easy · 66 Medium · 6 Hard
+**Public stats:** 107 solved — 34 Easy · 67 Medium · 6 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 104**
+**Solutions in this repository: 105**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -97,6 +97,7 @@
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
 | 1520 | [Maximum Number of Non Overlapping Substrings](LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Unknown | Python |
 | 1621 | [Number of Sets of K Non Overlapping Line Segments](LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Unknown | Python |
+| 1658 | [Minimum Operations to Reduce X to Zero](LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Unknown | Python |
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2265 | [Count Nodes Equal To Average Of Subtree](LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium | Python |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | Python |
