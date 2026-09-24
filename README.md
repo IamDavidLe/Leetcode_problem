@@ -214,6 +214,7 @@ git push
 | [0007-reverse-integer](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0069-sqrtx](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -235,6 +236,7 @@ git push
 | [0033-search-in-rotated-sorted-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -299,4 +301,8 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
