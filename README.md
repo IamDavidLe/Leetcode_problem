@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 107 solved — 34 Easy · 67 Medium · 6 Hard
+**Public stats:** 111 solved — 37 Easy · 68 Medium · 6 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 105**
+**Solutions in this repository: 109**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -52,6 +52,7 @@
 | 62 | [Unique Paths](LeetCode/Medium/0062-unique-paths/) | Medium | Python |
 | 63 | [Unique Paths Ii](LeetCode/Medium/0063-unique-paths-ii/) | Unknown | Python |
 | 64 | [Minimum Path Sum](LeetCode/Medium/0064-minimum-path-sum/) | Unknown | Python |
+| 69 | [Sqrtx](LeetCode/Easy/0069-sqrtx/) | Unknown | Python |
 | 70 | [Climbing Stairs](LeetCode/Easy/0070-climbing-stairs/) | Unknown | Python |
 | 79 | [Word Search](LeetCode/Medium/0079-word-search/) | Medium | Python |
 | 82 | [Remove Duplicates From Sorted List Ii](LeetCode/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium | Python |
@@ -92,6 +93,8 @@
 | 322 | [Coin Change](LeetCode/Medium/0322-coin-change/) | Medium | Python |
 | 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium | Python |
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
+| 704 | [Binary Search](LeetCode/Easy/0704-binary-search/) | Unknown | Python |
+| 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
 | 1401 | [Circle and Rectangle Overlapping](LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Unknown | Python |
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
@@ -108,6 +111,7 @@
 | 3498 | [Reverse Degree of a String](LeetCode/Easy/3498-reverse-degree-of-a-string/) | Unknown | Python |
 | 3524 | [Find X Value of Array I](LeetCode/Medium/3524-find-x-value-of-array-i/) | Unknown | Python |
 | 3525 | [Find X Value of Array Ii](LeetCode/Hard/3525-find-x-value-of-array-ii/) | Unknown | Python |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Unknown | Python |
 | 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
 | 3842 | [Toggle Light Bulbs](LeetCode/Easy/3842-toggle-light-bulbs/) | Easy | Python |
 | 3870 | [Count Commas In Range](LeetCode/Easy/3870-count-commas-in-range/) | Easy | Python |
