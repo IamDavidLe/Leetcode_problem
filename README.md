@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 111 solved — 37 Easy · 68 Medium · 6 Hard
+**Public stats:** 112 solved — 37 Easy · 68 Medium · 7 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 109**
+**Solutions in this repository: 110**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -96,6 +96,7 @@
 | 704 | [Binary Search](LeetCode/Easy/0704-binary-search/) | Unknown | Python |
 | 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
+| 1096 | [Brace Expansion Ii](LeetCode/Hard/1096-brace-expansion-ii/) | Unknown | Python |
 | 1401 | [Circle and Rectangle Overlapping](LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Unknown | Python |
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
 | 1520 | [Maximum Number of Non Overlapping Substrings](LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Unknown | Python |
