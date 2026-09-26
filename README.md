@@ -168,6 +168,7 @@ git push
 | [0704-binary-search](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -195,6 +196,7 @@ git push
 | [0043-multiply-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
@@ -238,6 +240,7 @@ git push
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
