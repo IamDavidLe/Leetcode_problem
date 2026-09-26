@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 112 solved — 37 Easy · 68 Medium · 7 Hard
+**Public stats:** 114 solved — 37 Easy · 70 Medium · 7 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 110**
+**Solutions in this repository: 112**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -54,6 +54,7 @@
 | 64 | [Minimum Path Sum](LeetCode/Medium/0064-minimum-path-sum/) | Unknown | Python |
 | 69 | [Sqrtx](LeetCode/Easy/0069-sqrtx/) | Unknown | Python |
 | 70 | [Climbing Stairs](LeetCode/Easy/0070-climbing-stairs/) | Unknown | Python |
+| 74 | [Search a 2d Matrix](LeetCode/Medium/0074-search-a-2d-matrix/) | Unknown | Python |
 | 79 | [Word Search](LeetCode/Medium/0079-word-search/) | Medium | Python |
 | 82 | [Remove Duplicates From Sorted List Ii](LeetCode/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium | Python |
 | 91 | [Decode Ways](LeetCode/Medium/0091-decode-ways/) | Medium | Python |
@@ -102,6 +103,7 @@
 | 1520 | [Maximum Number of Non Overlapping Substrings](LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Unknown | Python |
 | 1621 | [Number of Sets of K Non Overlapping Line Segments](LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Unknown | Python |
 | 1658 | [Minimum Operations to Reduce X to Zero](LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Unknown | Python |
+| 1807 | [Evaluate the Bracket Pairs of a String](LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Unknown | Python |
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2265 | [Count Nodes Equal To Average Of Subtree](LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium | Python |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | Python |
