@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 116 solved — 37 Easy · 72 Medium · 7 Hard
+**Public stats:** 118 solved — 39 Easy · 72 Medium · 7 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 114**
+**Solutions in this repository: 116**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -67,6 +67,7 @@
 | 103 | [Binary Tree Zigzag Level Order Traversal](LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium | Python |
 | 104 | [Maximum Depth Of Binary Tree](LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy | Python |
 | 107 | [Binary Tree Level Order Traversal Ii](LeetCode/Medium/0107-binary-tree-level-order-traversal-ii/) | Medium | Python |
+| 110 | [Balanced Binary Tree](LeetCode/Easy/0110-balanced-binary-tree/) | Unknown | Python |
 | 111 | [Minimum Depth Of Binary Tree](LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy | Python |
 | 112 | [Path Sum](LeetCode/Easy/0112-path-sum/) | Easy | Python |
 | 113 | [Path Sum Ii](LeetCode/Medium/0113-path-sum-ii/) | Medium | Python |
@@ -103,6 +104,7 @@
 | 1401 | [Circle and Rectangle Overlapping](LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Unknown | Python |
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
 | 1520 | [Maximum Number of Non Overlapping Substrings](LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Unknown | Python |
+| 1614 | [Maximum Nesting Depth of the Parentheses](LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Unknown | Python |
 | 1621 | [Number of Sets of K Non Overlapping Line Segments](LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Unknown | Python |
 | 1658 | [Minimum Operations to Reduce X to Zero](LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Unknown | Python |
 | 1807 | [Evaluate the Bracket Pairs of a String](LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Unknown | Python |
