@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 118 solved — 39 Easy · 72 Medium · 7 Hard
+**Public stats:** 126 solved — 42 Easy · 76 Medium · 8 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 116**
+**Solutions in this repository: 124**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -52,6 +52,7 @@
 | 62 | [Unique Paths](LeetCode/Medium/0062-unique-paths/) | Medium | Python |
 | 63 | [Unique Paths Ii](LeetCode/Medium/0063-unique-paths-ii/) | Unknown | Python |
 | 64 | [Minimum Path Sum](LeetCode/Medium/0064-minimum-path-sum/) | Unknown | Python |
+| 66 | [Plus One](LeetCode/Easy/0066-plus-one/) | Unknown | Python |
 | 69 | [Sqrtx](LeetCode/Easy/0069-sqrtx/) | Unknown | Python |
 | 70 | [Climbing Stairs](LeetCode/Easy/0070-climbing-stairs/) | Unknown | Python |
 | 74 | [Search a 2d Matrix](LeetCode/Medium/0074-search-a-2d-matrix/) | Unknown | Python |
@@ -81,6 +82,9 @@
 | 144 | [Binary Tree Preorder Traversal](LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy | Python |
 | 145 | [Binary Tree Postorder Traversal](LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy | Python |
 | 152 | [Maximum Product Subarray](LeetCode/Medium/0152-maximum-product-subarray/) | Medium | Python |
+| 153 | [Find Minimum in Rotated Sorted Array](LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Unknown | Python |
+| 162 | [Find Peak Element](LeetCode/Medium/0162-find-peak-element/) | Unknown | Python |
+| 167 | [Two Sum Ii Input Array Is Sorted](LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Unknown | Python |
 | 191 | [Number Of 1 Bits](LeetCode/Easy/0191-number-of-1-bits/) | Easy | Python |
 | 198 | [House Robber](LeetCode/Medium/0198-house-robber/) | Medium | Python |
 | 199 | [Binary Tree Right Side View](LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium | Python |
@@ -92,15 +96,18 @@
 | 230 | [Kth Smallest Element In A Bst](LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium | Python |
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Python |
 | 238 | [Product Of Array Except Self](LeetCode/Medium/0238-product-of-array-except-self/) | Medium | Python |
+| 240 | [Search a 2d Matrix Ii](LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Unknown | Python |
 | 279 | [Perfect Squares](LeetCode/Medium/0279-perfect-squares/) | Medium | Python |
 | 322 | [Coin Change](LeetCode/Medium/0322-coin-change/) | Medium | Python |
 | 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium | Python |
+| 485 | [Max Consecutive Ones](LeetCode/Easy/0485-max-consecutive-ones/) | Unknown | Python |
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
 | 704 | [Binary Search](LeetCode/Easy/0704-binary-search/) | Unknown | Python |
 | 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
 | 1096 | [Brace Expansion Ii](LeetCode/Hard/1096-brace-expansion-ii/) | Unknown | Python |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Unknown | Python |
+| 1299 | [Replace Elements With Greatest Element on Right Side](LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Unknown | Python |
 | 1401 | [Circle and Rectangle Overlapping](LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Unknown | Python |
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
 | 1520 | [Maximum Number of Non Overlapping Substrings](LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Unknown | Python |
@@ -110,6 +117,7 @@
 | 1807 | [Evaluate the Bracket Pairs of a String](LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Unknown | Python |
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2265 | [Count Nodes Equal To Average Of Subtree](LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium | Python |
+| 2267 | [Check If There Is a Valid Parentheses String Path](LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Unknown | Python |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | Python |
 | 3150 | [Shortest and Lexicographically Smallest Beautiful String](LeetCode/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | Python |
 | 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
