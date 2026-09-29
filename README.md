@@ -168,6 +168,7 @@ git push
 | [0046-permutations](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0063-unique-paths-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -239,6 +240,7 @@ git push
 | [0007-reverse-integer](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0066-plus-one](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
