@@ -185,6 +185,7 @@ git push
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
@@ -253,6 +254,7 @@ git push
 | [0066-plus-one](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
@@ -265,6 +267,7 @@ git push
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -281,6 +284,7 @@ git push
 | [0162-find-peak-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -296,6 +300,7 @@ git push
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Matrix
@@ -383,4 +388,8 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
