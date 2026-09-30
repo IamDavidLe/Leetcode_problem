@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 126 solved — 42 Easy · 76 Medium · 8 Hard
+**Public stats:** 127 solved — 42 Easy · 77 Medium · 8 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 124**
+**Solutions in this repository: 125**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -106,6 +106,7 @@
 | 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
 | 1096 | [Brace Expansion Ii](LeetCode/Hard/1096-brace-expansion-ii/) | Unknown | Python |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Unknown | Python |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Unknown | Python |
 | 1299 | [Replace Elements With Greatest Element on Right Side](LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Unknown | Python |
 | 1401 | [Circle and Rectangle Overlapping](LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Unknown | Python |
