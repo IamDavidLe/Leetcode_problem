@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 127 solved — 42 Easy · 77 Medium · 8 Hard
+**Public stats:** 131 solved — 44 Easy · 79 Medium · 8 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 125**
+**Solutions in this repository: 129**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -29,6 +29,7 @@
 | 17 | [Letter Combinations Of A Phone Number](LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium | Python |
 | 18 | [4Sum](LeetCode/Medium/0018-4sum/) | Medium | Python |
 | 19 | [Remove Nth Node From End Of List](LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium | Python |
+| 20 | [Valid Parentheses](LeetCode/Easy/0020-valid-parentheses/) | Unknown | Python |
 | 21 | [Merge Two Sorted Lists](LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy | Python |
 | 22 | [Generate Parentheses](LeetCode/Medium/0022-generate-parentheses/) | Unknown | Python |
 | 24 | [Swap Nodes In Pairs](LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium | Python |
@@ -48,6 +49,7 @@
 | 47 | [Permutations Ii](LeetCode/Medium/0047-permutations-ii/) | Medium | Python |
 | 53 | [Maximum Subarray](LeetCode/Medium/0053-maximum-subarray/) | Medium | Python |
 | 55 | [Jump Game](LeetCode/Medium/0055-jump-game/) | Medium | Python |
+| 58 | [Length of Last Word](LeetCode/Easy/0058-length-of-last-word/) | Unknown | Python |
 | 61 | [Rotate List](LeetCode/Medium/0061-rotate-list/) | Medium | Python |
 | 62 | [Unique Paths](LeetCode/Medium/0062-unique-paths/) | Medium | Python |
 | 63 | [Unique Paths Ii](LeetCode/Medium/0063-unique-paths-ii/) | Unknown | Python |
@@ -97,6 +99,8 @@
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Python |
 | 238 | [Product Of Array Except Self](LeetCode/Medium/0238-product-of-array-except-self/) | Medium | Python |
 | 240 | [Search a 2d Matrix Ii](LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Unknown | Python |
+| 268 | [Missing Number](LeetCode/Easy/0268-missing-number/) | Unknown | Python |
+| 275 | [H Index Ii](LeetCode/Medium/0275-h-index-ii/) | Unknown | Python |
 | 279 | [Perfect Squares](LeetCode/Medium/0279-perfect-squares/) | Medium | Python |
 | 322 | [Coin Change](LeetCode/Medium/0322-coin-change/) | Medium | Python |
 | 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium | Python |
