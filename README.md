@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 131 solved — 44 Easy · 79 Medium · 8 Hard
+**Public stats:** 133 solved — 45 Easy · 80 Medium · 8 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 129**
+**Solutions in this repository: 131**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -87,10 +87,12 @@
 | 153 | [Find Minimum in Rotated Sorted Array](LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Unknown | Python |
 | 162 | [Find Peak Element](LeetCode/Medium/0162-find-peak-element/) | Unknown | Python |
 | 167 | [Two Sum Ii Input Array Is Sorted](LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Unknown | Python |
+| 187 | [Repeated Dna Sequences](LeetCode/Medium/0187-repeated-dna-sequences/) | Unknown | Python |
 | 191 | [Number Of 1 Bits](LeetCode/Easy/0191-number-of-1-bits/) | Easy | Python |
 | 198 | [House Robber](LeetCode/Medium/0198-house-robber/) | Medium | Python |
 | 199 | [Binary Tree Right Side View](LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium | Python |
 | 200 | [Number Of Islands](LeetCode/Medium/0200-number-of-islands/) | Medium | Python |
+| 202 | [Happy Number](LeetCode/Easy/0202-happy-number/) | Unknown | Python |
 | 209 | [Minimum Size Subarray Sum](LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium | Python |
 | 213 | [House Robber Ii](LeetCode/Medium/0213-house-robber-ii/) | Medium | Python |
 | 217 | [Contains Duplicate](LeetCode/Easy/0217-contains-duplicate/) | Unknown | Python |
