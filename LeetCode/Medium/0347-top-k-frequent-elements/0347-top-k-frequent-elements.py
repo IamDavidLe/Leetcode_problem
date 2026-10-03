@@ -10,7 +10,7 @@ class Solution:
             freq[time].append(val)
         
         res = []
-        for i in range(len(nums), 0, -1):
+        for i in range(len(nums), 0, -1): # stop at index 1 because we don't have to check freq[0]
             if freq[i]:
                 res.extend(freq[i])
                 if len(res) == k:
