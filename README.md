@@ -229,6 +229,7 @@ git push
 | [0014-longest-common-prefix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
@@ -246,6 +247,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0063-unique-paths-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
@@ -362,6 +364,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -394,6 +397,7 @@ git push
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
