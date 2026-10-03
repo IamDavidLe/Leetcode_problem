@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 135 solved — 47 Easy · 80 Medium · 8 Hard
+**Public stats:** 140 solved — 49 Easy · 82 Medium · 9 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 133**
+**Solutions in this repository: 137**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -38,6 +38,7 @@
 | 28 | [Find the Index of the First Occurrence in a String](LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Unknown | Python |
 | 29 | [Divide Two Integers](LeetCode/Medium/0029-divide-two-integers/) | Unknown | Python |
 | 31 | [Next Permutation](LeetCode/Medium/0031-next-permutation/) | Unknown | Python |
+| 32 | [Longest Valid Parentheses](LeetCode/Hard/0032-longest-valid-parentheses/) | Unknown | Python |
 | 33 | [Search in Rotated Sorted Array](LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Unknown | Python |
 | 34 | [Find First and Last Position of Element in Sorted Array](LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Unknown | Python |
 | 35 | [Search Insert Position](LeetCode/Easy/0035-search-insert-position/) | Unknown | Python |
@@ -103,10 +104,13 @@
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Python |
 | 238 | [Product Of Array Except Self](LeetCode/Medium/0238-product-of-array-except-self/) | Medium | Python |
 | 240 | [Search a 2d Matrix Ii](LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Unknown | Python |
+| 242 | [Valid Anagram](LeetCode/Easy/0242-valid-anagram/) | Unknown | Python |
 | 268 | [Missing Number](LeetCode/Easy/0268-missing-number/) | Unknown | Python |
 | 275 | [H Index Ii](LeetCode/Medium/0275-h-index-ii/) | Unknown | Python |
 | 279 | [Perfect Squares](LeetCode/Medium/0279-perfect-squares/) | Medium | Python |
+| 290 | [Word Pattern](LeetCode/Easy/0290-word-pattern/) | Unknown | Python |
 | 322 | [Coin Change](LeetCode/Medium/0322-coin-change/) | Medium | Python |
+| 347 | [Top K Frequent Elements](LeetCode/Medium/0347-top-k-frequent-elements/) | Unknown | Python |
 | 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium | Python |
 | 485 | [Max Consecutive Ones](LeetCode/Easy/0485-max-consecutive-ones/) | Unknown | Python |
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
