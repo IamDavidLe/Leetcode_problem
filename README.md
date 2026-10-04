@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 140 solved — 49 Easy · 82 Medium · 9 Hard
+**Public stats:** 142 solved — 51 Easy · 82 Medium · 9 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 137**
+**Solutions in this repository: 138**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -111,6 +111,7 @@
 | 290 | [Word Pattern](LeetCode/Easy/0290-word-pattern/) | Unknown | Python |
 | 322 | [Coin Change](LeetCode/Medium/0322-coin-change/) | Medium | Python |
 | 347 | [Top K Frequent Elements](LeetCode/Medium/0347-top-k-frequent-elements/) | Unknown | Python |
+| 349 | [Intersection of Two Arrays](LeetCode/Easy/0349-intersection-of-two-arrays/) | Unknown | Python |
 | 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium | Python |
 | 485 | [Max Consecutive Ones](LeetCode/Easy/0485-max-consecutive-ones/) | Unknown | Python |
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
