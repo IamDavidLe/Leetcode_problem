@@ -195,6 +195,7 @@ git push
 | [0039-combination-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
@@ -248,6 +249,7 @@ git push
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0049-group-anagrams](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
@@ -314,6 +316,7 @@ git push
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0202-happy-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
@@ -368,6 +371,7 @@ git push
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
