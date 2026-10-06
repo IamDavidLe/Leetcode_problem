@@ -1,0 +1,8 @@
+{
+  "problem_number": 378,
+  "title": "Kth Smallest Element in a Sorted Matrix",
+  "slug": "kth-smallest-element-in-a-sorted-matrix",
+  "difficulty": "Unknown",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/"
+}

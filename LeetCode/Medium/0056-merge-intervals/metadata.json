@@ -1,0 +1,8 @@
+{
+  "problem_number": 56,
+  "title": "Merge Intervals",
+  "slug": "merge-intervals",
+  "difficulty": "Unknown",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/merge-intervals/"
+}
