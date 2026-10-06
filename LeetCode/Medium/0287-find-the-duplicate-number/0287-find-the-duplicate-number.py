@@ -8,7 +8,7 @@ class Solution:
                 if num <= mid:
                     count += 1
             
-            if count > mid:
+            if count > mid: # There
                 r = mid
             else:
                 l = mid + 1
