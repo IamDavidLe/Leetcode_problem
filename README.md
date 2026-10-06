@@ -213,6 +213,7 @@ git push
 | [0275-h-index-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0275-h-index-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
@@ -361,6 +362,7 @@ git push
 | [0349-intersection-of-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -386,6 +388,7 @@ git push
 | [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
@@ -398,6 +401,7 @@ git push
 | [0064-minimum-path-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -510,6 +514,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
