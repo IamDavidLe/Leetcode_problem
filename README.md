@@ -221,6 +221,7 @@ git push
 | [0240-search-a-2d-matrix-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0275-h-index-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -252,6 +253,7 @@ git push
 | [0031-next-permutation](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
@@ -371,6 +373,7 @@ git push
 | [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
@@ -511,6 +514,7 @@ git push
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -524,6 +528,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -564,4 +569,8 @@ git push
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
