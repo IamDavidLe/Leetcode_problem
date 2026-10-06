@@ -205,6 +205,7 @@ git push
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
@@ -320,6 +321,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0202-happy-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
@@ -376,6 +378,7 @@ git push
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0169-majority-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -479,6 +482,7 @@ git push
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Bit Manipulation
@@ -512,6 +516,7 @@ git push
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
@@ -528,4 +533,8 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
