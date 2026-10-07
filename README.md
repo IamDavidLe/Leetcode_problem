@@ -211,6 +211,7 @@ git push
 | [0064-minimum-path-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0088-merge-sorted-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
@@ -251,6 +252,7 @@ git push
 | [0027-remove-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0088-merge-sorted-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
@@ -399,6 +401,7 @@ git push
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
