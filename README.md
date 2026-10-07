@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 161 solved — 59 Easy · 93 Medium · 9 Hard
+**Public stats:** 168 solved — 61 Easy · 97 Medium · 10 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 155**
+**Solutions in this repository: 161**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -64,6 +64,7 @@
 | 79 | [Word Search](LeetCode/Medium/0079-word-search/) | Medium | Python |
 | 81 | [Search in Rotated Sorted Array Ii](LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Unknown | Python |
 | 82 | [Remove Duplicates From Sorted List Ii](LeetCode/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium | Python |
+| 88 | [Merge Sorted Array](LeetCode/Easy/0088-merge-sorted-array/) | Unknown | Python |
 | 91 | [Decode Ways](LeetCode/Medium/0091-decode-ways/) | Medium | Python |
 | 94 | [Binary Tree Inorder Traversal](LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy | Python |
 | 98 | [Validate Binary Search Tree](LeetCode/Medium/0098-validate-binary-search-tree/) | Medium | Python |
@@ -91,6 +92,7 @@
 | 162 | [Find Peak Element](LeetCode/Medium/0162-find-peak-element/) | Unknown | Python |
 | 167 | [Two Sum Ii Input Array Is Sorted](LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Unknown | Python |
 | 169 | [Majority Element](LeetCode/Easy/0169-majority-element/) | Unknown | Python |
+| 179 | [Largest Number](LeetCode/Medium/0179-largest-number/) | Unknown | Python |
 | 187 | [Repeated Dna Sequences](LeetCode/Medium/0187-repeated-dna-sequences/) | Unknown | Python |
 | 191 | [Number Of 1 Bits](LeetCode/Easy/0191-number-of-1-bits/) | Easy | Python |
 | 198 | [House Robber](LeetCode/Medium/0198-house-robber/) | Medium | Python |
@@ -110,8 +112,11 @@
 | 242 | [Valid Anagram](LeetCode/Easy/0242-valid-anagram/) | Unknown | Python |
 | 268 | [Missing Number](LeetCode/Easy/0268-missing-number/) | Unknown | Python |
 | 275 | [H Index Ii](LeetCode/Medium/0275-h-index-ii/) | Unknown | Python |
+| 278 | [First Bad Version](LeetCode/Easy/0278-first-bad-version/) | Unknown | Python |
 | 279 | [Perfect Squares](LeetCode/Medium/0279-perfect-squares/) | Medium | Python |
+| 287 | [Find the Duplicate Number](LeetCode/Medium/0287-find-the-duplicate-number/) | Unknown | Python |
 | 290 | [Word Pattern](LeetCode/Easy/0290-word-pattern/) | Unknown | Python |
+| 301 | [Remove Invalid Parentheses](LeetCode/Hard/0301-remove-invalid-parentheses/) | Unknown | Python |
 | 322 | [Coin Change](LeetCode/Medium/0322-coin-change/) | Medium | Python |
 | 347 | [Top K Frequent Elements](LeetCode/Medium/0347-top-k-frequent-elements/) | Unknown | Python |
 | 349 | [Intersection of Two Arrays](LeetCode/Easy/0349-intersection-of-two-arrays/) | Unknown | Python |
@@ -123,6 +128,7 @@
 | 389 | [Find the Difference](LeetCode/Easy/0389-find-the-difference/) | Unknown | Python |
 | 409 | [Longest Palindrome](LeetCode/Easy/0409-longest-palindrome/) | Unknown | Python |
 | 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium | Python |
+| 436 | [Find Right Interval](LeetCode/Medium/0436-find-right-interval/) | Unknown | Python |
 | 438 | [Find All Anagrams in a String](LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Unknown | Python |
 | 442 | [Find All Duplicates in an Array](LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Unknown | Python |
 | 448 | [Find All Numbers Disappeared in an Array](LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Unknown | Python |
