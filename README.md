@@ -275,6 +275,7 @@ git push
 | [0344-reverse-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -301,6 +302,7 @@ git push
 | [0383-ransom-note](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
@@ -324,6 +326,7 @@ git push
 | [0064-minimum-path-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
+| [0392-is-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
