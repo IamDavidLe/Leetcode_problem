@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 168 solved — 61 Easy · 97 Medium · 10 Hard
+**Public stats:** 173 solved — 64 Easy · 99 Medium · 10 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 161**
+**Solutions in this repository: 166**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -82,14 +82,17 @@
 | 116 | [Populating Next Right Pointers In Each Node](LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium | Python |
 | 118 | [Pascals Triangle](LeetCode/Easy/0118-pascals-triangle/) | Easy | Python |
 | 119 | [Pascals Triangle Ii](LeetCode/Easy/0119-pascals-triangle-ii/) | Unknown | Python |
+| 125 | [Valid Palindrome](LeetCode/Easy/0125-valid-palindrome/) | Unknown | Python |
 | 128 | [Longest Consecutive Sequence](LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium | Python |
 | 129 | [Sum Root To Leaf Numbers](LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium | Python |
 | 136 | [Single Number](LeetCode/Easy/0136-single-number/) | Easy | Python |
 | 144 | [Binary Tree Preorder Traversal](LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy | Python |
 | 145 | [Binary Tree Postorder Traversal](LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy | Python |
+| 151 | [Reverse Words in a String](LeetCode/Medium/0151-reverse-words-in-a-string/) | Unknown | Python |
 | 152 | [Maximum Product Subarray](LeetCode/Medium/0152-maximum-product-subarray/) | Medium | Python |
 | 153 | [Find Minimum in Rotated Sorted Array](LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Unknown | Python |
 | 162 | [Find Peak Element](LeetCode/Medium/0162-find-peak-element/) | Unknown | Python |
+| 165 | [Compare Version Numbers](LeetCode/Medium/0165-compare-version-numbers/) | Unknown | Python |
 | 167 | [Two Sum Ii Input Array Is Sorted](LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Unknown | Python |
 | 169 | [Majority Element](LeetCode/Easy/0169-majority-element/) | Unknown | Python |
 | 179 | [Largest Number](LeetCode/Medium/0179-largest-number/) | Unknown | Python |
@@ -130,6 +133,7 @@
 | 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium | Python |
 | 436 | [Find Right Interval](LeetCode/Medium/0436-find-right-interval/) | Unknown | Python |
 | 438 | [Find All Anagrams in a String](LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Unknown | Python |
+| 441 | [Arranging Coins](LeetCode/Easy/0441-arranging-coins/) | Unknown | Python |
 | 442 | [Find All Duplicates in an Array](LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Unknown | Python |
 | 448 | [Find All Numbers Disappeared in an Array](LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Unknown | Python |
 | 451 | [Sort Characters by Frequency](LeetCode/Medium/0451-sort-characters-by-frequency/) | Unknown | Python |
@@ -140,6 +144,7 @@
 | 856 | [Score of Parentheses](LeetCode/Medium/0856-score-of-parentheses/) | Unknown | Python |
 | 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
 | 921 | [Minimum Add to Make Parentheses Valid](LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Unknown | Python |
+| 1021 | [Remove Outermost Parentheses](LeetCode/Easy/1021-remove-outermost-parentheses/) | Unknown | Python |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
 | 1096 | [Brace Expansion Ii](LeetCode/Hard/1096-brace-expansion-ii/) | Unknown | Python |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Unknown | Python |
