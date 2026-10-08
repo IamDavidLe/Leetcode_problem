@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 173 solved — 64 Easy · 99 Medium · 10 Hard
+**Public stats:** 174 solved — 65 Easy · 99 Medium · 10 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 166**
+**Solutions in this repository: 167**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -117,6 +117,7 @@
 | 275 | [H Index Ii](LeetCode/Medium/0275-h-index-ii/) | Unknown | Python |
 | 278 | [First Bad Version](LeetCode/Easy/0278-first-bad-version/) | Unknown | Python |
 | 279 | [Perfect Squares](LeetCode/Medium/0279-perfect-squares/) | Medium | Python |
+| 283 | [Move Zeroes](LeetCode/Easy/0283-move-zeroes/) | Unknown | Python |
 | 287 | [Find the Duplicate Number](LeetCode/Medium/0287-find-the-duplicate-number/) | Unknown | Python |
 | 290 | [Word Pattern](LeetCode/Easy/0290-word-pattern/) | Unknown | Python |
 | 301 | [Remove Invalid Parentheses](LeetCode/Hard/0301-remove-invalid-parentheses/) | Unknown | Python |
