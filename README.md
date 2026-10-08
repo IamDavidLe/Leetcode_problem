@@ -260,6 +260,7 @@ git push
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
@@ -276,6 +277,7 @@ git push
 | [0043-multiply-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
