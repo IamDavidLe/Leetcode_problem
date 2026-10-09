@@ -1,0 +1,8 @@
+{
+  "problem_number": 1541,
+  "title": "Minimum Insertions to Balance a Parentheses String",
+  "slug": "minimum-insertions-to-balance-a-parentheses-string",
+  "difficulty": "Unknown",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/"
+}

@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 174 solved — 65 Easy · 99 Medium · 10 Hard
+**Public stats:** 178 solved — 68 Easy · 100 Medium · 10 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 167**
+**Solutions in this repository: 171**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -122,6 +122,8 @@
 | 290 | [Word Pattern](LeetCode/Easy/0290-word-pattern/) | Unknown | Python |
 | 301 | [Remove Invalid Parentheses](LeetCode/Hard/0301-remove-invalid-parentheses/) | Unknown | Python |
 | 322 | [Coin Change](LeetCode/Medium/0322-coin-change/) | Medium | Python |
+| 344 | [Reverse String](LeetCode/Easy/0344-reverse-string/) | Unknown | Python |
+| 345 | [Reverse Vowels of a String](LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Unknown | Python |
 | 347 | [Top K Frequent Elements](LeetCode/Medium/0347-top-k-frequent-elements/) | Unknown | Python |
 | 349 | [Intersection of Two Arrays](LeetCode/Easy/0349-intersection-of-two-arrays/) | Unknown | Python |
 | 367 | [Valid Perfect Square](LeetCode/Easy/0367-valid-perfect-square/) | Unknown | Python |
@@ -130,6 +132,7 @@
 | 383 | [Ransom Note](LeetCode/Easy/0383-ransom-note/) | Unknown | Python |
 | 387 | [First Unique Character in a String](LeetCode/Easy/0387-first-unique-character-in-a-string/) | Unknown | Python |
 | 389 | [Find the Difference](LeetCode/Easy/0389-find-the-difference/) | Unknown | Python |
+| 392 | [Is Subsequence](LeetCode/Easy/0392-is-subsequence/) | Unknown | Python |
 | 409 | [Longest Palindrome](LeetCode/Easy/0409-longest-palindrome/) | Unknown | Python |
 | 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium | Python |
 | 436 | [Find Right Interval](LeetCode/Medium/0436-find-right-interval/) | Unknown | Python |
@@ -154,6 +157,7 @@
 | 1401 | [Circle and Rectangle Overlapping](LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Unknown | Python |
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
 | 1520 | [Maximum Number of Non Overlapping Substrings](LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Unknown | Python |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Unknown | Python |
 | 1614 | [Maximum Nesting Depth of the Parentheses](LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Unknown | Python |
 | 1621 | [Number of Sets of K Non Overlapping Line Segments](LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Unknown | Python |
 | 1658 | [Minimum Operations to Reduce X to Zero](LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Unknown | Python |
