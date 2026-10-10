@@ -248,6 +248,7 @@ git push
 | [0349-intersection-of-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0406-queue-reconstruction-by-height/) | Medium |
+| [0414-third-maximum-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0436-find-right-interval](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -462,6 +463,7 @@ git push
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0406-queue-reconstruction-by-height/) | Medium |
+| [0414-third-maximum-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [0436-find-right-interval](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
