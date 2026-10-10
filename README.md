@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 178 solved — 68 Easy · 100 Medium · 10 Hard
+**Public stats:** 182 solved — 69 Easy · 103 Medium · 10 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 171**
+**Solutions in this repository: 174**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -120,6 +120,7 @@
 | 283 | [Move Zeroes](LeetCode/Easy/0283-move-zeroes/) | Unknown | Python |
 | 287 | [Find the Duplicate Number](LeetCode/Medium/0287-find-the-duplicate-number/) | Unknown | Python |
 | 290 | [Word Pattern](LeetCode/Easy/0290-word-pattern/) | Unknown | Python |
+| 300 | [Longest Increasing Subsequence](LeetCode/Medium/0300-longest-increasing-subsequence/) | Unknown | Python |
 | 301 | [Remove Invalid Parentheses](LeetCode/Hard/0301-remove-invalid-parentheses/) | Unknown | Python |
 | 322 | [Coin Change](LeetCode/Medium/0322-coin-change/) | Medium | Python |
 | 344 | [Reverse String](LeetCode/Easy/0344-reverse-string/) | Unknown | Python |
@@ -145,6 +146,7 @@
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
 | 678 | [Valid Parenthesis String](LeetCode/Medium/0678-valid-parenthesis-string/) | Unknown | Python |
 | 704 | [Binary Search](LeetCode/Easy/0704-binary-search/) | Unknown | Python |
+| 744 | [Find Smallest Letter Greater Than Target](LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Unknown | Python |
 | 856 | [Score of Parentheses](LeetCode/Medium/0856-score-of-parentheses/) | Unknown | Python |
 | 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
 | 921 | [Minimum Add to Make Parentheses Valid](LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Unknown | Python |
@@ -165,6 +167,7 @@
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2265 | [Count Nodes Equal To Average Of Subtree](LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium | Python |
 | 2267 | [Check If There Is a Valid Parentheses String Path](LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Unknown | Python |
+| 2333 | [Minimum Sum of Squared Difference](LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Unknown | Python |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | Python |
 | 3150 | [Shortest and Lexicographically Smallest Beautiful String](LeetCode/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | Python |
 | 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
