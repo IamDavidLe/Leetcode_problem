@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 182 solved — 69 Easy · 103 Medium · 10 Hard
+**Public stats:** 187 solved — 72 Easy · 105 Medium · 10 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 174**
+**Solutions in this repository: 179**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -134,8 +134,11 @@
 | 387 | [First Unique Character in a String](LeetCode/Easy/0387-first-unique-character-in-a-string/) | Unknown | Python |
 | 389 | [Find the Difference](LeetCode/Easy/0389-find-the-difference/) | Unknown | Python |
 | 392 | [Is Subsequence](LeetCode/Easy/0392-is-subsequence/) | Unknown | Python |
+| 406 | [Queue Reconstruction by Height](LeetCode/Medium/0406-queue-reconstruction-by-height/) | Unknown | Python |
 | 409 | [Longest Palindrome](LeetCode/Easy/0409-longest-palindrome/) | Unknown | Python |
+| 414 | [Third Maximum Number](LeetCode/Easy/0414-third-maximum-number/) | Unknown | Python |
 | 416 | [Partition Equal Subset Sum](LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium | Python |
+| 435 | [Non Overlapping Intervals](LeetCode/Medium/0435-non-overlapping-intervals/) | Unknown | Python |
 | 436 | [Find Right Interval](LeetCode/Medium/0436-find-right-interval/) | Unknown | Python |
 | 438 | [Find All Anagrams in a String](LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Unknown | Python |
 | 441 | [Arranging Coins](LeetCode/Easy/0441-arranging-coins/) | Unknown | Python |
@@ -143,6 +146,7 @@
 | 448 | [Find All Numbers Disappeared in an Array](LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Unknown | Python |
 | 451 | [Sort Characters by Frequency](LeetCode/Medium/0451-sort-characters-by-frequency/) | Unknown | Python |
 | 485 | [Max Consecutive Ones](LeetCode/Easy/0485-max-consecutive-ones/) | Unknown | Python |
+| 506 | [Relative Ranks](LeetCode/Easy/0506-relative-ranks/) | Unknown | Python |
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
 | 678 | [Valid Parenthesis String](LeetCode/Medium/0678-valid-parenthesis-string/) | Unknown | Python |
 | 704 | [Binary Search](LeetCode/Easy/0704-binary-search/) | Unknown | Python |
@@ -169,6 +173,7 @@
 | 2267 | [Check If There Is a Valid Parentheses String Path](LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Unknown | Python |
 | 2333 | [Minimum Sum of Squared Difference](LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Unknown | Python |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | Python |
+| 2778 | [Sum of Squares of Special Elements](LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Unknown | Python |
 | 3150 | [Shortest and Lexicographically Smallest Beautiful String](LeetCode/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | Python |
 | 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
