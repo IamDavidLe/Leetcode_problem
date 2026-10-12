@@ -261,6 +261,7 @@ git push
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0506-relative-ranks](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0704-binary-search](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
@@ -422,6 +423,7 @@ git push
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -464,6 +466,7 @@ git push
 | [0424-longest-repeating-character-replacement](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -491,6 +494,7 @@ git push
 | [0442-find-all-duplicates-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -641,6 +645,7 @@ git push
 | [0383-ransom-note](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
