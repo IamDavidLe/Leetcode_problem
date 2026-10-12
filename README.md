@@ -298,6 +298,7 @@ git push
 | [0345-reverse-vowels-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -329,6 +330,7 @@ git push
 | [0424-longest-repeating-character-replacement](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -419,6 +421,7 @@ git push
 | [0442-find-all-duplicates-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -460,6 +463,7 @@ git push
 | [0413-arithmetic-slices](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0413-arithmetic-slices/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
