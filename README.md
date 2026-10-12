@@ -389,6 +389,7 @@ git push
 | [0007-reverse-integer](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0050-powx-n](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
@@ -690,4 +691,8 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
