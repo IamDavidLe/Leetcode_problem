@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 192 solved — 73 Easy · 108 Medium · 11 Hard
+**Public stats:** 195 solved — 74 Easy · 110 Medium · 11 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 184**
+**Solutions in this repository: 187**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -49,6 +49,7 @@
 | 46 | [Permutations](LeetCode/Medium/0046-permutations/) | Unknown | Python |
 | 47 | [Permutations Ii](LeetCode/Medium/0047-permutations-ii/) | Medium | Python |
 | 49 | [Group Anagrams](LeetCode/Medium/0049-group-anagrams/) | Unknown | Python |
+| 50 | [Powx N](LeetCode/Medium/0050-powx-n/) | Unknown | Python |
 | 53 | [Maximum Subarray](LeetCode/Medium/0053-maximum-subarray/) | Medium | Python |
 | 55 | [Jump Game](LeetCode/Medium/0055-jump-game/) | Medium | Python |
 | 56 | [Merge Intervals](LeetCode/Medium/0056-merge-intervals/) | Unknown | Python |
@@ -94,6 +95,7 @@
 | 162 | [Find Peak Element](LeetCode/Medium/0162-find-peak-element/) | Unknown | Python |
 | 165 | [Compare Version Numbers](LeetCode/Medium/0165-compare-version-numbers/) | Unknown | Python |
 | 167 | [Two Sum Ii Input Array Is Sorted](LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Unknown | Python |
+| 168 | [Excel Sheet Column Title](LeetCode/Easy/0168-excel-sheet-column-title/) | Unknown | Python |
 | 169 | [Majority Element](LeetCode/Easy/0169-majority-element/) | Unknown | Python |
 | 179 | [Largest Number](LeetCode/Medium/0179-largest-number/) | Unknown | Python |
 | 187 | [Repeated Dna Sequences](LeetCode/Medium/0187-repeated-dna-sequences/) | Unknown | Python |
@@ -128,6 +130,7 @@
 | 347 | [Top K Frequent Elements](LeetCode/Medium/0347-top-k-frequent-elements/) | Unknown | Python |
 | 349 | [Intersection of Two Arrays](LeetCode/Easy/0349-intersection-of-two-arrays/) | Unknown | Python |
 | 367 | [Valid Perfect Square](LeetCode/Easy/0367-valid-perfect-square/) | Unknown | Python |
+| 372 | [Super Pow](LeetCode/Medium/0372-super-pow/) | Unknown | Python |
 | 374 | [Guess Number Higher or Lower](LeetCode/Easy/0374-guess-number-higher-or-lower/) | Unknown | Python |
 | 378 | [Kth Smallest Element in a Sorted Matrix](LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Unknown | Python |
 | 383 | [Ransom Note](LeetCode/Easy/0383-ransom-note/) | Unknown | Python |
