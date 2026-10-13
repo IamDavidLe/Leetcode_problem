@@ -400,6 +400,7 @@ git push
 | [0070-climbing-stairs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0372-super-pow](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0372-super-pow/) | Medium |
@@ -623,6 +624,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
+| [0231-power-of-two](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
@@ -703,6 +705,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 ## Euler's Totient Function
 | Problem Name | Difficulty |
 | ------- | ------- |
