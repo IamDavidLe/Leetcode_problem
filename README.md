@@ -250,6 +250,7 @@ git push
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
+| [0204-count-primes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
@@ -403,6 +404,7 @@ git push
 | [0171-excel-sheet-column-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
@@ -703,6 +705,7 @@ git push
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -717,4 +720,20 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0372-super-pow](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0372-super-pow/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
