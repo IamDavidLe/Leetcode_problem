@@ -325,6 +325,7 @@ git push
 | [0151-reverse-words-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0165-compare-version-numbers/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
@@ -399,6 +400,7 @@ git push
 | [0069-sqrtx](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
