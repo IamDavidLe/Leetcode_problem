@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 195 solved — 74 Easy · 110 Medium · 11 Hard
+**Public stats:** 201 solved — 76 Easy · 114 Medium · 11 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 187**
+**Solutions in this repository: 193**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -97,6 +97,8 @@
 | 167 | [Two Sum Ii Input Array Is Sorted](LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Unknown | Python |
 | 168 | [Excel Sheet Column Title](LeetCode/Easy/0168-excel-sheet-column-title/) | Unknown | Python |
 | 169 | [Majority Element](LeetCode/Easy/0169-majority-element/) | Unknown | Python |
+| 171 | [Excel Sheet Column Number](LeetCode/Easy/0171-excel-sheet-column-number/) | Unknown | Python |
+| 172 | [Factorial Trailing Zeroes](LeetCode/Medium/0172-factorial-trailing-zeroes/) | Unknown | Python |
 | 179 | [Largest Number](LeetCode/Medium/0179-largest-number/) | Unknown | Python |
 | 187 | [Repeated Dna Sequences](LeetCode/Medium/0187-repeated-dna-sequences/) | Unknown | Python |
 | 191 | [Number Of 1 Bits](LeetCode/Easy/0191-number-of-1-bits/) | Easy | Python |
@@ -104,6 +106,7 @@
 | 199 | [Binary Tree Right Side View](LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium | Python |
 | 200 | [Number Of Islands](LeetCode/Medium/0200-number-of-islands/) | Medium | Python |
 | 202 | [Happy Number](LeetCode/Easy/0202-happy-number/) | Unknown | Python |
+| 204 | [Count Primes](LeetCode/Medium/0204-count-primes/) | Unknown | Python |
 | 205 | [Isomorphic Strings](LeetCode/Easy/0205-isomorphic-strings/) | Unknown | Python |
 | 209 | [Minimum Size Subarray Sum](LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium | Python |
 | 213 | [House Robber Ii](LeetCode/Medium/0213-house-robber-ii/) | Medium | Python |
@@ -111,6 +114,7 @@
 | 219 | [Contains Duplicate Ii](LeetCode/Easy/0219-contains-duplicate-ii/) | Unknown | Python |
 | 226 | [Invert Binary Tree](LeetCode/Easy/0226-invert-binary-tree/) | Easy | Python |
 | 230 | [Kth Smallest Element In A Bst](LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium | Python |
+| 231 | [Power of Two](LeetCode/Easy/0231-power-of-two/) | Unknown | Python |
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | Python |
 | 238 | [Product Of Array Except Self](LeetCode/Medium/0238-product-of-array-except-self/) | Medium | Python |
 | 240 | [Search a 2d Matrix Ii](LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Unknown | Python |
@@ -191,6 +195,8 @@
 | 3525 | [Find X Value of Array Ii](LeetCode/Hard/3525-find-x-value-of-array-ii/) | Unknown | Python |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Unknown | Python |
 | 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
+| 3723 | [Maximize Sum of Squares of Digits](LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Unknown | Python |
+| 3727 | [Maximum Alternating Sum of Squares](LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Unknown | Python |
 | 3842 | [Toggle Light Bulbs](LeetCode/Easy/3842-toggle-light-bulbs/) | Easy | Python |
 | 3870 | [Count Commas In Range](LeetCode/Easy/3870-count-commas-in-range/) | Easy | Python |
 | 3871 | [Count Commas In Range Ii](LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium | Python |
