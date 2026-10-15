@@ -289,6 +289,7 @@ git push
 | [2333-minimum-sum-of-squared-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -463,6 +464,7 @@ git push
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -600,6 +602,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0406-queue-reconstruction-by-height/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -722,6 +725,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0406-queue-reconstruction-by-height/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
