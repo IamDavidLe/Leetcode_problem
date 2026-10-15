@@ -1,12 +1,13 @@
 class Solution:
     def sumCounts(self, nums: List[int]) -> int:
         n = len(nums)
-        level = 0
         res = 0
-        while level <= n:
-            for i in range(level, n):
-                k = len(set(nums[level:i+1]))
-                res += k * k
-            level += 1
+        for level in range(n):
+            seen = set()
 
+            for i in range(level, n):
+                seen.add(nums[i])
+                k = len(seen)
+                res += k*k
+        
         return res
