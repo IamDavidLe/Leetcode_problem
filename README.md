@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 201 solved — 76 Easy · 114 Medium · 11 Hard
+**Public stats:** 204 solved — 78 Easy · 115 Medium · 11 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 193**
+**Solutions in this repository: 196**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -160,8 +160,10 @@
 | 567 | [Permutation in String](LeetCode/Medium/0567-permutation-in-string/) | Unknown | Python |
 | 594 | [Longest Harmonious Subsequence](LeetCode/Easy/0594-longest-harmonious-subsequence/) | Unknown | Python |
 | 678 | [Valid Parenthesis String](LeetCode/Medium/0678-valid-parenthesis-string/) | Unknown | Python |
+| 692 | [Top K Frequent Words](LeetCode/Medium/0692-top-k-frequent-words/) | Unknown | Python |
 | 704 | [Binary Search](LeetCode/Easy/0704-binary-search/) | Unknown | Python |
 | 744 | [Find Smallest Letter Greater Than Target](LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Unknown | Python |
+| 819 | [Most Common Word](LeetCode/Easy/0819-most-common-word/) | Unknown | Python |
 | 856 | [Score of Parentheses](LeetCode/Medium/0856-score-of-parentheses/) | Unknown | Python |
 | 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
 | 921 | [Minimum Add to Make Parentheses Valid](LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Unknown | Python |
@@ -186,6 +188,7 @@
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | Python |
 | 2778 | [Sum of Squares of Special Elements](LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Unknown | Python |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Unknown | Python |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Unknown | Python |
 | 3150 | [Shortest and Lexicographically Smallest Beautiful String](LeetCode/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | Python |
 | 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
