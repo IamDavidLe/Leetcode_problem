@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 204 solved — 78 Easy · 115 Medium · 11 Hard
+**Public stats:** 207 solved — 78 Easy · 117 Medium · 12 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 196**
+**Solutions in this repository: 199**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -152,6 +152,7 @@
 | 438 | [Find All Anagrams in a String](LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Unknown | Python |
 | 441 | [Arranging Coins](LeetCode/Easy/0441-arranging-coins/) | Unknown | Python |
 | 442 | [Find All Duplicates in an Array](LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Unknown | Python |
+| 443 | [String Compression](LeetCode/Medium/0443-string-compression/) | Unknown | Python |
 | 448 | [Find All Numbers Disappeared in an Array](LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Unknown | Python |
 | 451 | [Sort Characters by Frequency](LeetCode/Medium/0451-sort-characters-by-frequency/) | Unknown | Python |
 | 485 | [Max Consecutive Ones](LeetCode/Easy/0485-max-consecutive-ones/) | Unknown | Python |
@@ -167,6 +168,7 @@
 | 856 | [Score of Parentheses](LeetCode/Medium/0856-score-of-parentheses/) | Unknown | Python |
 | 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
 | 921 | [Minimum Add to Make Parentheses Valid](LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Unknown | Python |
+| 970 | [Powerful Integers](LeetCode/Medium/0970-powerful-integers/) | Unknown | Python |
 | 1021 | [Remove Outermost Parentheses](LeetCode/Easy/1021-remove-outermost-parentheses/) | Unknown | Python |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
 | 1096 | [Brace Expansion Ii](LeetCode/Hard/1096-brace-expansion-ii/) | Unknown | Python |
@@ -189,6 +191,7 @@
 | 2778 | [Sum of Squares of Special Elements](LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Unknown | Python |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Unknown | Python |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Unknown | Python |
+| 2916 | [Subarrays Distinct Element Sum of Squares Ii](LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Unknown | Python |
 | 3150 | [Shortest and Lexicographically Smallest Beautiful String](LeetCode/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | Python |
 | 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
