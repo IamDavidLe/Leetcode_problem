@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 207 solved — 78 Easy · 117 Medium · 12 Hard
+**Public stats:** 208 solved — 79 Easy · 117 Medium · 12 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 199**
+**Solutions in this repository: 200**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -155,6 +155,7 @@
 | 443 | [String Compression](LeetCode/Medium/0443-string-compression/) | Unknown | Python |
 | 448 | [Find All Numbers Disappeared in an Array](LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Unknown | Python |
 | 451 | [Sort Characters by Frequency](LeetCode/Medium/0451-sort-characters-by-frequency/) | Unknown | Python |
+| 455 | [Assign Cookies](LeetCode/Easy/0455-assign-cookies/) | Unknown | Python |
 | 485 | [Max Consecutive Ones](LeetCode/Easy/0485-max-consecutive-ones/) | Unknown | Python |
 | 506 | [Relative Ranks](LeetCode/Easy/0506-relative-ranks/) | Unknown | Python |
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
