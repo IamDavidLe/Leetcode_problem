@@ -302,6 +302,7 @@ git push
 | [3524-find-x-value-of-array-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -481,6 +482,7 @@ git push
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -552,6 +554,7 @@ git push
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
