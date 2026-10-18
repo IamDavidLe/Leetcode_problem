@@ -293,6 +293,7 @@ git push
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -397,6 +398,7 @@ git push
 | [0435-non-overlapping-intervals](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -441,6 +443,7 @@ git push
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0970-powerful-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0970-powerful-integers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
@@ -449,6 +452,7 @@ git push
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -574,6 +578,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -655,6 +660,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -663,6 +669,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -670,6 +677,7 @@ git push
 | [0240-search-a-2d-matrix-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0372-super-pow](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0372-super-pow/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -800,4 +808,16 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
