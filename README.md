@@ -587,6 +587,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0386-lexicographical-numbers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0386-lexicographical-numbers/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -665,6 +666,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
+| [0386-lexicographical-numbers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0386-lexicographical-numbers/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
