@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 208 solved — 79 Easy · 117 Medium · 12 Hard
+**Public stats:** 213 solved — 81 Easy · 119 Medium · 13 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 200**
+**Solutions in this repository: 205**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -138,6 +138,7 @@
 | 374 | [Guess Number Higher or Lower](LeetCode/Easy/0374-guess-number-higher-or-lower/) | Unknown | Python |
 | 378 | [Kth Smallest Element in a Sorted Matrix](LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Unknown | Python |
 | 383 | [Ransom Note](LeetCode/Easy/0383-ransom-note/) | Unknown | Python |
+| 386 | [Lexicographical Numbers](LeetCode/Medium/0386-lexicographical-numbers/) | Unknown | Python |
 | 387 | [First Unique Character in a String](LeetCode/Easy/0387-first-unique-character-in-a-string/) | Unknown | Python |
 | 389 | [Find the Difference](LeetCode/Easy/0389-find-the-difference/) | Unknown | Python |
 | 392 | [Is Subsequence](LeetCode/Easy/0392-is-subsequence/) | Unknown | Python |
@@ -168,6 +169,8 @@
 | 819 | [Most Common Word](LeetCode/Easy/0819-most-common-word/) | Unknown | Python |
 | 856 | [Score of Parentheses](LeetCode/Medium/0856-score-of-parentheses/) | Unknown | Python |
 | 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
+| 884 | [Uncommon Words From Two Sentences](LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Unknown | Python |
+| 914 | [X of a Kind in a Deck of Cards](LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Unknown | Python |
 | 921 | [Minimum Add to Make Parentheses Valid](LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Unknown | Python |
 | 970 | [Powerful Integers](LeetCode/Medium/0970-powerful-integers/) | Unknown | Python |
 | 1021 | [Remove Outermost Parentheses](LeetCode/Easy/1021-remove-outermost-parentheses/) | Unknown | Python |
@@ -180,6 +183,7 @@
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
 | 1520 | [Maximum Number of Non Overlapping Substrings](LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Unknown | Python |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Unknown | Python |
+| 1569 | [Number of Ways to Reorder Array to Get Same Bst](LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Unknown | Python |
 | 1614 | [Maximum Nesting Depth of the Parentheses](LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Unknown | Python |
 | 1621 | [Number of Sets of K Non Overlapping Line Segments](LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Unknown | Python |
 | 1658 | [Minimum Operations to Reduce X to Zero](LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Unknown | Python |
@@ -201,6 +205,7 @@
 | 3524 | [Find X Value of Array I](LeetCode/Medium/3524-find-x-value-of-array-i/) | Unknown | Python |
 | 3525 | [Find X Value of Array Ii](LeetCode/Hard/3525-find-x-value-of-array-ii/) | Unknown | Python |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Unknown | Python |
+| 3551 | [Minimum Swaps to Sort by Digit Sum](LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Unknown | Python |
 | 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
 | 3723 | [Maximize Sum of Squares of Digits](LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Unknown | Python |
 | 3727 | [Maximum Alternating Sum of Squares](LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Unknown | Python |
