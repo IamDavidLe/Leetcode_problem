@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 213 solved — 81 Easy · 119 Medium · 13 Hard
+**Public stats:** 216 solved — 83 Easy · 120 Medium · 13 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 205**
+**Solutions in this repository: 208**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -158,6 +158,8 @@
 | 451 | [Sort Characters by Frequency](LeetCode/Medium/0451-sort-characters-by-frequency/) | Unknown | Python |
 | 455 | [Assign Cookies](LeetCode/Easy/0455-assign-cookies/) | Unknown | Python |
 | 485 | [Max Consecutive Ones](LeetCode/Easy/0485-max-consecutive-ones/) | Unknown | Python |
+| 491 | [Non Decreasing Subsequences](LeetCode/Medium/0491-non-decreasing-subsequences/) | Unknown | Python |
+| 496 | [Next Greater Element I](LeetCode/Easy/0496-next-greater-element-i/) | Unknown | Python |
 | 506 | [Relative Ranks](LeetCode/Easy/0506-relative-ranks/) | Unknown | Python |
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
 | 567 | [Permutation in String](LeetCode/Medium/0567-permutation-in-string/) | Unknown | Python |
@@ -189,6 +191,7 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Unknown | Python |
 | 1807 | [Evaluate the Bracket Pairs of a String](LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Unknown | Python |
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
+| 2089 | [Find Target Indices After Sorting Array](LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Unknown | Python |
 | 2265 | [Count Nodes Equal To Average Of Subtree](LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium | Python |
 | 2267 | [Check If There Is a Valid Parentheses String Path](LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Unknown | Python |
 | 2333 | [Minimum Sum of Squared Difference](LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Unknown | Python |
