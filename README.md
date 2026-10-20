@@ -359,6 +359,7 @@ git push
 | [0049-group-anagrams](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0165-compare-version-numbers/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0168-excel-sheet-column-title/) | Easy |
@@ -405,6 +406,7 @@ git push
 | [0064-minimum-path-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0413-arithmetic-slices](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0413-arithmetic-slices/) | Medium |
@@ -616,6 +618,7 @@ git push
 | [0077-combinations](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
