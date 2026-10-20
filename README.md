@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 216 solved — 83 Easy · 120 Medium · 13 Hard
+**Public stats:** 221 solved — 83 Easy · 124 Medium · 14 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 208**
+**Solutions in this repository: 213**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -62,10 +62,13 @@
 | 69 | [Sqrtx](LeetCode/Easy/0069-sqrtx/) | Unknown | Python |
 | 70 | [Climbing Stairs](LeetCode/Easy/0070-climbing-stairs/) | Unknown | Python |
 | 74 | [Search a 2d Matrix](LeetCode/Medium/0074-search-a-2d-matrix/) | Unknown | Python |
+| 77 | [Combinations](LeetCode/Medium/0077-combinations/) | Unknown | Python |
+| 78 | [Subsets](LeetCode/Medium/0078-subsets/) | Unknown | Python |
 | 79 | [Word Search](LeetCode/Medium/0079-word-search/) | Medium | Python |
 | 81 | [Search in Rotated Sorted Array Ii](LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Unknown | Python |
 | 82 | [Remove Duplicates From Sorted List Ii](LeetCode/Medium/0082-remove-duplicates-from-sorted-list-ii/) | Medium | Python |
 | 88 | [Merge Sorted Array](LeetCode/Easy/0088-merge-sorted-array/) | Unknown | Python |
+| 90 | [Subsets Ii](LeetCode/Medium/0090-subsets-ii/) | Unknown | Python |
 | 91 | [Decode Ways](LeetCode/Medium/0091-decode-ways/) | Medium | Python |
 | 94 | [Binary Tree Inorder Traversal](LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy | Python |
 | 98 | [Validate Binary Search Tree](LeetCode/Medium/0098-validate-binary-search-tree/) | Medium | Python |
@@ -86,6 +89,7 @@
 | 125 | [Valid Palindrome](LeetCode/Easy/0125-valid-palindrome/) | Unknown | Python |
 | 128 | [Longest Consecutive Sequence](LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium | Python |
 | 129 | [Sum Root To Leaf Numbers](LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium | Python |
+| 131 | [Palindrome Partitioning](LeetCode/Medium/0131-palindrome-partitioning/) | Unknown | Python |
 | 136 | [Single Number](LeetCode/Easy/0136-single-number/) | Easy | Python |
 | 144 | [Binary Tree Preorder Traversal](LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy | Python |
 | 145 | [Binary Tree Postorder Traversal](LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy | Python |
@@ -217,6 +221,7 @@
 | 3871 | [Count Commas In Range Ii](LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium | Python |
 | 3875 | [Construct Uniform Parity Array I](LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy | Python |
 | 3876 | [Construct Uniform Parity Array Ii](LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium | Python |
+| 3886 | [Sum of Sortable Integers](LeetCode/Hard/3886-sum-of-sortable-integers/) | Unknown | Python |
 | 3903 | [Smallest Stable Index I](LeetCode/Easy/3903-smallest-stable-index-i/) | Easy | Python |
 | 3904 | [Smallest Stable Index Ii](LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium | Python |
 | 4080 | [Smallest Missing Multiple of K](LeetCode/Easy/4080-smallest-missing-multiple-of-k/) | Easy | Python |
