@@ -319,6 +319,7 @@ git push
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +465,7 @@ git push
 | [3525-find-x-value-of-array-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -584,6 +586,7 @@ git push
 | [2333-minimum-sum-of-squared-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -800,6 +803,7 @@ git push
 | [0204-count-primes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0970-powerful-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0970-powerful-integers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
