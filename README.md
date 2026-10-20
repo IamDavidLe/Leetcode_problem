@@ -308,6 +308,7 @@ git push
 | [0819-most-common-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -397,6 +398,7 @@ git push
 | [1021-remove-outermost-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -511,6 +513,7 @@ git push
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0970-powerful-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0970-powerful-integers/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -768,6 +771,7 @@ git push
 | [0819-most-common-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
