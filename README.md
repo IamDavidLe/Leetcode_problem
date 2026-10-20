@@ -398,6 +398,7 @@ git push
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -434,6 +435,7 @@ git push
 | [0455-assign-cookies](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -766,6 +768,7 @@ git push
 | [0819-most-common-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
