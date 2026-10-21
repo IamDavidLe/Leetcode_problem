@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 221 solved — 83 Easy · 124 Medium · 14 Hard
+**Public stats:** 223 solved — 85 Easy · 124 Medium · 14 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 213**
+**Solutions in this repository: 215**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -183,7 +183,9 @@
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
 | 1096 | [Brace Expansion Ii](LeetCode/Hard/1096-brace-expansion-ii/) | Unknown | Python |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Unknown | Python |
+| 1160 | [Find Words That Can Be Formed by Characters](LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Unknown | Python |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Unknown | Python |
+| 1221 | [Split a String in Balanced Strings](LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Unknown | Python |
 | 1299 | [Replace Elements With Greatest Element on Right Side](LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Unknown | Python |
 | 1401 | [Circle and Rectangle Overlapping](LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Unknown | Python |
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
