@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 223 solved — 85 Easy · 124 Medium · 14 Hard
+**Public stats:** 224 solved — 85 Easy · 125 Medium · 14 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 215**
+**Solutions in this repository: 216**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -219,6 +219,7 @@
 | 3723 | [Maximize Sum of Squares of Digits](LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Unknown | Python |
 | 3727 | [Maximum Alternating Sum of Squares](LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Unknown | Python |
 | 3842 | [Toggle Light Bulbs](LeetCode/Easy/3842-toggle-light-bulbs/) | Easy | Python |
+| 3863 | [Minimum Operations to Sort a String](LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Unknown | Python |
 | 3870 | [Count Commas In Range](LeetCode/Easy/3870-count-commas-in-range/) | Easy | Python |
 | 3871 | [Count Commas In Range Ii](LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium | Python |
 | 3875 | [Construct Uniform Parity Array I](LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy | Python |
