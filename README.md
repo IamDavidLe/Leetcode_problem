@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 224 solved — 85 Easy · 125 Medium · 14 Hard
+**Public stats:** 231 solved — 87 Easy · 130 Medium · 14 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 216**
+**Solutions in this repository: 223**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -161,10 +161,15 @@
 | 448 | [Find All Numbers Disappeared in an Array](LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Unknown | Python |
 | 451 | [Sort Characters by Frequency](LeetCode/Medium/0451-sort-characters-by-frequency/) | Unknown | Python |
 | 455 | [Assign Cookies](LeetCode/Easy/0455-assign-cookies/) | Unknown | Python |
+| 462 | [Minimum Moves to Equal Array Elements Ii](LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Unknown | Python |
 | 485 | [Max Consecutive Ones](LeetCode/Easy/0485-max-consecutive-ones/) | Unknown | Python |
 | 491 | [Non Decreasing Subsequences](LeetCode/Medium/0491-non-decreasing-subsequences/) | Unknown | Python |
 | 496 | [Next Greater Element I](LeetCode/Easy/0496-next-greater-element-i/) | Unknown | Python |
 | 506 | [Relative Ranks](LeetCode/Easy/0506-relative-ranks/) | Unknown | Python |
+| 524 | [Longest Word in Dictionary Through Deleting](LeetCode/Medium/0524-longest-word-in-dictionary-through-deleting/) | Unknown | Python |
+| 532 | [K Diff Pairs in an Array](LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Unknown | Python |
+| 541 | [Reverse String Ii](LeetCode/Easy/0541-reverse-string-ii/) | Unknown | Python |
+| 557 | [Reverse Words in a String Iii](LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Unknown | Python |
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
 | 567 | [Permutation in String](LeetCode/Medium/0567-permutation-in-string/) | Unknown | Python |
 | 594 | [Longest Harmonious Subsequence](LeetCode/Easy/0594-longest-harmonious-subsequence/) | Unknown | Python |
@@ -215,6 +220,7 @@
 | 3525 | [Find X Value of Array Ii](LeetCode/Hard/3525-find-x-value-of-array-ii/) | Unknown | Python |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Unknown | Python |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Unknown | Python |
+| 3644 | [Maximum K to Sort a Permutation](LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Unknown | Python |
 | 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
 | 3723 | [Maximize Sum of Squares of Digits](LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Unknown | Python |
 | 3727 | [Maximum Alternating Sum of Squares](LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Unknown | Python |
@@ -227,6 +233,7 @@
 | 3886 | [Sum of Sortable Integers](LeetCode/Hard/3886-sum-of-sortable-integers/) | Unknown | Python |
 | 3903 | [Smallest Stable Index I](LeetCode/Easy/3903-smallest-stable-index-i/) | Easy | Python |
 | 3904 | [Smallest Stable Index Ii](LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium | Python |
+| 3942 | [Minimum Operations to Sort a Permutation](LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Unknown | Python |
 | 4080 | [Smallest Missing Multiple of K](LeetCode/Easy/4080-smallest-missing-multiple-of-k/) | Easy | Python |
 
 <!-- leetcode-progress:end -->
