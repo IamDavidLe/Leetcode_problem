@@ -329,6 +329,7 @@ git push
 | [3525-find-x-value-of-array-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -742,6 +743,7 @@ git push
 | [0389-find-the-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
