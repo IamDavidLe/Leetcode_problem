@@ -751,6 +751,7 @@ git push
 | ------- | ------- |
 | [0169-majority-element](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0372-super-pow](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0372-super-pow/) | Medium |
@@ -764,6 +765,7 @@ git push
 | [0137-single-number-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
