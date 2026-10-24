@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 231 solved — 87 Easy · 130 Medium · 14 Hard
+**Public stats:** 232 solved — 88 Easy · 130 Medium · 14 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 223**
+**Solutions in this repository: 224**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -206,6 +206,7 @@
 | 2265 | [Count Nodes Equal To Average Of Subtree](LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium | Python |
 | 2267 | [Check If There Is a Valid Parentheses String Path](LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Unknown | Python |
 | 2333 | [Minimum Sum of Squared Difference](LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Unknown | Python |
+| 2409 | [Count Days Spent Together](LeetCode/Easy/2409-count-days-spent-together/) | Unknown | Python |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | Python |
 | 2778 | [Sum of Squares of Special Elements](LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Unknown | Python |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Unknown | Python |
