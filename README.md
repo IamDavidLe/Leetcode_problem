@@ -278,6 +278,7 @@ git push
 | [0039-combination-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
@@ -482,6 +483,7 @@ git push
 | [0007-reverse-integer](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
@@ -640,6 +642,7 @@ git push
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
