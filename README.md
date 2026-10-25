@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 236 solved — 90 Easy · 132 Medium · 14 Hard
+**Public stats:** 238 solved — 90 Easy · 134 Medium · 14 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 228**
+**Solutions in this repository: 230**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -48,9 +48,11 @@
 | 45 | [Jump Game Ii](LeetCode/Medium/0045-jump-game-ii/) | Medium | Python |
 | 46 | [Permutations](LeetCode/Medium/0046-permutations/) | Unknown | Python |
 | 47 | [Permutations Ii](LeetCode/Medium/0047-permutations-ii/) | Medium | Python |
+| 48 | [Rotate Image](LeetCode/Medium/0048-rotate-image/) | Unknown | Python |
 | 49 | [Group Anagrams](LeetCode/Medium/0049-group-anagrams/) | Unknown | Python |
 | 50 | [Powx N](LeetCode/Medium/0050-powx-n/) | Unknown | Python |
 | 53 | [Maximum Subarray](LeetCode/Medium/0053-maximum-subarray/) | Medium | Python |
+| 54 | [Spiral Matrix](LeetCode/Medium/0054-spiral-matrix/) | Unknown | Python |
 | 55 | [Jump Game](LeetCode/Medium/0055-jump-game/) | Medium | Python |
 | 56 | [Merge Intervals](LeetCode/Medium/0056-merge-intervals/) | Unknown | Python |
 | 58 | [Length of Last Word](LeetCode/Easy/0058-length-of-last-word/) | Unknown | Python |
