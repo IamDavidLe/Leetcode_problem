@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 238 solved — 90 Easy · 134 Medium · 14 Hard
+**Public stats:** 243 solved — 91 Easy · 138 Medium · 14 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 230**
+**Solutions in this repository: 235**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -164,6 +164,7 @@
 | 441 | [Arranging Coins](LeetCode/Easy/0441-arranging-coins/) | Unknown | Python |
 | 442 | [Find All Duplicates in an Array](LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Unknown | Python |
 | 443 | [String Compression](LeetCode/Medium/0443-string-compression/) | Unknown | Python |
+| 447 | [Number of Boomerangs](LeetCode/Medium/0447-number-of-boomerangs/) | Unknown | Python |
 | 448 | [Find All Numbers Disappeared in an Array](LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Unknown | Python |
 | 451 | [Sort Characters by Frequency](LeetCode/Medium/0451-sort-characters-by-frequency/) | Unknown | Python |
 | 455 | [Assign Cookies](LeetCode/Easy/0455-assign-cookies/) | Unknown | Python |
@@ -171,7 +172,9 @@
 | 485 | [Max Consecutive Ones](LeetCode/Easy/0485-max-consecutive-ones/) | Unknown | Python |
 | 491 | [Non Decreasing Subsequences](LeetCode/Medium/0491-non-decreasing-subsequences/) | Unknown | Python |
 | 496 | [Next Greater Element I](LeetCode/Easy/0496-next-greater-element-i/) | Unknown | Python |
+| 500 | [Keyboard Row](LeetCode/Easy/0500-keyboard-row/) | Unknown | Python |
 | 506 | [Relative Ranks](LeetCode/Easy/0506-relative-ranks/) | Unknown | Python |
+| 523 | [Continuous Subarray Sum](LeetCode/Medium/0523-continuous-subarray-sum/) | Unknown | Python |
 | 524 | [Longest Word in Dictionary Through Deleting](LeetCode/Medium/0524-longest-word-in-dictionary-through-deleting/) | Unknown | Python |
 | 532 | [K Diff Pairs in an Array](LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Unknown | Python |
 | 541 | [Reverse String Ii](LeetCode/Easy/0541-reverse-string-ii/) | Unknown | Python |
@@ -197,6 +200,7 @@
 | 1160 | [Find Words That Can Be Formed by Characters](LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Unknown | Python |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Unknown | Python |
 | 1221 | [Split a String in Balanced Strings](LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Unknown | Python |
+| 1254 | [Number of Closed Islands](LeetCode/Medium/1254-number-of-closed-islands/) | Unknown | Python |
 | 1299 | [Replace Elements With Greatest Element on Right Side](LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Unknown | Python |
 | 1401 | [Circle and Rectangle Overlapping](LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Unknown | Python |
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
@@ -227,6 +231,7 @@
 | 3525 | [Find X Value of Array Ii](LeetCode/Hard/3525-find-x-value-of-array-ii/) | Unknown | Python |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Unknown | Python |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Unknown | Python |
+| 3619 | [Count Islands With Total Value Divisible by K](LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Unknown | Python |
 | 3644 | [Maximum K to Sort a Permutation](LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Unknown | Python |
 | 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
 | 3723 | [Maximize Sum of Squares of Digits](LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Unknown | Python |

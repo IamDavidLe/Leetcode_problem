@@ -1,0 +1,8 @@
+{
+  "problem_number": 3619,
+  "title": "Count Islands With Total Value Divisible by K",
+  "slug": "count-islands-with-total-value-divisible-by-k",
+  "difficulty": "Unknown",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/"
+}
