@@ -324,6 +324,7 @@ git push
 | [0496-next-greater-element-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
@@ -359,6 +360,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -509,6 +511,7 @@ git push
 | [0441-arranging-coins](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0447-number-of-boomerangs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0447-number-of-boomerangs/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0970-powerful-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0970-powerful-integers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -552,6 +555,7 @@ git push
 | [0491-non-decreasing-subsequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
@@ -868,6 +872,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
