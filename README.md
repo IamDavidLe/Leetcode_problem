@@ -332,6 +332,7 @@ git push
 | [0875-koko-eating-bananas](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -653,6 +654,7 @@ git push
 | [0074-search-a-2d-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -743,6 +745,7 @@ git push
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -753,6 +756,7 @@ git push
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0386-lexicographical-numbers/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -912,6 +916,7 @@ git push
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
