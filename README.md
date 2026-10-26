@@ -315,6 +315,7 @@ git push
 | [0435-non-overlapping-intervals](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0436-find-right-interval/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0447-number-of-boomerangs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0447-number-of-boomerangs/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -506,6 +507,7 @@ git push
 | [0367-valid-perfect-square](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0372-super-pow](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0372-super-pow/) | Medium |
 | [0441-arranging-coins](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
+| [0447-number-of-boomerangs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0447-number-of-boomerangs/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0970-powerful-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0970-powerful-integers/) | Medium |
@@ -544,6 +546,7 @@ git push
 | [0424-longest-repeating-character-replacement](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0447-number-of-boomerangs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0447-number-of-boomerangs/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
