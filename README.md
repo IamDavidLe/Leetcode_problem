@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 243 solved — 91 Easy · 138 Medium · 14 Hard
+**Public stats:** 249 solved — 95 Easy · 140 Medium · 14 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 235**
+**Solutions in this repository: 241**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -176,16 +176,20 @@
 | 506 | [Relative Ranks](LeetCode/Easy/0506-relative-ranks/) | Unknown | Python |
 | 523 | [Continuous Subarray Sum](LeetCode/Medium/0523-continuous-subarray-sum/) | Unknown | Python |
 | 524 | [Longest Word in Dictionary Through Deleting](LeetCode/Medium/0524-longest-word-in-dictionary-through-deleting/) | Unknown | Python |
+| 525 | [Contiguous Array](LeetCode/Medium/0525-contiguous-array/) | Unknown | Python |
 | 532 | [K Diff Pairs in an Array](LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Unknown | Python |
 | 541 | [Reverse String Ii](LeetCode/Easy/0541-reverse-string-ii/) | Unknown | Python |
 | 557 | [Reverse Words in a String Iii](LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Unknown | Python |
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
+| 566 | [Reshape the Matrix](LeetCode/Easy/0566-reshape-the-matrix/) | Unknown | Python |
 | 567 | [Permutation in String](LeetCode/Medium/0567-permutation-in-string/) | Unknown | Python |
 | 594 | [Longest Harmonious Subsequence](LeetCode/Easy/0594-longest-harmonious-subsequence/) | Unknown | Python |
+| 599 | [Minimum Index Sum of Two Lists](LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Unknown | Python |
 | 678 | [Valid Parenthesis String](LeetCode/Medium/0678-valid-parenthesis-string/) | Unknown | Python |
 | 692 | [Top K Frequent Words](LeetCode/Medium/0692-top-k-frequent-words/) | Unknown | Python |
 | 704 | [Binary Search](LeetCode/Easy/0704-binary-search/) | Unknown | Python |
 | 744 | [Find Smallest Letter Greater Than Target](LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Unknown | Python |
+| 769 | [Max Chunks to Make Sorted](LeetCode/Medium/0769-max-chunks-to-make-sorted/) | Unknown | Python |
 | 819 | [Most Common Word](LeetCode/Easy/0819-most-common-word/) | Unknown | Python |
 | 856 | [Score of Parentheses](LeetCode/Medium/0856-score-of-parentheses/) | Unknown | Python |
 | 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
@@ -211,6 +215,7 @@
 | 1621 | [Number of Sets of K Non Overlapping Line Segments](LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Unknown | Python |
 | 1658 | [Minimum Operations to Reduce X to Zero](LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Unknown | Python |
 | 1807 | [Evaluate the Bracket Pairs of a String](LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Unknown | Python |
+| 2022 | [Convert 1d Array Into 2d Array](LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Unknown | Python |
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2089 | [Find Target Indices After Sorting Array](LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Unknown | Python |
 | 2265 | [Count Nodes Equal To Average Of Subtree](LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium | Python |
@@ -246,6 +251,7 @@
 | 3903 | [Smallest Stable Index I](LeetCode/Easy/3903-smallest-stable-index-i/) | Easy | Python |
 | 3904 | [Smallest Stable Index Ii](LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium | Python |
 | 3942 | [Minimum Operations to Sort a Permutation](LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Unknown | Python |
+| 3963 | [Create Grid With Exactly One Path](LeetCode/Easy/3963-create-grid-with-exactly-one-path/) | Unknown | Python |
 | 4080 | [Smallest Missing Multiple of K](LeetCode/Easy/4080-smallest-missing-multiple-of-k/) | Easy | Python |
 
 <!-- leetcode-progress:end -->
