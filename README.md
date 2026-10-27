@@ -333,6 +333,7 @@ git push
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0525-contiguous-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
@@ -632,6 +633,7 @@ git push
 | [0043-multiply-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Sorting
@@ -678,6 +680,7 @@ git push
 | [0074-search-a-2d-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
