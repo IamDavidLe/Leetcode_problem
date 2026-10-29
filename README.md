@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 249 solved — 95 Easy · 140 Medium · 14 Hard
+**Public stats:** 252 solved — 97 Easy · 141 Medium · 14 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 241**
+**Solutions in this repository: 244**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -187,6 +187,7 @@
 | 599 | [Minimum Index Sum of Two Lists](LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Unknown | Python |
 | 678 | [Valid Parenthesis String](LeetCode/Medium/0678-valid-parenthesis-string/) | Unknown | Python |
 | 692 | [Top K Frequent Words](LeetCode/Medium/0692-top-k-frequent-words/) | Unknown | Python |
+| 697 | [Degree of an Array](LeetCode/Easy/0697-degree-of-an-array/) | Unknown | Python |
 | 704 | [Binary Search](LeetCode/Easy/0704-binary-search/) | Unknown | Python |
 | 744 | [Find Smallest Letter Greater Than Target](LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Unknown | Python |
 | 769 | [Max Chunks to Make Sorted](LeetCode/Medium/0769-max-chunks-to-make-sorted/) | Unknown | Python |
@@ -218,6 +219,7 @@
 | 2022 | [Convert 1d Array Into 2d Array](LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Unknown | Python |
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2089 | [Find Target Indices After Sorting Array](LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Unknown | Python |
+| 2144 | [Minimum Cost of Buying Candies With Discount](LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Unknown | Python |
 | 2265 | [Count Nodes Equal To Average Of Subtree](LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium | Python |
 | 2267 | [Check If There Is a Valid Parentheses String Path](LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Unknown | Python |
 | 2333 | [Minimum Sum of Squared Difference](LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Unknown | Python |
@@ -247,6 +249,7 @@
 | 3871 | [Count Commas In Range Ii](LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium | Python |
 | 3875 | [Construct Uniform Parity Array I](LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy | Python |
 | 3876 | [Construct Uniform Parity Array Ii](LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium | Python |
+| 3882 | [Minimum Xor Path in a Grid](LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Unknown | Python |
 | 3886 | [Sum of Sortable Integers](LeetCode/Hard/3886-sum-of-sortable-integers/) | Unknown | Python |
 | 3903 | [Smallest Stable Index I](LeetCode/Easy/3903-smallest-stable-index-i/) | Easy | Python |
 | 3904 | [Smallest Stable Index Ii](LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium | Python |
