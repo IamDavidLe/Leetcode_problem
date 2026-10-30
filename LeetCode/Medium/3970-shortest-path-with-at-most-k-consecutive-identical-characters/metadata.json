@@ -1,0 +1,8 @@
+{
+  "problem_number": 3970,
+  "title": "Shortest Path With at Most K Consecutive Identical Characters",
+  "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+  "difficulty": "Unknown",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/"
+}
