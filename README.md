@@ -375,6 +375,7 @@ git push
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -471,6 +472,7 @@ git push
 | [2409-count-days-spent-together](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -772,6 +774,7 @@ git push
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -802,6 +805,7 @@ git push
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -809,6 +813,7 @@ git push
 | [0386-lexicographical-numbers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0386-lexicographical-numbers/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -824,6 +829,7 @@ git push
 | [0347-top-k-frequent-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0372-super-pow](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0372-super-pow/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -841,6 +847,7 @@ git push
 | [0491-non-decreasing-subsequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -922,6 +929,7 @@ git push
 | [0406-queue-reconstruction-by-height](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0406-queue-reconstruction-by-height/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
