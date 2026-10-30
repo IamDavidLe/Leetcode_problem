@@ -356,6 +356,7 @@ git push
 | [0853-car-fleet](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -659,6 +660,7 @@ git push
 | [0067-add-binary](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [0844-backspace-string-compare](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Sorting
@@ -797,6 +799,7 @@ git push
 | [0853-car-fleet](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0856-score-of-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
