@@ -414,6 +414,7 @@ git push
 | [0541-reverse-string-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -459,6 +460,7 @@ git push
 | [0678-valid-parenthesis-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
+| [0844-backspace-string-compare](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -655,6 +657,7 @@ git push
 | [0054-spiral-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
+| [0844-backspace-string-compare](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Sorting
@@ -788,6 +791,7 @@ git push
 | [0496-next-greater-element-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0769-max-chunks-to-make-sorted/) | Medium |
+| [0844-backspace-string-compare](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
