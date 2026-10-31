@@ -468,6 +468,7 @@ git push
 | [0856-score-of-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -803,6 +804,7 @@ git push
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0962-maximum-width-ramp/) | Medium |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
