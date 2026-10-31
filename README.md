@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 254 solved — 97 Easy · 142 Medium · 15 Hard
+**Public stats:** 261 solved — 98 Easy · 148 Medium · 15 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 246**
+**Solutions in this repository: 253**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -192,12 +192,18 @@
 | 744 | [Find Smallest Letter Greater Than Target](LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Unknown | Python |
 | 769 | [Max Chunks to Make Sorted](LeetCode/Medium/0769-max-chunks-to-make-sorted/) | Unknown | Python |
 | 819 | [Most Common Word](LeetCode/Easy/0819-most-common-word/) | Unknown | Python |
+| 844 | [Backspace String Compare](LeetCode/Easy/0844-backspace-string-compare/) | Unknown | Python |
+| 853 | [Car Fleet](LeetCode/Medium/0853-car-fleet/) | Unknown | Python |
 | 856 | [Score of Parentheses](LeetCode/Medium/0856-score-of-parentheses/) | Unknown | Python |
 | 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
 | 884 | [Uncommon Words From Two Sentences](LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Unknown | Python |
+| 907 | [Sum of Subarray Minimums](LeetCode/Medium/0907-sum-of-subarray-minimums/) | Unknown | Python |
 | 914 | [X of a Kind in a Deck of Cards](LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Unknown | Python |
 | 921 | [Minimum Add to Make Parentheses Valid](LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Unknown | Python |
+| 946 | [Validate Stack Sequences](LeetCode/Medium/0946-validate-stack-sequences/) | Unknown | Python |
+| 962 | [Maximum Width Ramp](LeetCode/Medium/0962-maximum-width-ramp/) | Unknown | Python |
 | 970 | [Powerful Integers](LeetCode/Medium/0970-powerful-integers/) | Unknown | Python |
+| 1003 | [Check If Word Is Valid After Substitutions](LeetCode/Medium/1003-check-if-word-is-valid-after-substitutions/) | Unknown | Python |
 | 1021 | [Remove Outermost Parentheses](LeetCode/Easy/1021-remove-outermost-parentheses/) | Unknown | Python |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
 | 1096 | [Brace Expansion Ii](LeetCode/Hard/1096-brace-expansion-ii/) | Unknown | Python |
@@ -240,6 +246,7 @@
 | 3551 | [Minimum Swaps to Sort by Digit Sum](LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Unknown | Python |
 | 3619 | [Count Islands With Total Value Divisible by K](LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Unknown | Python |
 | 3644 | [Maximum K to Sort a Permutation](LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Unknown | Python |
+| 3665 | [Twisted Mirror Path Count](LeetCode/Medium/3665-twisted-mirror-path-count/) | Unknown | Python |
 | 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
 | 3723 | [Maximize Sum of Squares of Digits](LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Unknown | Python |
 | 3727 | [Maximum Alternating Sum of Squares](LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Unknown | Python |
