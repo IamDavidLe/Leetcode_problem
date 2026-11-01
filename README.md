@@ -340,6 +340,7 @@ git push
 | [0442-find-all-duplicates-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0447-number-of-boomerangs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0447-number-of-boomerangs/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
@@ -557,6 +558,7 @@ git push
 | [0372-super-pow](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0372-super-pow/) | Medium |
 | [0441-arranging-coins](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0447-number-of-boomerangs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0447-number-of-boomerangs/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
