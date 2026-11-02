@@ -835,6 +835,7 @@ git push
 | [0301-remove-invalid-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/IamDavidLe/Leetcode_problem/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -842,6 +843,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/IamDavidLe/Leetcode_problem/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
@@ -851,6 +853,7 @@ git push
 | [0386-lexicographical-numbers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0386-lexicographical-numbers/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/IamDavidLe/Leetcode_problem/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
