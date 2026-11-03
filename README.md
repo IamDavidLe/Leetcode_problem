@@ -379,6 +379,7 @@ git push
 | [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1366-rank-teams-by-votes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1366-rank-teams-by-votes/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -636,6 +637,7 @@ git push
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1366-rank-teams-by-votes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1366-rank-teams-by-votes/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1370-increasing-decreasing-string/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -952,6 +954,7 @@ git push
 | [1221-split-a-string-in-balanced-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1366-rank-teams-by-votes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1366-rank-teams-by-votes/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1370-increasing-decreasing-string/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
