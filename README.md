@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 266 solved — 101 Easy · 150 Medium · 15 Hard
+**Public stats:** 269 solved — 102 Easy · 152 Medium · 15 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 258**
+**Solutions in this repository: 260**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -196,6 +196,7 @@
 | 704 | [Binary Search](LeetCode/Easy/0704-binary-search/) | Unknown | Python |
 | 744 | [Find Smallest Letter Greater Than Target](LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Unknown | Python |
 | 769 | [Max Chunks to Make Sorted](LeetCode/Medium/0769-max-chunks-to-make-sorted/) | Unknown | Python |
+| 791 | [Custom Sort String](LeetCode/Medium/0791-custom-sort-string/) | Unknown | Python |
 | 819 | [Most Common Word](LeetCode/Easy/0819-most-common-word/) | Unknown | Python |
 | 844 | [Backspace String Compare](LeetCode/Easy/0844-backspace-string-compare/) | Unknown | Python |
 | 853 | [Car Fleet](LeetCode/Medium/0853-car-fleet/) | Unknown | Python |
@@ -255,6 +256,7 @@
 | 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
 | 3723 | [Maximize Sum of Squares of Digits](LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Unknown | Python |
 | 3727 | [Maximum Alternating Sum of Squares](LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Unknown | Python |
+| 3736 | [Minimum Moves to Equal Array Elements Iii](LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Unknown | Python |
 | 3841 | [Palindromic Path Queries in a Tree](LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Unknown | Python |
 | 3842 | [Toggle Light Bulbs](LeetCode/Easy/3842-toggle-light-bulbs/) | Easy | Python |
 | 3863 | [Minimum Operations to Sort a String](LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Unknown | Python |
