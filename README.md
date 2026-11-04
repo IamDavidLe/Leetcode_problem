@@ -380,6 +380,7 @@ git push
 | [0888-fair-candy-swap](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0962-maximum-width-ramp/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -448,6 +449,7 @@ git push
 | [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0962-maximum-width-ramp/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
@@ -746,6 +748,7 @@ git push
 | [0853-car-fleet](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0888-fair-candy-swap](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1366-rank-teams-by-votes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1366-rank-teams-by-votes/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
