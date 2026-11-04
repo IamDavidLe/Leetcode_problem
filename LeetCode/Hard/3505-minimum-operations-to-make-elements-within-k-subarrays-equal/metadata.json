@@ -1,0 +1,8 @@
+{
+  "problem_number": 3505,
+  "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+  "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+  "difficulty": "Unknown",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/"
+}

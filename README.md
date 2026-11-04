@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 269 solved — 102 Easy · 152 Medium · 15 Hard
+**Public stats:** 274 solved — 105 Easy · 153 Medium · 16 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 260**
+**Solutions in this repository: 265**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -219,6 +219,10 @@
 | 1221 | [Split a String in Balanced Strings](LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Unknown | Python |
 | 1254 | [Number of Closed Islands](LeetCode/Medium/1254-number-of-closed-islands/) | Unknown | Python |
 | 1299 | [Replace Elements With Greatest Element on Right Side](LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Unknown | Python |
+| 1366 | [Rank Teams by Votes](LeetCode/Medium/1366-rank-teams-by-votes/) | Unknown | Python |
+| 1370 | [Increasing Decreasing String](LeetCode/Easy/1370-increasing-decreasing-string/) | Unknown | Python |
+| 1394 | [Find Lucky Integer in an Array](LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Unknown | Python |
+| 1399 | [Count Largest Group](LeetCode/Easy/1399-count-largest-group/) | Unknown | Python |
 | 1401 | [Circle and Rectangle Overlapping](LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Unknown | Python |
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
 | 1520 | [Maximum Number of Non Overlapping Substrings](LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Unknown | Python |
@@ -246,6 +250,7 @@
 | 3414 | [Maximum Score Of Non Overlapping Intervals](LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
 | 3483 | [Unique 3 Digit Even Numbers](LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy | Python |
 | 3498 | [Reverse Degree of a String](LeetCode/Easy/3498-reverse-degree-of-a-string/) | Unknown | Python |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](LeetCode/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Unknown | Python |
 | 3524 | [Find X Value of Array I](LeetCode/Medium/3524-find-x-value-of-array-i/) | Unknown | Python |
 | 3525 | [Find X Value of Array Ii](LeetCode/Hard/3525-find-x-value-of-array-ii/) | Unknown | Python |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Unknown | Python |
