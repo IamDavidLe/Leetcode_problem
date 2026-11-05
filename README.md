@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 274 solved — 105 Easy · 153 Medium · 16 Hard
+**Public stats:** 279 solved — 109 Easy · 154 Medium · 16 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 265**
+**Solutions in this repository: 269**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -203,9 +203,12 @@
 | 856 | [Score of Parentheses](LeetCode/Medium/0856-score-of-parentheses/) | Unknown | Python |
 | 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
 | 884 | [Uncommon Words From Two Sentences](LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Unknown | Python |
+| 888 | [Fair Candy Swap](LeetCode/Easy/0888-fair-candy-swap/) | Unknown | Python |
+| 905 | [Sort Array by Parity](LeetCode/Easy/0905-sort-array-by-parity/) | Unknown | Python |
 | 907 | [Sum of Subarray Minimums](LeetCode/Medium/0907-sum-of-subarray-minimums/) | Unknown | Python |
 | 914 | [X of a Kind in a Deck of Cards](LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Unknown | Python |
 | 921 | [Minimum Add to Make Parentheses Valid](LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Unknown | Python |
+| 922 | [Sort Array by Parity Ii](LeetCode/Easy/0922-sort-array-by-parity-ii/) | Unknown | Python |
 | 946 | [Validate Stack Sequences](LeetCode/Medium/0946-validate-stack-sequences/) | Unknown | Python |
 | 962 | [Maximum Width Ramp](LeetCode/Medium/0962-maximum-width-ramp/) | Unknown | Python |
 | 970 | [Powerful Integers](LeetCode/Medium/0970-powerful-integers/) | Unknown | Python |
@@ -221,6 +224,7 @@
 | 1299 | [Replace Elements With Greatest Element on Right Side](LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Unknown | Python |
 | 1366 | [Rank Teams by Votes](LeetCode/Medium/1366-rank-teams-by-votes/) | Unknown | Python |
 | 1370 | [Increasing Decreasing String](LeetCode/Easy/1370-increasing-decreasing-string/) | Unknown | Python |
+| 1385 | [Find the Distance Value Between Two Arrays](LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Unknown | Python |
 | 1394 | [Find Lucky Integer in an Array](LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Unknown | Python |
 | 1399 | [Count Largest Group](LeetCode/Easy/1399-count-largest-group/) | Unknown | Python |
 | 1401 | [Circle and Rectangle Overlapping](LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Unknown | Python |
