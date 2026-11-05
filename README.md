@@ -387,6 +387,7 @@ git push
 | [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1366-rank-teams-by-votes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1366-rank-teams-by-votes/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -451,6 +452,7 @@ git push
 | [0905-sort-array-by-parity](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0962-maximum-width-ramp/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -690,6 +692,7 @@ git push
 | [0744-find-smallest-letter-greater-than-target](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -751,6 +754,7 @@ git push
 | [0922-sort-array-by-parity-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1366-rank-teams-by-votes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1366-rank-teams-by-votes/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
