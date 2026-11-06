@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 279 solved — 109 Easy · 154 Medium · 16 Hard
+**Public stats:** 280 solved — 109 Easy · 155 Medium · 16 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 269**
+**Solutions in this repository: 270**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -245,6 +245,7 @@
 | 2333 | [Minimum Sum of Squared Difference](LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Unknown | Python |
 | 2409 | [Count Days Spent Together](LeetCode/Easy/2409-count-days-spent-together/) | Unknown | Python |
 | 2472 | [Maximum Number Of Non Overlapping Palindrome Substrings](LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | Python |
+| 2747 | [Count Zero Request Servers](LeetCode/Medium/2747-count-zero-request-servers/) | Unknown | Python |
 | 2778 | [Sum of Squares of Special Elements](LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Unknown | Python |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Unknown | Python |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Unknown | Python |
