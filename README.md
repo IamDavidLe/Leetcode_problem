@@ -474,6 +474,7 @@ git push
 | [0049-group-anagrams](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0072-edit-distance](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
@@ -537,6 +538,7 @@ git push
 | [0063-unique-paths-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0264-ugly-number-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0264-ugly-number-ii/) | Medium |
