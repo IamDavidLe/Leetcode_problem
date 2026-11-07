@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 280 solved — 109 Easy · 155 Medium · 16 Hard
+**Public stats:** 286 solved — 110 Easy · 160 Medium · 16 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 270**
+**Solutions in this repository: 276**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -64,6 +64,7 @@
 | 67 | [Add Binary](LeetCode/Easy/0067-add-binary/) | Unknown | Python |
 | 69 | [Sqrtx](LeetCode/Easy/0069-sqrtx/) | Unknown | Python |
 | 70 | [Climbing Stairs](LeetCode/Easy/0070-climbing-stairs/) | Unknown | Python |
+| 72 | [Edit Distance](LeetCode/Medium/0072-edit-distance/) | Unknown | Python |
 | 74 | [Search a 2d Matrix](LeetCode/Medium/0074-search-a-2d-matrix/) | Unknown | Python |
 | 77 | [Combinations](LeetCode/Medium/0077-combinations/) | Unknown | Python |
 | 78 | [Subsets](LeetCode/Medium/0078-subsets/) | Unknown | Python |
@@ -89,6 +90,7 @@
 | 116 | [Populating Next Right Pointers In Each Node](LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium | Python |
 | 118 | [Pascals Triangle](LeetCode/Easy/0118-pascals-triangle/) | Easy | Python |
 | 119 | [Pascals Triangle Ii](LeetCode/Easy/0119-pascals-triangle-ii/) | Unknown | Python |
+| 121 | [Best Time to Buy and Sell Stock](LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Unknown | Python |
 | 125 | [Valid Palindrome](LeetCode/Easy/0125-valid-palindrome/) | Unknown | Python |
 | 128 | [Longest Consecutive Sequence](LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium | Python |
 | 129 | [Sum Root To Leaf Numbers](LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium | Python |
@@ -129,6 +131,7 @@
 | 240 | [Search a 2d Matrix Ii](LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Unknown | Python |
 | 242 | [Valid Anagram](LeetCode/Easy/0242-valid-anagram/) | Unknown | Python |
 | 260 | [Single Number Iii](LeetCode/Medium/0260-single-number-iii/) | Unknown | Python |
+| 264 | [Ugly Number Ii](LeetCode/Medium/0264-ugly-number-ii/) | Unknown | Python |
 | 268 | [Missing Number](LeetCode/Easy/0268-missing-number/) | Unknown | Python |
 | 275 | [H Index Ii](LeetCode/Medium/0275-h-index-ii/) | Unknown | Python |
 | 278 | [First Bad Version](LeetCode/Easy/0278-first-bad-version/) | Unknown | Python |
@@ -145,6 +148,7 @@
 | 349 | [Intersection of Two Arrays](LeetCode/Easy/0349-intersection-of-two-arrays/) | Unknown | Python |
 | 367 | [Valid Perfect Square](LeetCode/Easy/0367-valid-perfect-square/) | Unknown | Python |
 | 372 | [Super Pow](LeetCode/Medium/0372-super-pow/) | Unknown | Python |
+| 373 | [Find K Pairs With Smallest Sums](LeetCode/Medium/0373-find-k-pairs-with-smallest-sums/) | Unknown | Python |
 | 374 | [Guess Number Higher or Lower](LeetCode/Easy/0374-guess-number-higher-or-lower/) | Unknown | Python |
 | 378 | [Kth Smallest Element in a Sorted Matrix](LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Unknown | Python |
 | 383 | [Ransom Note](LeetCode/Easy/0383-ransom-note/) | Unknown | Python |
@@ -190,11 +194,13 @@
 | 567 | [Permutation in String](LeetCode/Medium/0567-permutation-in-string/) | Unknown | Python |
 | 594 | [Longest Harmonious Subsequence](LeetCode/Easy/0594-longest-harmonious-subsequence/) | Unknown | Python |
 | 599 | [Minimum Index Sum of Two Lists](LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Unknown | Python |
+| 658 | [Find K Closest Elements](LeetCode/Medium/0658-find-k-closest-elements/) | Unknown | Python |
 | 678 | [Valid Parenthesis String](LeetCode/Medium/0678-valid-parenthesis-string/) | Unknown | Python |
 | 692 | [Top K Frequent Words](LeetCode/Medium/0692-top-k-frequent-words/) | Unknown | Python |
 | 697 | [Degree of an Array](LeetCode/Easy/0697-degree-of-an-array/) | Unknown | Python |
 | 704 | [Binary Search](LeetCode/Easy/0704-binary-search/) | Unknown | Python |
 | 744 | [Find Smallest Letter Greater Than Target](LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Unknown | Python |
+| 767 | [Reorganize String](LeetCode/Medium/0767-reorganize-string/) | Unknown | Python |
 | 769 | [Max Chunks to Make Sorted](LeetCode/Medium/0769-max-chunks-to-make-sorted/) | Unknown | Python |
 | 791 | [Custom Sort String](LeetCode/Medium/0791-custom-sort-string/) | Unknown | Python |
 | 819 | [Most Common Word](LeetCode/Easy/0819-most-common-word/) | Unknown | Python |
