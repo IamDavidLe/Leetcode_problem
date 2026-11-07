@@ -511,6 +511,7 @@ git push
 | [0541-reverse-string-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/IamDavidLe/Leetcode_problem/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
@@ -556,6 +557,7 @@ git push
 | [0392-is-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0413-arithmetic-slices](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0413-arithmetic-slices/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/IamDavidLe/Leetcode_problem/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -1127,5 +1129,6 @@ git push
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/IamDavidLe/Leetcode_problem/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
