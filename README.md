@@ -406,6 +406,7 @@ git push
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -988,6 +989,7 @@ git push
 | [0658-find-k-closest-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Bucket Sort
