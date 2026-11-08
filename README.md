@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 286 solved — 110 Easy · 160 Medium · 16 Hard
+**Public stats:** 291 solved — 111 Easy · 164 Medium · 16 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 276**
+**Solutions in this repository: 281**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -192,6 +192,7 @@
 | 560 | [Subarray Sum Equals K](LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium | Python |
 | 566 | [Reshape the Matrix](LeetCode/Easy/0566-reshape-the-matrix/) | Unknown | Python |
 | 567 | [Permutation in String](LeetCode/Medium/0567-permutation-in-string/) | Unknown | Python |
+| 583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/) | Unknown | Python |
 | 594 | [Longest Harmonious Subsequence](LeetCode/Easy/0594-longest-harmonious-subsequence/) | Unknown | Python |
 | 599 | [Minimum Index Sum of Two Lists](LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Unknown | Python |
 | 658 | [Find K Closest Elements](LeetCode/Medium/0658-find-k-closest-elements/) | Unknown | Python |
@@ -223,10 +224,12 @@
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
 | 1096 | [Brace Expansion Ii](LeetCode/Hard/1096-brace-expansion-ii/) | Unknown | Python |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Unknown | Python |
+| 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/) | Unknown | Python |
 | 1160 | [Find Words That Can Be Formed by Characters](LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Unknown | Python |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Unknown | Python |
 | 1221 | [Split a String in Balanced Strings](LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Unknown | Python |
 | 1254 | [Number of Closed Islands](LeetCode/Medium/1254-number-of-closed-islands/) | Unknown | Python |
+| 1267 | [Count Servers That Communicate](1267-count-servers-that-communicate/) | Unknown | Python |
 | 1299 | [Replace Elements With Greatest Element on Right Side](LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Unknown | Python |
 | 1366 | [Rank Teams by Votes](LeetCode/Medium/1366-rank-teams-by-votes/) | Unknown | Python |
 | 1370 | [Increasing Decreasing String](LeetCode/Easy/1370-increasing-decreasing-string/) | Unknown | Python |
@@ -242,6 +245,8 @@
 | 1621 | [Number of Sets of K Non Overlapping Line Segments](LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Unknown | Python |
 | 1658 | [Minimum Operations to Reduce X to Zero](LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Unknown | Python |
 | 1807 | [Evaluate the Bracket Pairs of a String](LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Unknown | Python |
+| 1882 | [Process Tasks Using Servers](1882-process-tasks-using-servers/) | Unknown | Python |
+| 1957 | [Delete Characters to Make Fancy String](1957-delete-characters-to-make-fancy-string/) | Unknown | Python |
 | 2022 | [Convert 1d Array Into 2d Array](LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Unknown | Python |
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2089 | [Find Target Indices After Sorting Array](LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Unknown | Python |
