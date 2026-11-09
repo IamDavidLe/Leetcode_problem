@@ -573,6 +573,7 @@ git push
 | [0435-non-overlapping-intervals](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/IamDavidLe/Leetcode_problem/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
+| [1025-divisor-game](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -634,6 +635,7 @@ git push
 | [0523-continuous-subarray-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0970-powerful-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0970-powerful-integers/) | Medium |
+| [1025-divisor-game](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1399-count-largest-group](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1399-count-largest-group/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -1167,4 +1169,16 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
