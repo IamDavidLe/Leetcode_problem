@@ -409,6 +409,7 @@ git push
 | [0853-car-fleet](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -707,6 +708,7 @@ git push
 | [0819-most-common-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0888-fair-candy-swap](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0970-powerful-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0970-powerful-integers/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
@@ -767,6 +769,7 @@ git push
 | [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Simulation
