@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 293 solved — 111 Easy · 165 Medium · 17 Hard
+**Public stats:** 300 solved — 114 Easy · 169 Medium · 17 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 283**
+**Solutions in this repository: 290**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -91,6 +91,7 @@
 | 118 | [Pascals Triangle](LeetCode/Easy/0118-pascals-triangle/) | Easy | Python |
 | 119 | [Pascals Triangle Ii](LeetCode/Easy/0119-pascals-triangle-ii/) | Unknown | Python |
 | 121 | [Best Time to Buy and Sell Stock](LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Unknown | Python |
+| 122 | [Best Time to Buy and Sell Stock Ii](0122-best-time-to-buy-and-sell-stock-ii/) | Unknown | Python |
 | 125 | [Valid Palindrome](LeetCode/Easy/0125-valid-palindrome/) | Unknown | Python |
 | 128 | [Longest Consecutive Sequence](LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium | Python |
 | 129 | [Sum Root To Leaf Numbers](LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium | Python |
@@ -139,6 +140,7 @@
 | 283 | [Move Zeroes](LeetCode/Easy/0283-move-zeroes/) | Unknown | Python |
 | 287 | [Find the Duplicate Number](LeetCode/Medium/0287-find-the-duplicate-number/) | Unknown | Python |
 | 290 | [Word Pattern](LeetCode/Easy/0290-word-pattern/) | Unknown | Python |
+| 300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/) | Unknown | Python |
 | 300 | [Longest Increasing Subsequence](LeetCode/Medium/0300-longest-increasing-subsequence/) | Unknown | Python |
 | 301 | [Remove Invalid Parentheses](LeetCode/Hard/0301-remove-invalid-parentheses/) | Unknown | Python |
 | 309 | [Best Time to Buy and Sell Stock With Cooldown](0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Unknown | Python |
@@ -183,6 +185,7 @@
 | 496 | [Next Greater Element I](LeetCode/Easy/0496-next-greater-element-i/) | Unknown | Python |
 | 500 | [Keyboard Row](LeetCode/Easy/0500-keyboard-row/) | Unknown | Python |
 | 506 | [Relative Ranks](LeetCode/Easy/0506-relative-ranks/) | Unknown | Python |
+| 509 | [Fibonacci Number](0509-fibonacci-number/) | Unknown | Python |
 | 523 | [Continuous Subarray Sum](LeetCode/Medium/0523-continuous-subarray-sum/) | Unknown | Python |
 | 524 | [Longest Word in Dictionary Through Deleting](LeetCode/Medium/0524-longest-word-in-dictionary-through-deleting/) | Unknown | Python |
 | 525 | [Contiguous Array](LeetCode/Medium/0525-contiguous-array/) | Unknown | Python |
@@ -202,6 +205,7 @@
 | 697 | [Degree of an Array](LeetCode/Easy/0697-degree-of-an-array/) | Unknown | Python |
 | 704 | [Binary Search](LeetCode/Easy/0704-binary-search/) | Unknown | Python |
 | 744 | [Find Smallest Letter Greater Than Target](LeetCode/Easy/0744-find-smallest-letter-greater-than-target/) | Unknown | Python |
+| 746 | [Min Cost Climbing Stairs](0746-min-cost-climbing-stairs/) | Unknown | Python |
 | 767 | [Reorganize String](LeetCode/Medium/0767-reorganize-string/) | Unknown | Python |
 | 769 | [Max Chunks to Make Sorted](LeetCode/Medium/0769-max-chunks-to-make-sorted/) | Unknown | Python |
 | 791 | [Custom Sort String](LeetCode/Medium/0791-custom-sort-string/) | Unknown | Python |
@@ -214,6 +218,7 @@
 | 888 | [Fair Candy Swap](LeetCode/Easy/0888-fair-candy-swap/) | Unknown | Python |
 | 905 | [Sort Array by Parity](LeetCode/Easy/0905-sort-array-by-parity/) | Unknown | Python |
 | 907 | [Sum of Subarray Minimums](LeetCode/Medium/0907-sum-of-subarray-minimums/) | Unknown | Python |
+| 912 | [Sort an Array](LeetCode/Medium/0912-sort-an-array/) | Unknown | Python |
 | 914 | [X of a Kind in a Deck of Cards](LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Unknown | Python |
 | 921 | [Minimum Add to Make Parentheses Valid](LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Unknown | Python |
 | 922 | [Sort Array by Parity Ii](LeetCode/Easy/0922-sort-array-by-parity-ii/) | Unknown | Python |
@@ -222,6 +227,7 @@
 | 970 | [Powerful Integers](LeetCode/Medium/0970-powerful-integers/) | Unknown | Python |
 | 1003 | [Check If Word Is Valid After Substitutions](LeetCode/Medium/1003-check-if-word-is-valid-after-substitutions/) | Unknown | Python |
 | 1021 | [Remove Outermost Parentheses](LeetCode/Easy/1021-remove-outermost-parentheses/) | Unknown | Python |
+| 1025 | [Divisor Game](LeetCode/Easy/1025-divisor-game/) | Unknown | Python |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
 | 1096 | [Brace Expansion Ii](LeetCode/Hard/1096-brace-expansion-ii/) | Unknown | Python |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Unknown | Python |
@@ -276,6 +282,7 @@
 | 3619 | [Count Islands With Total Value Divisible by K](LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Unknown | Python |
 | 3644 | [Maximum K to Sort a Permutation](LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Unknown | Python |
 | 3665 | [Twisted Mirror Path Count](LeetCode/Medium/3665-twisted-mirror-path-count/) | Unknown | Python |
+| 3693 | [Climbing Stairs Ii](3693-climbing-stairs-ii/) | Unknown | Python |
 | 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
 | 3723 | [Maximize Sum of Squares of Digits](LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Unknown | Python |
 | 3727 | [Maximum Alternating Sum of Squares](LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Unknown | Python |
