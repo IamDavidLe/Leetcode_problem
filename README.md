@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 300 solved — 114 Easy · 169 Medium · 17 Hard
+**Public stats:** 302 solved — 114 Easy · 171 Medium · 17 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 290**
+**Solutions in this repository: 292**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -216,12 +216,14 @@
 | 875 | [Koko Eating Bananas](LeetCode/Medium/0875-koko-eating-bananas/) | Unknown | Python |
 | 884 | [Uncommon Words From Two Sentences](LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Unknown | Python |
 | 888 | [Fair Candy Swap](LeetCode/Easy/0888-fair-candy-swap/) | Unknown | Python |
+| 904 | [Fruit Into Baskets](LeetCode/Medium/0904-fruit-into-baskets/) | Unknown | Python |
 | 905 | [Sort Array by Parity](LeetCode/Easy/0905-sort-array-by-parity/) | Unknown | Python |
 | 907 | [Sum of Subarray Minimums](LeetCode/Medium/0907-sum-of-subarray-minimums/) | Unknown | Python |
 | 912 | [Sort an Array](LeetCode/Medium/0912-sort-an-array/) | Unknown | Python |
 | 914 | [X of a Kind in a Deck of Cards](LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Unknown | Python |
 | 921 | [Minimum Add to Make Parentheses Valid](LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Unknown | Python |
 | 922 | [Sort Array by Parity Ii](LeetCode/Easy/0922-sort-array-by-parity-ii/) | Unknown | Python |
+| 930 | [Binary Subarrays With Sum](LeetCode/Medium/0930-binary-subarrays-with-sum/) | Unknown | Python |
 | 946 | [Validate Stack Sequences](LeetCode/Medium/0946-validate-stack-sequences/) | Unknown | Python |
 | 962 | [Maximum Width Ramp](LeetCode/Medium/0962-maximum-width-ramp/) | Unknown | Python |
 | 970 | [Powerful Integers](LeetCode/Medium/0970-powerful-integers/) | Unknown | Python |
