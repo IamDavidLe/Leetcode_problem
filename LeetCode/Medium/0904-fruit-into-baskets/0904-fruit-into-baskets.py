@@ -11,7 +11,7 @@ class Solution:
                     del hashmap[fruits[l]]
                 l += 1
             
-            max_length = max(max_length, sum(hashmap.values()))
+            max_length = max(max_length, r - l + 1)
             r += 1
         
         return max_length
