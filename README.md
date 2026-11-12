@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 302 solved — 114 Easy · 171 Medium · 17 Hard
+**Public stats:** 304 solved — 115 Easy · 172 Medium · 17 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 292**
+**Solutions in this repository: 293**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -271,6 +271,7 @@
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Unknown | Python |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Unknown | Python |
 | 2916 | [Subarrays Distinct Element Sum of Squares Ii](LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Unknown | Python |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Unknown | Python |
 | 3150 | [Shortest and Lexicographically Smallest Beautiful String](LeetCode/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | Python |
 | 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
