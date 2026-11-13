@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 304 solved — 115 Easy · 172 Medium · 17 Hard
+**Public stats:** 307 solved — 117 Easy · 173 Medium · 17 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 293**
+**Solutions in this repository: 295**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -199,6 +199,8 @@
 | 583 | [Delete Operation for Two Strings](0583-delete-operation-for-two-strings/) | Unknown | Python |
 | 594 | [Longest Harmonious Subsequence](LeetCode/Easy/0594-longest-harmonious-subsequence/) | Unknown | Python |
 | 599 | [Minimum Index Sum of Two Lists](LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Unknown | Python |
+| 645 | [Set Mismatch](LeetCode/Easy/0645-set-mismatch/) | Unknown | Python |
+| 646 | [Maximum Length of Pair Chain](LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Unknown | Python |
 | 658 | [Find K Closest Elements](LeetCode/Medium/0658-find-k-closest-elements/) | Unknown | Python |
 | 678 | [Valid Parenthesis String](LeetCode/Medium/0678-valid-parenthesis-string/) | Unknown | Python |
 | 692 | [Top K Frequent Words](LeetCode/Medium/0692-top-k-frequent-words/) | Unknown | Python |
