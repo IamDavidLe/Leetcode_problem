@@ -401,6 +401,7 @@ git push
 | [0566-reshape-the-matrix](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0645-set-mismatch](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0697-degree-of-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0697-degree-of-an-array/) | Easy |
@@ -705,6 +706,7 @@ git push
 | [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0645-set-mismatch](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0697-degree-of-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0697-degree-of-an-array/) | Easy |
 | [0767-reorganize-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
@@ -813,6 +815,7 @@ git push
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
+| [0645-set-mismatch](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
@@ -1007,6 +1010,7 @@ git push
 | [0287-find-the-duplicate-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
+| [0645-set-mismatch](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
