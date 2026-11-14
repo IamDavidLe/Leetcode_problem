@@ -1,0 +1,8 @@
+{
+  "problem_number": 3420,
+  "title": "Count Non Decreasing Subarrays After K Operations",
+  "slug": "count-non-decreasing-subarrays-after-k-operations",
+  "difficulty": "Unknown",
+  "language": "Python",
+  "leetcode_url": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/"
+}

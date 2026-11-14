@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 307 solved — 117 Easy · 173 Medium · 17 Hard
+**Public stats:** 311 solved — 119 Easy · 174 Medium · 18 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 295**
+**Solutions in this repository: 298**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -186,6 +186,7 @@
 | 500 | [Keyboard Row](LeetCode/Easy/0500-keyboard-row/) | Unknown | Python |
 | 506 | [Relative Ranks](LeetCode/Easy/0506-relative-ranks/) | Unknown | Python |
 | 509 | [Fibonacci Number](0509-fibonacci-number/) | Unknown | Python |
+| 515 | [Find Largest Value in Each Tree Row](LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Unknown | Python |
 | 523 | [Continuous Subarray Sum](LeetCode/Medium/0523-continuous-subarray-sum/) | Unknown | Python |
 | 524 | [Longest Word in Dictionary Through Deleting](LeetCode/Medium/0524-longest-word-in-dictionary-through-deleting/) | Unknown | Python |
 | 525 | [Contiguous Array](LeetCode/Medium/0525-contiguous-array/) | Unknown | Python |
@@ -276,7 +277,9 @@
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Unknown | Python |
 | 3150 | [Shortest and Lexicographically Smallest Beautiful String](LeetCode/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | Python |
 | 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
+| 3364 | [Minimum Positive Sum Subarray](LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Unknown | Python |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
+| 3420 | [Count Non Decreasing Subarrays After K Operations](LeetCode/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Unknown | Python |
 | 3483 | [Unique 3 Digit Even Numbers](LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy | Python |
 | 3498 | [Reverse Degree of a String](LeetCode/Easy/3498-reverse-degree-of-a-string/) | Unknown | Python |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](LeetCode/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Unknown | Python |
