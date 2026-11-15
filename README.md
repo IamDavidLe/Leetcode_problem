@@ -434,6 +434,7 @@ git push
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -470,6 +471,7 @@ git push
 | [0238-product-of-array-except-self](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 ## Two Pointers
@@ -603,6 +605,7 @@ git push
 | [1025-divisor-game](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -668,6 +671,7 @@ git push
 | [1025-divisor-game](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1399-count-largest-group](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1399-count-largest-group/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2409-count-days-spent-together](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
