@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 311 solved — 119 Easy · 174 Medium · 18 Hard
+**Public stats:** 312 solved — 119 Easy · 175 Medium · 18 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 298**
+**Solutions in this repository: 299**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -251,6 +251,7 @@
 | 1401 | [Circle and Rectangle Overlapping](LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Unknown | Python |
 | 1477 | [Find Two Non Overlapping Sub Arrays Each With Target Sum](LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Unknown | Python |
 | 1520 | [Maximum Number of Non Overlapping Substrings](LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Unknown | Python |
+| 1524 | [Number of Sub Arrays With Odd Sum](1524-number-of-sub-arrays-with-odd-sum/) | Unknown | Python |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Unknown | Python |
 | 1569 | [Number of Ways to Reorder Array to Get Same Bst](LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Unknown | Python |
 | 1606 | [Find Servers That Handled Most Number of Requests](1606-find-servers-that-handled-most-number-of-requests/) | Unknown | Python |
