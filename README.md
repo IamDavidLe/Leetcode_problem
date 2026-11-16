@@ -681,6 +681,7 @@ git push
 | [3524-find-x-value-of-array-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
