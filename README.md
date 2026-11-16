@@ -461,6 +461,7 @@ git push
 | [3665-twisted-mirror-path-count](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/IamDavidLe/Leetcode_problem/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3731-find-missing-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -749,6 +750,7 @@ git push
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3731-find-missing-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -857,6 +859,7 @@ git push
 | [2333-minimum-sum-of-squared-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3731-find-missing-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
