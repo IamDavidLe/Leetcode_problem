@@ -3,7 +3,6 @@ class Solution:
         n = len(s)
         inf = float("inf")
 
-        # divisors[length] chứa các ước d hợp lệ của length.
         divisors = [[] for _ in range(n + 1)]
         for d in range(1, n // 2 + 1):
             for length in range(2 * d, n + 1, d):
