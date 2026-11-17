@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 312 solved — 119 Easy · 175 Medium · 18 Hard
+**Public stats:** 316 solved — 123 Easy · 175 Medium · 18 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 299**
+**Solutions in this repository: 303**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -265,6 +265,7 @@
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2089 | [Find Target Indices After Sorting Array](LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Unknown | Python |
 | 2144 | [Minimum Cost of Buying Candies With Discount](LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Unknown | Python |
+| 2243 | [Calculate Digit Sum of a String](LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Unknown | Python |
 | 2265 | [Count Nodes Equal To Average Of Subtree](LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium | Python |
 | 2267 | [Check If There Is a Valid Parentheses String Path](LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Unknown | Python |
 | 2333 | [Minimum Sum of Squared Difference](LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Unknown | Python |
@@ -277,6 +278,7 @@
 | 2916 | [Subarrays Distinct Element Sum of Squares Ii](LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Unknown | Python |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Unknown | Python |
 | 3150 | [Shortest and Lexicographically Smallest Beautiful String](LeetCode/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | Python |
+| 3345 | [Smallest Divisible Digit Product I](LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Unknown | Python |
 | 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
 | 3364 | [Minimum Positive Sum Subarray](LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Unknown | Python |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
@@ -289,12 +291,14 @@
 | 3550 | [Smallest Index With Digit Sum Equal to Index](LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Unknown | Python |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Unknown | Python |
 | 3619 | [Count Islands With Total Value Divisible by K](LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Unknown | Python |
+| 3622 | [Check Divisibility by Digit Sum and Product](LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Unknown | Python |
 | 3644 | [Maximum K to Sort a Permutation](LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Unknown | Python |
 | 3665 | [Twisted Mirror Path Count](LeetCode/Medium/3665-twisted-mirror-path-count/) | Unknown | Python |
 | 3693 | [Climbing Stairs Ii](3693-climbing-stairs-ii/) | Unknown | Python |
 | 3705 | [Find the Largest Almost Missing Integer](LeetCode/Easy/3705-find-the-largest-almost-missing-integer/) | Easy | Python |
 | 3723 | [Maximize Sum of Squares of Digits](LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Unknown | Python |
 | 3727 | [Maximum Alternating Sum of Squares](LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Unknown | Python |
+| 3731 | [Find Missing Elements](LeetCode/Easy/3731-find-missing-elements/) | Unknown | Python |
 | 3736 | [Minimum Moves to Equal Array Elements Iii](LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Unknown | Python |
 | 3841 | [Palindromic Path Queries in a Tree](LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Unknown | Python |
 | 3842 | [Toggle Light Bulbs](LeetCode/Easy/3842-toggle-light-bulbs/) | Easy | Python |
