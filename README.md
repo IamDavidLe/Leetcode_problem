@@ -422,6 +422,7 @@ git push
 | [0746-min-cost-climbing-stairs](https://github.com/IamDavidLe/Leetcode_problem/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0769-max-chunks-to-make-sorted/) | Medium |
 | [0819-most-common-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0821-shortest-distance-to-a-character/) | Easy |
 | [0853-car-fleet](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0888-fair-candy-swap/) | Easy |
@@ -508,6 +509,7 @@ git push
 | [0557-reverse-words-in-a-string-iii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
+| [0821-shortest-distance-to-a-character](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
@@ -563,6 +565,7 @@ git push
 | [0767-reorganize-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0791-custom-sort-string/) | Medium |
 | [0819-most-common-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
