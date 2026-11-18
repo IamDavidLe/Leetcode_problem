@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 316 solved — 123 Easy · 175 Medium · 18 Hard
+**Public stats:** 317 solved — 123 Easy · 175 Medium · 19 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 303**
+**Solutions in this repository: 304**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -274,6 +274,7 @@
 | 2747 | [Count Zero Request Servers](LeetCode/Medium/2747-count-zero-request-servers/) | Unknown | Python |
 | 2778 | [Sum of Squares of Special Elements](LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Unknown | Python |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Unknown | Python |
+| 2911 | [Minimum Changes to Make K Semi Palindromes](LeetCode/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Unknown | Python |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Unknown | Python |
 | 2916 | [Subarrays Distinct Element Sum of Squares Ii](LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Unknown | Python |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Unknown | Python |
