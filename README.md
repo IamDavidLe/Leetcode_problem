@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 317 solved — 123 Easy · 175 Medium · 19 Hard
+**Public stats:** 319 solved — 124 Easy · 176 Medium · 19 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 304**
+**Solutions in this repository: 306**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -213,6 +213,7 @@
 | 769 | [Max Chunks to Make Sorted](LeetCode/Medium/0769-max-chunks-to-make-sorted/) | Unknown | Python |
 | 791 | [Custom Sort String](LeetCode/Medium/0791-custom-sort-string/) | Unknown | Python |
 | 819 | [Most Common Word](LeetCode/Easy/0819-most-common-word/) | Unknown | Python |
+| 821 | [Shortest Distance to a Character](LeetCode/Easy/0821-shortest-distance-to-a-character/) | Unknown | Python |
 | 844 | [Backspace String Compare](LeetCode/Easy/0844-backspace-string-compare/) | Unknown | Python |
 | 853 | [Car Fleet](LeetCode/Medium/0853-car-fleet/) | Unknown | Python |
 | 856 | [Score of Parentheses](LeetCode/Medium/0856-score-of-parentheses/) | Unknown | Python |
@@ -276,6 +277,7 @@
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Unknown | Python |
 | 2911 | [Minimum Changes to Make K Semi Palindromes](LeetCode/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Unknown | Python |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Unknown | Python |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](LeetCode/Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Unknown | Python |
 | 2916 | [Subarrays Distinct Element Sum of Squares Ii](LeetCode/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Unknown | Python |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Unknown | Python |
 | 3150 | [Shortest and Lexicographically Smallest Beautiful String](LeetCode/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | Python |
