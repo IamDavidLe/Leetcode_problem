@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 321 solved — 124 Easy · 177 Medium · 20 Hard
+**Public stats:** 322 solved — 124 Easy · 178 Medium · 20 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 308**
+**Solutions in this repository: 309**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -283,6 +283,7 @@
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Unknown | Python |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Unknown | Python |
 | 3150 | [Shortest and Lexicographically Smallest Beautiful String](LeetCode/Medium/3150-shortest-and-lexicographically-smallest-beautiful-string/) | Medium | Python |
+| 3331 | [Find Subtree Sizes After Changes](LeetCode/Medium/3331-find-subtree-sizes-after-changes/) | Unknown | Python |
 | 3345 | [Smallest Divisible Digit Product I](LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Unknown | Python |
 | 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
 | 3364 | [Minimum Positive Sum Subarray](LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Unknown | Python |
