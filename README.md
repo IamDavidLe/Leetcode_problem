@@ -520,6 +520,7 @@ git push
 | [0905-sort-array-by-parity](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
+| [0925-long-pressed-name](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0925-long-pressed-name/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0962-maximum-width-ramp/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -578,6 +579,7 @@ git push
 | [0884-uncommon-words-from-two-sentences](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0925-long-pressed-name](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0925-long-pressed-name/) | Easy |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
