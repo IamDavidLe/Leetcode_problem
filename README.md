@@ -455,6 +455,7 @@ git push
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1882-process-tasks-using-servers/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -600,6 +601,7 @@ git push
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
