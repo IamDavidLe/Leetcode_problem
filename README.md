@@ -598,6 +598,7 @@ git push
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1366-rank-teams-by-votes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1366-rank-teams-by-votes/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1370-increasing-decreasing-string/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -776,6 +777,7 @@ git push
 | [0970-powerful-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0970-powerful-integers/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1366-rank-teams-by-votes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1366-rank-teams-by-votes/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -834,6 +836,7 @@ git push
 | [0594-longest-harmonious-subsequence](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
