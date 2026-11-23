@@ -445,6 +445,7 @@ git push
 | [1254-number-of-closed-islands](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1366-rank-teams-by-votes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1366-rank-teams-by-votes/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -488,6 +489,7 @@ git push
 | [0238-product-of-array-except-self](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Easy |
@@ -699,6 +701,7 @@ git push
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0970-powerful-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0970-powerful-integers/) | Medium |
 | [1025-divisor-game](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1399-count-largest-group](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1399-count-largest-group/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -1275,4 +1278,12 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
