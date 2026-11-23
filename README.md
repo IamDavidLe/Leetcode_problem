@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 328 solved — 128 Easy · 180 Medium · 20 Hard
+**Public stats:** 330 solved — 128 Easy · 182 Medium · 20 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 315**
+**Solutions in this repository: 317**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -245,8 +245,10 @@
 | 1221 | [Split a String in Balanced Strings](LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Unknown | Python |
 | 1254 | [Number of Closed Islands](LeetCode/Medium/1254-number-of-closed-islands/) | Unknown | Python |
 | 1267 | [Count Servers That Communicate](1267-count-servers-that-communicate/) | Unknown | Python |
+| 1288 | [Remove Covered Intervals](LeetCode/Medium/1288-remove-covered-intervals/) | Unknown | Python |
 | 1299 | [Replace Elements With Greatest Element on Right Side](LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Unknown | Python |
 | 1352 | [Product of the Last K Numbers](LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Unknown | Python |
+| 1358 | [Number of Substrings Containing All Three Characters](LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Unknown | Python |
 | 1366 | [Rank Teams by Votes](LeetCode/Medium/1366-rank-teams-by-votes/) | Unknown | Python |
 | 1370 | [Increasing Decreasing String](LeetCode/Easy/1370-increasing-decreasing-string/) | Unknown | Python |
 | 1385 | [Find the Distance Value Between Two Arrays](LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Unknown | Python |
