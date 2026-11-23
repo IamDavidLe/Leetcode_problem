@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 325 solved — 127 Easy · 178 Medium · 20 Hard
+**Public stats:** 328 solved — 128 Easy · 180 Medium · 20 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 312**
+**Solutions in this repository: 315**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -246,6 +246,7 @@
 | 1254 | [Number of Closed Islands](LeetCode/Medium/1254-number-of-closed-islands/) | Unknown | Python |
 | 1267 | [Count Servers That Communicate](1267-count-servers-that-communicate/) | Unknown | Python |
 | 1299 | [Replace Elements With Greatest Element on Right Side](LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Unknown | Python |
+| 1352 | [Product of the Last K Numbers](LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Unknown | Python |
 | 1366 | [Rank Teams by Votes](LeetCode/Medium/1366-rank-teams-by-votes/) | Unknown | Python |
 | 1370 | [Increasing Decreasing String](LeetCode/Easy/1370-increasing-decreasing-string/) | Unknown | Python |
 | 1385 | [Find the Distance Value Between Two Arrays](LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Unknown | Python |
@@ -262,8 +263,10 @@
 | 1621 | [Number of Sets of K Non Overlapping Line Segments](LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Unknown | Python |
 | 1658 | [Minimum Operations to Reduce X to Zero](LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Unknown | Python |
 | 1807 | [Evaluate the Bracket Pairs of a String](LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Unknown | Python |
+| 1846 | [Maximum Element After Decreasing and Rearranging](LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Unknown | Python |
 | 1882 | [Process Tasks Using Servers](1882-process-tasks-using-servers/) | Unknown | Python |
 | 1957 | [Delete Characters to Make Fancy String](1957-delete-characters-to-make-fancy-string/) | Unknown | Python |
+| 1967 | [Number of Strings That Appear as Substrings in Word](LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Unknown | Python |
 | 2022 | [Convert 1d Array Into 2d Array](LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Unknown | Python |
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2089 | [Find Target Indices After Sorting Array](LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Unknown | Python |
