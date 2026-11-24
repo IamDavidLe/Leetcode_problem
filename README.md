@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 330 solved — 128 Easy · 182 Medium · 20 Hard
+**Public stats:** 332 solved — 130 Easy · 182 Medium · 20 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 317**
+**Solutions in this repository: 319**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -295,6 +295,7 @@
 | 3345 | [Smallest Divisible Digit Product I](LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Unknown | Python |
 | 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
 | 3364 | [Minimum Positive Sum Subarray](LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Unknown | Python |
+| 3411 | [Maximum Subarray With Equal Products](LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Unknown | Python |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
 | 3420 | [Count Non Decreasing Subarrays After K Operations](LeetCode/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Unknown | Python |
 | 3483 | [Unique 3 Digit Even Numbers](LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy | Python |
@@ -314,6 +315,7 @@
 | 3727 | [Maximum Alternating Sum of Squares](LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Unknown | Python |
 | 3731 | [Find Missing Elements](LeetCode/Easy/3731-find-missing-elements/) | Unknown | Python |
 | 3736 | [Minimum Moves to Equal Array Elements Iii](LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Unknown | Python |
+| 3754 | [Concatenate Non Zero Digits and Multiply by Sum I](LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Unknown | Python |
 | 3841 | [Palindromic Path Queries in a Tree](LeetCode/Hard/3841-palindromic-path-queries-in-a-tree/) | Unknown | Python |
 | 3842 | [Toggle Light Bulbs](LeetCode/Easy/3842-toggle-light-bulbs/) | Easy | Python |
 | 3863 | [Minimum Operations to Sort a String](LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Unknown | Python |
