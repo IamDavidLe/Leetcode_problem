@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 332 solved — 130 Easy · 182 Medium · 20 Hard
+**Public stats:** 333 solved — 130 Easy · 182 Medium · 21 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 319**
+**Solutions in this repository: 320**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -327,6 +327,7 @@
 | 3886 | [Sum of Sortable Integers](LeetCode/Hard/3886-sum-of-sortable-integers/) | Unknown | Python |
 | 3903 | [Smallest Stable Index I](LeetCode/Easy/3903-smallest-stable-index-i/) | Easy | Python |
 | 3904 | [Smallest Stable Index Ii](LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium | Python |
+| 3934 | [Smallest Unique Subarray](LeetCode/Hard/3934-smallest-unique-subarray/) | Unknown | Python |
 | 3942 | [Minimum Operations to Sort a Permutation](LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Unknown | Python |
 | 3963 | [Create Grid With Exactly One Path](LeetCode/Easy/3963-create-grid-with-exactly-one-path/) | Unknown | Python |
 | 3970 | [Shortest Path With at Most K Consecutive Identical Characters](LeetCode/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Unknown | Python |
