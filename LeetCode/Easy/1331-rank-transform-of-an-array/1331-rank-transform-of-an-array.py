@@ -9,8 +9,7 @@ class Solution:
                 rank[num] = start
                 start += 1
         
-        res = []
-        for n in arr:
-            res.append(rank[n])
+        for i in range(len(arr)):
+            arr[i] = rank[arr[i]]
         
-        return res
+        return arr
