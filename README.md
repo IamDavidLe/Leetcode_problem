@@ -1208,6 +1208,7 @@ git push
 | ------- | ------- |
 | [0204-count-primes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0970-powerful-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0970-powerful-integers/) | Medium |
+| [1291-sequential-digits](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1291-sequential-digits/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
