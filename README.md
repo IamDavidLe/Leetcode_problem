@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 333 solved — 130 Easy · 182 Medium · 21 Hard
+**Public stats:** 336 solved — 132 Easy · 183 Medium · 21 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 320**
+**Solutions in this repository: 323**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -246,7 +246,9 @@
 | 1254 | [Number of Closed Islands](LeetCode/Medium/1254-number-of-closed-islands/) | Unknown | Python |
 | 1267 | [Count Servers That Communicate](1267-count-servers-that-communicate/) | Unknown | Python |
 | 1288 | [Remove Covered Intervals](LeetCode/Medium/1288-remove-covered-intervals/) | Unknown | Python |
+| 1291 | [Sequential Digits](LeetCode/Medium/1291-sequential-digits/) | Unknown | Python |
 | 1299 | [Replace Elements With Greatest Element on Right Side](LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Unknown | Python |
+| 1331 | [Rank Transform of an Array](LeetCode/Easy/1331-rank-transform-of-an-array/) | Unknown | Python |
 | 1352 | [Product of the Last K Numbers](LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Unknown | Python |
 | 1358 | [Number of Substrings Containing All Three Characters](LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Unknown | Python |
 | 1366 | [Rank Teams by Votes](LeetCode/Medium/1366-rank-teams-by-votes/) | Unknown | Python |
@@ -294,6 +296,7 @@
 | 3331 | [Find Subtree Sizes After Changes](LeetCode/Medium/3331-find-subtree-sizes-after-changes/) | Unknown | Python |
 | 3345 | [Smallest Divisible Digit Product I](LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Unknown | Python |
 | 3347 | [Distribute Elements Into Two Arrays I](LeetCode/Easy/3347-distribute-elements-into-two-arrays-i/) | Easy | Python |
+| 3360 | [Stone Removal Game](LeetCode/Easy/3360-stone-removal-game/) | Unknown | Python |
 | 3364 | [Minimum Positive Sum Subarray](LeetCode/Easy/3364-minimum-positive-sum-subarray/) | Unknown | Python |
 | 3411 | [Maximum Subarray With Equal Products](LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Unknown | Python |
 | 3414 | [Maximum Score Of Non Overlapping Intervals](LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard | Python |
