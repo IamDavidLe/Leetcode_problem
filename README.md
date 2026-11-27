@@ -468,6 +468,7 @@ git push
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -729,6 +730,7 @@ git push
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/IamDavidLe/Leetcode_problem/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2409-count-days-spent-together](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3360-stone-removal-game/) | Easy |
@@ -1240,6 +1242,7 @@ git push
 | ------- | ------- |
 | [0204-count-primes](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
@@ -1257,10 +1260,12 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
