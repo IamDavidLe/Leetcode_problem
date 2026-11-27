@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 336 solved — 132 Easy · 183 Medium · 21 Hard
+**Public stats:** 338 solved — 133 Easy · 184 Medium · 21 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 323**
+**Solutions in this repository: 325**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -271,6 +271,7 @@
 | 1882 | [Process Tasks Using Servers](1882-process-tasks-using-servers/) | Unknown | Python |
 | 1957 | [Delete Characters to Make Fancy String](1957-delete-characters-to-make-fancy-string/) | Unknown | Python |
 | 1967 | [Number of Strings That Appear as Substrings in Word](LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Unknown | Python |
+| 1979 | [Find Greatest Common Divisor of Array](LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Unknown | Python |
 | 2022 | [Convert 1d Array Into 2d Array](LeetCode/Easy/2022-convert-1d-array-into-2d-array/) | Unknown | Python |
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Python |
 | 2089 | [Find Target Indices After Sorting Array](LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Unknown | Python |
@@ -332,6 +333,7 @@
 | 3904 | [Smallest Stable Index Ii](LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium | Python |
 | 3934 | [Smallest Unique Subarray](LeetCode/Hard/3934-smallest-unique-subarray/) | Unknown | Python |
 | 3942 | [Minimum Operations to Sort a Permutation](LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Unknown | Python |
+| 3946 | [Maximum Number of Items From Sale I](LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Unknown | Python |
 | 3963 | [Create Grid With Exactly One Path](LeetCode/Easy/3963-create-grid-with-exactly-one-path/) | Unknown | Python |
 | 3970 | [Shortest Path With at Most K Consecutive Identical Characters](LeetCode/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Unknown | Python |
 | 4080 | [Smallest Missing Multiple of K](LeetCode/Easy/4080-smallest-missing-multiple-of-k/) | Easy | Python |
