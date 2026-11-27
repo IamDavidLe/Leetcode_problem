@@ -499,6 +499,7 @@ git push
 | [3886-sum-of-sortable-integers](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3886-sum-of-sortable-integers/) | Hard |
 | [3934-smallest-unique-subarray](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -665,6 +666,7 @@ git push
 | [3665-twisted-mirror-path-count](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/IamDavidLe/Leetcode_problem/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -689,6 +691,7 @@ git push
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
