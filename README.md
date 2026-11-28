@@ -4,11 +4,11 @@
 ## LeetCode Profile
 
 [JiaPark](https://leetcode.com/u/JiaPark/)
-**Public stats:** 338 solved — 133 Easy · 184 Medium · 21 Hard
+**Public stats:** 341 solved — 134 Easy · 186 Medium · 21 Hard
 
 ## Repository Progress
 
-**Solutions in this repository: 325**
+**Solutions in this repository: 328**
 
 | # | Problem | Difficulty | Language |
 | ---: | --- | --- | --- |
@@ -144,6 +144,7 @@
 | 300 | [Longest Increasing Subsequence](LeetCode/Medium/0300-longest-increasing-subsequence/) | Unknown | Python |
 | 301 | [Remove Invalid Parentheses](LeetCode/Hard/0301-remove-invalid-parentheses/) | Unknown | Python |
 | 309 | [Best Time to Buy and Sell Stock With Cooldown](0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Unknown | Python |
+| 316 | [Remove Duplicate Letters](LeetCode/Medium/0316-remove-duplicate-letters/) | Unknown | Python |
 | 322 | [Coin Change](LeetCode/Medium/0322-coin-change/) | Medium | Python |
 | 344 | [Reverse String](LeetCode/Easy/0344-reverse-string/) | Unknown | Python |
 | 345 | [Reverse Vowels of a String](LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Unknown | Python |
@@ -237,6 +238,7 @@
 | 1021 | [Remove Outermost Parentheses](LeetCode/Easy/1021-remove-outermost-parentheses/) | Unknown | Python |
 | 1025 | [Divisor Game](LeetCode/Easy/1025-divisor-game/) | Unknown | Python |
 | 1072 | [Flip Columns For Maximum Number Of Equal Rows](LeetCode/Medium/1072-flip-columns-for-maximum-number-of-equal-rows/) | Medium | Python |
+| 1081 | [Smallest Subsequence of Distinct Characters](LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Unknown | Python |
 | 1096 | [Brace Expansion Ii](LeetCode/Hard/1096-brace-expansion-ii/) | Unknown | Python |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Unknown | Python |
 | 1143 | [Longest Common Subsequence](1143-longest-common-subsequence/) | Unknown | Python |
@@ -307,6 +309,7 @@
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](LeetCode/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Unknown | Python |
 | 3524 | [Find X Value of Array I](LeetCode/Medium/3524-find-x-value-of-array-i/) | Unknown | Python |
 | 3525 | [Find X Value of Array Ii](LeetCode/Hard/3525-find-x-value-of-array-ii/) | Unknown | Python |
+| 3536 | [Maximum Product of Two Digits](LeetCode/Easy/3536-maximum-product-of-two-digits/) | Unknown | Python |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Unknown | Python |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Unknown | Python |
 | 3619 | [Count Islands With Total Value Divisible by K](LeetCode/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Unknown | Python |
