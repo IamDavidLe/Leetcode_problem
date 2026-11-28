@@ -744,6 +744,7 @@ git push
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -931,6 +932,7 @@ git push
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
