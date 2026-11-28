@@ -575,6 +575,7 @@ git push
 | [0242-valid-anagram](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
@@ -676,6 +677,7 @@ git push
 | [0011-container-with-most-water](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IamDavidLe/Leetcode_problem/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0179-largest-number](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0409-longest-palindrome](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
@@ -1029,6 +1031,7 @@ git push
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0769-max-chunks-to-make-sorted/) | Medium |
@@ -1286,6 +1289,7 @@ git push
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0769-max-chunks-to-make-sorted/) | Medium |
 | [0853-car-fleet](https://github.com/LearnHowToCode217/Leetcode_problem/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
